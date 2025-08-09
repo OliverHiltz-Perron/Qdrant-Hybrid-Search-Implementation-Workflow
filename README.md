@@ -268,8 +268,8 @@ Key settings in `LocalQDrant/config/config.py`:
 
 | Parameter         | Default                | Description                      |
 | ----------------- | ---------------------- | -------------------------------- |
-| `EMBEDDING_MODEL` | text-embedding-3-large | OpenAI embedding model           |
-| `LLM_MODEL`       | gpt-4-turbo            | Extraction model                 |
+| `EMBEDDING_MODEL` | text-embedding-3-small | OpenAI embedding model           |
+| `LLM_MODEL`       | gpt-4.1                | Extraction model                 |
 | `CHUNK_SIZE`      | 1000 tokens            | Semantic chunk size              |
 | `CHUNK_OVERLAP`   | 200 tokens             | Overlap for context preservation |
 | `VECTOR_WEIGHT`   | 0.7                    | Weight for semantic search       |
@@ -354,10 +354,10 @@ If you use this methodology or code in your research, please cite:
 
 ## 🙏 Acknowledgments
 
-- Built with OpenAI GPT-4 and text-embedding-3-large
 - Vector search powered by Qdrant
 - Cross-encoder reranking by Jina AI
 - Validation using Pydantic & Instructor
+
 ## 📞 Support
 
 For technical issues: Open a GitHub issue
