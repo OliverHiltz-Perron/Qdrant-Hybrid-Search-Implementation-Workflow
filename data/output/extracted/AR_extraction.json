@@ -1,0 +1,925 @@
+{
+  "metadata": {
+    "filename": "AR_PreventionPlan.md",
+    "state": "AR",
+    "document_date": null,
+    "total_pages": 48,
+    "total_tokens": 31675,
+    "title": "Five-Year Plan: 2020-2024"
+  },
+  "extracted_data": {
+    "programs_waiting_to_add": {
+      "programs": [
+        {
+          "name": "Triple P",
+          "quote": "At this time, we are exploring Triple P as it is being reviewed by the Title IV-E Clearinghouse.",
+          "status": "being reviewed by the Title IV-E Clearinghouse",
+          "timeline": "not specified",
+          "reason_waiting": "clearinghouse review"
+        },
+        {
+          "name": "YVIntercept\u2122",
+          "quote": "Arkansas contracted with NCCD to complete an independent systematic review in order to receive transitional payments for this service. NCCD determined a rating of Supported for Intercept.",
+          "status": "review completed but not approved by Title IV-E Prevention Services Clearinghouse",
+          "timeline": "not mentioned",
+          "reason_waiting": "awaiting Title IV-E Prevention Services Clearinghouse approval"
+        },
+        {
+          "name": "Family Centered Treatment (FCT)",
+          "quote": "FCT has not been evaluated by the Title IV-E Clearinghouse; however, Arkansas contracted with NCCD to complete an independent systematic review in order to receive transitional payments for this service.",
+          "status": "not yet evaluated by Title IV-E Clearinghouse",
+          "timeline": "not mentioned",
+          "reason_waiting": "waiting for Title IV-E Clearinghouse evaluation"
+        },
+        {
+          "name": "Teaching Family Model (TFM)",
+          "quote": "TFM is currently not rated by the Title IV-E Prevention Services Clearinghouse, but Arkansas believes that it meets the definition of a well-supported practice under Family First.",
+          "status": "not yet rated by Title IV-E Prevention Services Clearinghouse",
+          "timeline": "will be considered in the future for expansion of Family First",
+          "reason_waiting": "clearinghouse review"
+        },
+        {
+          "name": "Parent-Child Interaction Therapy (PCIT)",
+          "quote": "Arkansas will not be requesting reimbursement for this service at this time.",
+          "status": "reimbursement not requested currently",
+          "timeline": "",
+          "reason_waiting": "No reason explicitly stated; reimbursement is explicitly not being requested at this time."
+        },
+        {
+          "name": "Functional Family Therapy (FFT)",
+          "quote": "Arkansas is not requesting reimbursement for this service at this time.",
+          "status": "reimbursement explicitly NOT being requested currently",
+          "timeline": "",
+          "reason_waiting": "Reimbursement is not being requested at this time (reason not explicitly stated)"
+        },
+        {
+          "name": "SafeCare",
+          "quote": "SafeCare has not been rated by the Title IV-E Prevention Services Clearinghouse at this time but is scheduled to be reviewed.",
+          "status": "scheduled to be reviewed",
+          "timeline": "not specified",
+          "reason_waiting": "clearinghouse review"
+        }
+      ],
+      "total_count": 7
+    },
+    "target_populations": {
+      "populations": [
+        {
+          "group": "families involved in child welfare due to neglect",
+          "quote": "When working with families involved in child welfare due to neglect, activities focus on improving the physical condition of the home, improving supervision, decreasing parental depression and/or alcohol and substance abuse, and helping families access needed community supports.",
+          "criteria": "families must be involved in child welfare due to neglect",
+          "age_range": null,
+          "program_specific": "Homebuilders\u00ae"
+        },
+        {
+          "group": "families with children ages 0-17",
+          "quote": "this program is typically delivered in a four to six-week time frame and serves families with children ages 0-17.",
+          "criteria": "families with children ages 0-17",
+          "age_range": "0-17",
+          "program_specific": "Homebuilders\u00ae"
+        },
+        {
+          "group": "adults and children involved with child welfare",
+          "quote": "Mental health treatment for adults and children involved with child welfare are mainly covered through Medicaid and private insurance.",
+          "criteria": "involvement with child welfare",
+          "age_range": "adults and children (not further specified)",
+          "program_specific": "Mental health services/Evidence-based mental health services"
+        },
+        {
+          "group": "children and caregivers who do not have coverage",
+          "quote": "DCFS does have small contracts for counseling services for those children and caregivers who do not have coverage.",
+          "criteria": "children and caregivers lacking Medicaid or private insurance coverage",
+          "age_range": "not specified",
+          "program_specific": "Counseling services through DCFS contracts"
+        },
+        {
+          "group": "clients eligible under Family First",
+          "quote": "Providers will now report...if the client is eligible under Family First.",
+          "criteria": "eligibility under Family First Prevention Services Act",
+          "age_range": "not specified",
+          "program_specific": "Evidence-based therapies under IV-E Prevention Program"
+        },
+        {
+          "group": "traumatized children and families",
+          "quote": "ARBest is a state-funded program...which aims to improve outcomes for traumatized children and families through excellence in clinical care, training, advocacy, and evaluation.",
+          "criteria": "children and families experiencing trauma",
+          "age_range": "not specified",
+          "program_specific": "ARBest program; Trauma-Focused Cognitive Behavioral Therapy (TF-CBT), Parent Child Interaction Therapy (PCIT), Cognitive Processing Therapy (CPT), Parent Child Psychotherapy (CPP)"
+        },
+        {
+          "group": "children in foster care",
+          "quote": "ARBest to help educate DCFS staff on Trauma-Focused Cognitive Behavioral Therapy (TF-CBT) and increase the use of this therapy for children in foster care.",
+          "criteria": "children currently in foster care",
+          "age_range": "not specified",
+          "program_specific": "TF-CBT via ARBest"
+        },
+        {
+          "group": "older youth and their families",
+          "quote": "FFT is well-supported and specifically addresses the needs of older youth and their families.",
+          "criteria": "older youth and their families (not further specified)",
+          "age_range": "older youth (not numerically defined)",
+          "program_specific": "Functional Family Therapy (FFT)"
+        },
+        {
+          "group": "siblings of children in foster care",
+          "quote": "If there is a safety factor that caused the removal of one child, this indicates the remaining children may be at greater risk of coming into care.",
+          "criteria": "remaining children in a family where a sibling has been removed due to a safety factor",
+          "age_range": "not specified",
+          "program_specific": "not specified"
+        },
+        {
+          "group": "children whose parent or caregiver was in foster care as a child",
+          "quote": "The parent or caregiver was in foster care as a child",
+          "criteria": "children with a parent/caregiver who was in foster care during their childhood",
+          "age_range": "not specified",
+          "program_specific": "not specified"
+        },
+        {
+          "group": "youth that have left care at either 18 or 21 with a child",
+          "quote": "This designation also allows the Division to continue serving youth that have left care at either 18 or 21 with a child.",
+          "criteria": "youth who exited foster care at age 18 or 21 and have a child",
+          "age_range": "18 or 21 (parent); child (age not specified)",
+          "program_specific": "not specified"
+        },
+        {
+          "group": "infants and young children with Failure to Thrive (FTT)",
+          "quote": "Failure to thrive is a clinical term used by pediatric clinicians to describe infants and young children, generally three years of age and younger, who fail to grow as expected based on established growth standards for age and gender.",
+          "criteria": "infants and young children, generally three years of age and younger, with a physician-verified diagnosis of FTT at least partially due to parental/caretaker neglect",
+          "age_range": "0-3",
+          "program_specific": "not specified"
+        },
+        {
+          "group": "children 5 and under experiencing medical neglect",
+          "quote": "Medical Neglect for a child 5 and under \u2013 Arkansas defines medical neglect as a lack of medical or mental health treatment for a condition that could cause serious or long-term harm to the child if left untreated, this includes lack of follow through with a prescribed treatment plan.",
+          "criteria": "children age 5 and under with verified medical neglect that could cause serious or long-term harm",
+          "age_range": "0-5",
+          "program_specific": "not specified"
+        },
+        {
+          "group": "children 5 and under experiencing inadequate supervision",
+          "quote": "Inadequate Supervision for a child 5 and under \u2013 Inadequate supervision is defined as a parent or caretaker failing to supervise a child resulting in the child being left alone or in an inappropriate circumstance that creates a dangerous situation that puts the child at risk of harm.",
+          "criteria": "children age 5 and under with substantiated inadequate supervision due to parental/caretaker neglect",
+          "age_range": "0-5",
+          "program_specific": "not specified"
+        },
+        {
+          "group": "families affected by domestic violence",
+          "quote": "DCFS recognized that workers need more support in assessing for domestic violence and working with families where DV has occurred. DCFS is working on ways to increase workers knowledge of DV and increase appropriate services for this population.",
+          "criteria": "families where domestic violence has occurred",
+          "age_range": "not specified",
+          "program_specific": "not specified"
+        },
+        {
+          "group": "children who are at risk of placement having never been in out of home care previously",
+          "quote": "\"YVIntercept\u2122 was recently the subject of a rigorous evaluation by an independent third party that examined whether YVIntercept\u2122 (1) reduced the risk of placement into foster care among children who were at risk of placement having never been in out of home care previously...\"",
+          "criteria": "At risk of foster care placement; have never previously been in out-of-home care",
+          "age_range": "not specified",
+          "program_specific": "YVIntercept\u2122"
+        },
+        {
+          "group": "children referred to the program while in foster care",
+          "quote": "\"...and (2) affected the rate of permanency, time to permanency, and re-entry into care for children referred to the program while in foster care.\"",
+          "criteria": "Children currently in foster care who are referred to YVIntercept\u2122",
+          "age_range": "not specified",
+          "program_specific": "YVIntercept\u2122"
+        },
+        {
+          "group": "the child and the caregivers",
+          "quote": "\"Family intervention specialists work with both the child and the caregivers to address issues that are impacting the stability of the family...\"",
+          "criteria": "Families experiencing issues impacting family stability; must include a child and caregivers",
+          "age_range": "not specified",
+          "program_specific": "YVIntercept\u2122"
+        },
+        {
+          "group": "families and children needing to access community resources and long-term, ongoing support",
+          "quote": "\"...extensive help for families and children in accessing community resources and long-term, ongoing support.\"",
+          "criteria": "Families and children who require assistance accessing community resources and support",
+          "age_range": "not specified",
+          "program_specific": "YVIntercept\u2122"
+        },
+        {
+          "group": "families in need of diversion or reunification services",
+          "quote": "\"diversion services generally last four to six months, while reunification services generally last six to nine months\"",
+          "criteria": "Families identified as needing diversion (to prevent foster care) or reunification (returning child from care)",
+          "age_range": "not specified",
+          "program_specific": "YVIntercept\u2122"
+        },
+        {
+          "group": "families living in north central and eastern parts of Arkansas",
+          "quote": "\"Youth Villages has implemented Intercept\u2122 in 9 counties in north central and eastern parts of Arkansas.\"",
+          "criteria": "Families residing in those geographic areas",
+          "age_range": "not specified",
+          "program_specific": "YVIntercept\u2122"
+        },
+        {
+          "group": "Children ages 0-5 and their caregivers",
+          "quote": "SafeCare | Children ages 0-5 and their caregivers",
+          "criteria": "",
+          "age_range": "0-5",
+          "program_specific": "SafeCare"
+        },
+        {
+          "group": "Children ages 0-18 and their caregivers",
+          "quote": "YVIntercept\u2122 | Children ages 0-18 and their caregivers",
+          "criteria": "",
+          "age_range": "0-18",
+          "program_specific": "YVIntercept\u2122"
+        },
+        {
+          "group": "Children 0-18 and their caregivers",
+          "quote": "Family Centered Treatment | Children 0-18 and their caregivers",
+          "criteria": "",
+          "age_range": "0-18",
+          "program_specific": "Family Centered Treatment"
+        },
+        {
+          "group": "Families in some of the poorest areas in the nation",
+          "quote": "St. Francis included in their proposal an understanding of the challenges and impact of community poverty which is important as some of the counties where they provide services are some of the poorest areas in the nation.",
+          "criteria": "Families residing in counties identified as some of the poorest areas in the nation",
+          "age_range": "",
+          "program_specific": "Family Centered Treatment"
+        },
+        {
+          "group": "candidates for foster care",
+          "quote": "Once FFPSA eligibility (either through candidacy or as a pregnant or parenting foster youth) is established, a Prevention Plan will be accessible to complete in CHRIS.",
+          "criteria": "FFPSA eligibility through candidacy",
+          "age_range": "not specified",
+          "program_specific": "FFPSA prevention services"
+        },
+        {
+          "group": "pregnant and parenting foster youth",
+          "quote": "Once FFPSA eligibility (either through candidacy or as a pregnant or parenting foster youth) is established, a Prevention Plan will be accessible to complete in CHRIS.",
+          "criteria": "FFPSA eligibility as a pregnant or parenting foster youth",
+          "age_range": "not specified",
+          "program_specific": "FFPSA prevention services"
+        },
+        {
+          "group": "children and parents or caregivers who are eligible",
+          "quote": "the Prevention Plan will be a family plan that only identifies those children and parents or caregivers who are eligible.",
+          "criteria": "Eligibility determined separately and must be completed on each child",
+          "age_range": "not specified",
+          "program_specific": "FFPSA prevention services"
+        },
+        {
+          "group": "clients who are FFSPA eligible",
+          "quote": "the worker will be able to choose each client that is FFSPA eligible and pick a FFSPA-eligible service.",
+          "criteria": "FFPSA eligibility",
+          "age_range": "not specified",
+          "program_specific": "FFPSA prevention services"
+        },
+        {
+          "group": "youth who are pregnant or parenting in foster care and their children",
+          "quote": "For pregnant and parenting foster youth, the worker will choose a service that will help ensure the youth is prepared or able to parent and describe in the narrative section the foster care prevention strategy for any child born to the youth.",
+          "criteria": "Pregnant or parenting foster youth and their children",
+          "age_range": "not specified",
+          "program_specific": "FFPSA prevention services"
+        },
+        {
+          "group": "all FFSPA eligible clients even when a FFSPA service is not available",
+          "quote": "By allowing prevention plans to be completed on all FFSPA eligible clients even when a FFSPA service is not available, it will allow DCFS to identify what populations are underserved by the Division and where to focus attention when looking for new services or expanding services into other areas.",
+          "criteria": "FFPSA eligible",
+          "age_range": "not specified",
+          "program_specific": "FFPSA prevention services"
+        },
+        {
+          "group": "children",
+          "quote": "\"children do best in families, and every child deserves a safe, stable, and nurturing family every day\"",
+          "criteria": "No explicit eligibility criteria provided",
+          "age_range": "Not specified",
+          "program_specific": "General DCFS services/prevention & reunification efforts"
+        },
+        {
+          "group": "families",
+          "quote": "\"all the work the Division has been undergoing is underpinned by the DCFS value that children do best in families...\" and \"the work that needs to be done to support children and families\"",
+          "criteria": "No explicit eligibility criteria provided",
+          "age_range": "Not specified",
+          "program_specific": "General DCFS services/prevention & reunification efforts"
+        },
+        {
+          "group": "children in foster care",
+          "quote": "\"the number of children in foster care in Arkansas dropped from 5,196 in late 2016 to 4,327 today\"",
+          "criteria": "Children who are currently in foster care",
+          "age_range": "Not specified",
+          "program_specific": "Foster care system, reunification efforts"
+        },
+        {
+          "group": "children placed with relatives",
+          "quote": "\"the percentage of children who are placed with relatives is up from 23 percent in 2016 to 30 percent today\"",
+          "criteria": "Children in foster care who are placed with relatives",
+          "age_range": "Not specified",
+          "program_specific": "Foster care placement services"
+        },
+        {
+          "group": "children placed in family-like settings",
+          "quote": "\"the percentage of children placed in family-like settings is up from 78 percent in 2016 to 87 percent today\"",
+          "criteria": "Children in foster care placed in family-like settings",
+          "age_range": "Not specified",
+          "program_specific": "Placement services"
+        },
+        {
+          "group": "families involved in prevention and reunification efforts",
+          "quote": "\"positions all across the state that help support prevention and reunification efforts\" and \"the unit provides support, training, coaching, and technical assistance to field staff for D.R., Investigations, and In-Home cases\"",
+          "criteria": "Families involved in Differential Response (D.R.), Investigations, and In-Home cases",
+          "age_range": "Not specified",
+          "program_specific": "Prevention and Reunification Unit"
+        },
+        {
+          "group": "parents and caregivers involved in in-home cases with children between the ages of 5-18",
+          "quote": "a program for parents and caregivers involved in in-home cases with children between the ages of 5-18, though exceptions can be made for children 0-4.",
+          "criteria": "involved in in-home cases with children between the ages of 5-18 (exceptions for 0-4)",
+          "age_range": "5-18 (exceptions for 0-4)",
+          "program_specific": "Nurturing the Families of Arkansas (NFA)/Nurturing Parenting Program (NPP)"
+        },
+        {
+          "group": "parents and caregivers involved in in-home cases with children ages 0-4",
+          "quote": "exceptions can be made for children 0-4",
+          "criteria": "involved in in-home cases with children ages 0-4 (exceptions to original age range)",
+          "age_range": "0-4",
+          "program_specific": "Nurturing the Families of Arkansas (NFA)/Nurturing Parenting Program (NPP)"
+        },
+        {
+          "group": "families who had a D.R. and then subsequently had a protective services (PS) case",
+          "quote": "Arkansas saw the best outcomes for families who had a D.R. and then subsequently had a protective services (PS) case where NFA was provided.",
+          "criteria": "families with a Differential Response (D.R.) and subsequent protective services (PS) case",
+          "age_range": "Not specified",
+          "program_specific": "Nurturing the Families of Arkansas (NFA)"
+        },
+        {
+          "group": "families from a DR/supportive services case",
+          "quote": "referral criteria were changed to allow for NFA to be provided through a supportive services case. This allows NFA to be provided to appropriate families from a DR/supportive services case",
+          "criteria": "families involved in a Differential Response (DR) or supportive services case",
+          "age_range": "Not specified",
+          "program_specific": "Nurturing the Families of Arkansas (NFA)"
+        },
+        {
+          "group": "parenting foster care youth who is placed with their child",
+          "quote": "Arkansas also updated referral criteria to allow a parenting foster care youth who is placed with their child to participate in NFA.",
+          "criteria": "parenting foster care youth who is placed with their child",
+          "age_range": "Not specified",
+          "program_specific": "Nurturing the Families of Arkansas (NFA)"
+        },
+        {
+          "group": "families in all 75 counties",
+          "quote": "NFA is already available in all 75 counties.",
+          "criteria": "reside in any of Arkansas's 75 counties",
+          "age_range": "Not specified",
+          "program_specific": "Nurturing the Families of Arkansas (NFA)"
+        },
+        {
+          "group": "families with an open in-home case where at least one child is a candidate for foster care",
+          "quote": "For a family to be eligible for Intensive In-Home Services they must have an open in-home case where at least one child is a candidate for foster care",
+          "criteria": "open in-home case with at least one child as a candidate for foster care",
+          "age_range": "",
+          "program_specific": "Intensive In-Home Services"
+        },
+        {
+          "group": "families with an open foster care case where intensive services are needed for reunification",
+          "quote": "or an open foster care case where intensive services is needed for reunification to be successful",
+          "criteria": "open foster care case where intensive services are needed for reunification to be successful",
+          "age_range": "",
+          "program_specific": "Intensive In-Home Services"
+        },
+        {
+          "group": "parenting foster youth whose needs cannot be met by NFA or SafeCare once available",
+          "quote": "any of the Intensive In-Home programs may be appropriate for a parenting foster youth, if their needs cannot be met by NFA or SafeCare once available",
+          "criteria": "parenting foster youth whose needs cannot be met by NFA or SafeCare once available",
+          "age_range": "",
+          "program_specific": "Intensive In-Home Services"
+        },
+        {
+          "group": "children who interact with the child welfare system",
+          "quote": "children who interact with the child welfare system",
+          "criteria": "Interaction with the child welfare system",
+          "age_range": "",
+          "program_specific": "Team Decision Making, SafeCare, and Nurturing the Families of Arkansas"
+        },
+        {
+          "group": "families",
+          "quote": "engage families in ways that were not common in the state\u2019s system prior",
+          "criteria": "Families of children who interact with the child welfare system",
+          "age_range": "",
+          "program_specific": "Team Decision Making, SafeCare, and Nurturing the Families of Arkansas"
+        },
+        {
+          "group": "families at risk of future maltreatment/foster care intervention",
+          "quote": "preventing future maltreatment and increasing the family\u2019s capacity to care for children safely at home (and thereby preventing the need for foster care intervention)",
+          "criteria": "Families where there is a concern for future maltreatment or risk of needing foster care",
+          "age_range": "",
+          "program_specific": "Team Decision Making, SafeCare, and Nurturing the Families of Arkansas"
+        },
+        {
+          "group": "certain areas or types of cases",
+          "quote": "DCFS limited the scope or reach of these programs to certain areas or types of cases",
+          "criteria": "Residence in certain geographic areas or involvement in specific types of cases (not further specified)",
+          "age_range": "",
+          "program_specific": "Team Decision Making, SafeCare, and Nurturing the Families of Arkansas"
+        },
+        {
+          "group": "children at risk of foster care placement",
+          "quote": "Intensive In-home Services is a new program to help prevent placing kids in foster care or get them back home quickly and safely.",
+          "criteria": "children who are at risk of being placed in foster care",
+          "age_range": "not specified",
+          "program_specific": "Intensive In-home Services"
+        },
+        {
+          "group": "children currently in foster care, aiming for reunification",
+          "quote": "Intensive In-home Services is a new program to help prevent placing kids in foster care or get them back home quickly and safely.",
+          "criteria": "children currently in foster care with a goal of reunification",
+          "age_range": "not specified",
+          "program_specific": "Intensive In-home Services"
+        },
+        {
+          "group": "families of children at risk of foster care or in care",
+          "quote": "These new services ... will focus on helping stabilize families for the long-term instead on the immediate crisis of the moment.",
+          "criteria": "families experiencing instability who have children at risk of foster care entry or who are in foster care",
+          "age_range": "not specified",
+          "program_specific": "Intensive In-home Services"
+        },
+        {
+          "group": "Children ages 3-18 and their caregivers",
+          "quote": "Children ages 3-18 and their caregivers",
+          "criteria": "Not explicitly stated beyond age range and caregiver relationship",
+          "age_range": "3-18",
+          "program_specific": "TF-CBT"
+        },
+        {
+          "group": "Children ages 2-6 and their caregivers",
+          "quote": "Children ages 2-6 and their caregivers",
+          "criteria": "Not explicitly stated beyond age range and caregiver relationship",
+          "age_range": "2-6",
+          "program_specific": "PCIT"
+        },
+        {
+          "group": "Adults",
+          "quote": "Adults",
+          "criteria": "Not explicitly stated",
+          "age_range": "Not specified",
+          "program_specific": "CPT"
+        },
+        {
+          "group": "Adults with opioid addiction",
+          "quote": "Adults with opioid addiction",
+          "criteria": "Opioid addiction",
+          "age_range": "Not specified (adults)",
+          "program_specific": "Methadone Maintenance"
+        },
+        {
+          "group": "Parents with opioid addiction",
+          "quote": "Methadone Maintenance Clinics could be a vital support to parents with opioid addiction.",
+          "criteria": "Parent status and opioid addiction",
+          "age_range": "Not specified",
+          "program_specific": "Methadone Maintenance"
+        },
+        {
+          "group": "Mothers with dual diagnosis (children must be 12 and under)",
+          "quote": "Mothers with dual diagnosis (children must be 12 and under)",
+          "criteria": "Mother has a dual diagnosis; must have children age 12 or under",
+          "age_range": "Mothers (adult); children (0-12)",
+          "program_specific": "AR Cares"
+        },
+        {
+          "group": "Mothers who keep their children with them in residential care",
+          "quote": "AR Cares is a successful residential program where mothers can keep their children with them.",
+          "criteria": "Motherhood; participation in residential care with their children",
+          "age_range": "Mothers (adult); children (age not specified, but above says 12 and under)",
+          "program_specific": "AR Cares"
+        },
+        {
+          "group": "All clients as a support for other interventions",
+          "quote": "All clients as a support for other interventions",
+          "criteria": "Any client receiving other interventions",
+          "age_range": "Not specified",
+          "program_specific": "Motivational Interviewing"
+        },
+        {
+          "group": "Youth and adults",
+          "quote": "MI is appropriate for use with youth and adults.",
+          "criteria": "Youth or adult status",
+          "age_range": "Not specified ('youth and adults')",
+          "program_specific": "Motivational Interviewing"
+        },
+        {
+          "group": "children in families served through a supportive services case",
+          "quote": "In SFY 2018, 502 families were served through a supportive services case, and 3% of these children were taken into foster care.",
+          "criteria": "Families with a supportive services case opened by DCFS; children in these families",
+          "age_range": "not specified",
+          "program_specific": "supportive services case"
+        },
+        {
+          "group": "children in DCFS cases opened to prevent removal (court oversight)",
+          "quote": "When judges open up a DCFS case to prevent removal, the children are at high risk of coming into care due to the court oversight component.",
+          "criteria": "Children in cases formally opened by judges to prevent foster care entry, often with court involvement",
+          "age_range": "not specified",
+          "program_specific": "DCFS case to prevent removal"
+        },
+        {
+          "group": "children whose caregiver voluntarily requests services at a breaking point",
+          "quote": "there are cases opened because a caregiver is at a breaking point and voluntarily requests services. The caregiver normally does not want to give custody to DCFS but does also not know how to access the help they need. These children are certainly at imminent risk of coming into care",
+          "criteria": "Child's caregiver is overwhelmed, voluntarily requests services, does not want to relinquish custody",
+          "age_range": "not specified",
+          "program_specific": "supportive services case"
+        },
+        {
+          "group": "children at imminent risk of coming into care",
+          "quote": "These children are certainly at imminent risk of coming into care",
+          "criteria": "Children whose family situations or requests for help indicate imminent risk of foster care entry",
+          "age_range": "not specified",
+          "program_specific": "supportive services case"
+        },
+        {
+          "group": "families that become involved through a Differential Response (DR) but need more intensive and longer involvement than a normal DR",
+          "quote": "DCFS wants to provide Family First services to families that become involved through a DR but need more intensive and longer involvement than a normal DR, which lasts between 30-60 days.",
+          "criteria": "Families with DR involvement requiring more intensive/longer services than standard DR (typically 30-60 days)",
+          "age_range": "not specified",
+          "program_specific": "Family First services"
+        },
+        {
+          "group": "families that had a DR and then a subsequent true maltreatment investigation who participated in NFA",
+          "quote": "families that had a DR and then a subsequent true maltreatment investigation that were then able to participate in NFA had the lowest number of subsequent maltreatment and removals",
+          "criteria": "Families who had a Differential Response, later a substantiated maltreatment investigation, and participated in NFA program",
+          "age_range": "not specified",
+          "program_specific": "NFA"
+        },
+        {
+          "group": "children ages 0 through 17 in the home",
+          "quote": "This screen can be completed in an investigation or in a case and will be done on each child in the home ages 0 through 17.",
+          "criteria": "Children residing in the home, ages 0 through 17, subject to investigation or case; potential foster care candidates.",
+          "age_range": "0-17",
+          "program_specific": "FFPSA prevention plan"
+        },
+        {
+          "group": "children determined to be a candidate for foster care",
+          "quote": "FFSPA requires a prevention plan to be created for every child who is determined to be a candidate.",
+          "criteria": "Children identified as candidates for foster care according to the FFPSA eligibility screen.",
+          "age_range": "not specified",
+          "program_specific": "FFPSA prevention plan"
+        },
+        {
+          "group": "youth in foster care who are pregnant or parenting",
+          "quote": "This screen will also capture if a youth is FFPSA eligible due to being a youth in foster care who is pregnant or parenting",
+          "criteria": "Youth currently in foster care who are pregnant or parenting.",
+          "age_range": "not specified",
+          "program_specific": "FFPSA prevention plan"
+        },
+        {
+          "group": "adults in the family who are a parent or caregiver of a candidate",
+          "quote": "which adults in the family are eligible because they are a parent or caregiver of a candidate",
+          "criteria": "Adults in the family who are a parent or caregiver to a child who is a foster care candidate.",
+          "age_range": "not specified",
+          "program_specific": "FFPSA prevention plan"
+        }
+      ],
+      "primary_population": "families with children ages 0-17",
+      "total_populations_identified": 72
+    },
+    "eligibility_determination": {
+      "determination_method": "Eligibility for prevention services is determined through a series of formal and informal assessments conducted by the DCFS Family Service Worker (FSW), involving the Health and Safety Assessment (comprising the Health and Safety Checklist, Safety Planning, and Risk Assessment), and the FAST tool for ongoing case planning. These tools are used to evaluate immediate safety factors, ongoing risk levels, and overall family functioning. The process includes initial and regular reassessments, with supervisor approval required for formal risk assessments and override provisions available for certain high-risk cases. Eligibility and service intensity are adjusted based on these assessment findings, and the prevention plan is updated every three months.",
+      "screening_tools": [
+        "Health and Safety Checklist",
+        "Safety Planning",
+        "Risk Assessment (double-stream abuse/neglect assessment)",
+        "FAST",
+        "SDM tools (planned for future implementation)",
+        "Structured Decision Making (SDM)-adapted risk assessment tool",
+        "double-stream abuse/neglect assessment",
+        "planned: intake assessment, safety assessment, risk assessment, case planning tool, reunification assessment, risk reassessment tools (in development with NCCD)",
+        "FFPSA eligibility screen",
+        "intake assessment (screening and response priority)",
+        "risk assessment",
+        "SDM risk assessments",
+        "Structured Decision Making",
+        "Safety Organized Practice",
+        "validated assessment tools",
+        "current risk assessment",
+        "Structured Decision Making (SDM) (planned)",
+        "NCCD risk analysis (for implementation assessment)",
+        "Family Advocacy and Support Tool (FAST)",
+        "Child and Adolescent Needs and Strengths (CANS)",
+        "CHRIS case management system (for tracking FFPSA candidacy definitions and intervention data)"
+      ],
+      "decision_maker": "The DCFS Family Service Worker (FSW) completes the assessments; the supervisor must approve the first formal risk assessment within forty-five days. Supervisors also have override authority in certain high-risk situations.",
+      "candidacy_definition": "Not explicitly defined in the provided section. However, candidacy for prevention services appears to be determined by the identification of safety factors and a risk assessment level (low, moderate, high, intensive) that indicates the child may be at risk of future abuse or neglect.",
+      "eligibility_duration": "Eligibility is reassessed formally every three months (with the FAST and prevention plan updates) and informally at every family interaction. Cases are closed when both the FSW and the family agree that services are no longer needed and risk is low.",
+      "quotes": [
+        "This tool helps guide a worker in making decisions regarding whether a case should remain open; and if so, at what level or intensity of services.",
+        "The initial Health and Safety Checklist is completed by the DCFS investigator.",
+        "The DCFS FSW completes the first risk assessment which establishes a baseline level of risk for the family.",
+        "Supervisors may override and choose a higher risk level in cases where there is non-accidental physical injury to an infant, death (previous or current) of a sibling as a result of abuse or neglect, serious non-accidental physical injury requiring hospital or medical treatment, and in sexual abuse cases where the perpetrator is likely to have access to the child victim.",
+        "DCFS is currently using the FAST as its assessment/case planning tool for in-home cases. Per policy the FAST is updated every three months at which time the case plan is also updated. As the prevention plan is an addendum to the case plan it will also be updated at this time."
+      ]
+    },
+    "workforce_support": {
+      "workforce_training": {
+        "has_training_plan": true,
+        "training_programs": [
+          {
+            "name": "Family Centered Treatment Foundation Training",
+            "description": "Provides training, coaching, and certification to allow agencies to implement the Family Centered Treatment (FCT) model, including supervisor-specific training.",
+            "target_audience": "FCT clinicians and FCT supervisors at agencies providing FCT",
+            "frequency": "Not specified"
+          },
+          {
+            "name": "Family First Fits Us",
+            "description": "A series of Zoom meetings to discuss what Family First is, how it aligns with DCFS values, and to inform staff of Arkansas\u2019s intent to implement Family First. Followed by in-person trainings on specifics such as assessing eligibility, completing prevention plans, and choosing evidence-based practices.",
+            "target_audience": "DCFS front line staff",
+            "frequency": "Initial Zoom meetings followed by in-person and follow-up trainings"
+          },
+          {
+            "name": "Stronger Together",
+            "description": "A branded program for the In-Home program including a website to provide a cohesive vision, share resources, success stories, and feedback.",
+            "target_audience": "Front line staff",
+            "frequency": "Ongoing"
+          },
+          {
+            "name": "Coaching Calls",
+            "description": "Coaching calls with supervisors to further understanding of candidacy, prevention plans, EBPs, and technical issues. Also available to caseworkers upon request.",
+            "target_audience": "Supervisors (and caseworkers if requested)",
+            "frequency": "Monthly during initial implementation, then as needed"
+          },
+          {
+            "name": "NCWWI Leadership Academy",
+            "description": "Leadership Academy for supervisors and managers to improve the quality of front-line supervision.",
+            "target_audience": "Supervisors and managers",
+            "frequency": "Not specified"
+          },
+          {
+            "name": "New Worker Training",
+            "description": "Foundational training for Program Assistants, Family Service Workers (FSWs), and Supervisors, covering the Division\u2019s Practice Model, trauma-informed child welfare practice, the dynamics of maltreatment, and assessments (CANS/FAST).",
+            "target_audience": "Program Assistants, Family Service Workers, Supervisors",
+            "frequency": "At start of employment; five-week duration"
+          },
+          {
+            "name": "Field Training",
+            "description": "Field-based training provided during the first year of employment to ensure competency, professionalism, trauma-informed practice, and alignment with DCFS values.",
+            "target_audience": "Family Service Workers, Supervisors",
+            "frequency": "During the first year of employment"
+          },
+          {
+            "name": "Quarterly In-Service Trainings",
+            "description": "Ongoing professional development opportunities to reinforce skills and knowledge.",
+            "target_audience": "Front-line staff",
+            "frequency": "Quarterly"
+          },
+          {
+            "name": "Concentration Trainings",
+            "description": "Week-long trainings focusing on investigations, in-home cases, and foster care.",
+            "target_audience": "All Family Service Workers",
+            "frequency": "At intervals after foundational training"
+          },
+          {
+            "name": "Prevention and Reunification Unit Training",
+            "description": "Provides support, training, coaching, and technical assistance to field staff for Differential Response (D.R.), Investigations, and In-Home cases, with a focus on prevention and family reunification.",
+            "target_audience": "Field staff involved with D.R., Investigations, and In-Home cases",
+            "frequency": "Not explicitly stated"
+          },
+          {
+            "name": "Intercept Training and Certification",
+            "description": "Staff are trained in the YVIntercept\u2122 model and gain access to a proprietary online clinical portal. The process includes both training and certification in the model.",
+            "target_audience": "Youth Villages staff implementing Intercept",
+            "frequency": "Not specified"
+          },
+          {
+            "name": "ARBest Training",
+            "description": "Training for therapists in the evidence-based, trauma-informed practices of Parent Child Interaction Therapy (PCIT), Cognitive Processing Therapy (CPT), Parent Child Psychotherapy (CPP), and Trauma-Focused Cognitive Behavioral Therapy (TF-CBT).",
+            "target_audience": "Therapists; DCFS staff",
+            "frequency": "Not specified"
+          },
+          {
+            "name": "Motivational Interviewing (MI) training",
+            "description": "Training to help increase clients\u2019 intrinsic motivation to change, used to engage and motivate clients for other treatment modalities by helping them explore and resolve ambivalence to change.",
+            "target_audience": "front-line child welfare staff (potentially all front-line staff, if expanded)",
+            "frequency": "Not specified"
+          },
+          {
+            "name": "NCWWI Workforce Excellence",
+            "description": "A holistic workforce excellence initiative to address caseload size and worker retention, implemented in partnership with the University of Arkansas at Little Rock School of Social Work.",
+            "target_audience": "DCFS workforce",
+            "frequency": "Not specified"
+          },
+          {
+            "name": "SafeCare Training for DCFS Staff",
+            "description": "Training for DCFS staff in the three counties where SafeCare is not yet accepting referrals.",
+            "target_audience": "DCFS staff in three counties",
+            "frequency": "Planned for January, February, and March"
+          },
+          {
+            "name": "Nurturing Parenting Program (NPP) Curriculum Training for 0-4 Age Group",
+            "description": "Staff trained on NPP curriculum specifically tailored for the 0-4 age group to expand program eligibility and ensure staff are equipped to deliver services to younger children.",
+            "target_audience": "NFA staff",
+            "frequency": "Conducted in the winter of 2019; ongoing frequency not specified"
+          }
+        ],
+        "implementation_support": [
+          "Coaching (provided by Family Centered Treatment Foundation)",
+          "Ongoing fidelity monitoring by Family Centered Treatment Foundation consultant",
+          "CQI activities, including Quality Service Peer Reviews conducted by PCG",
+          "Semi-annual case reviews by Program Management staff",
+          "Provider meetings and feedback loops between staff and providers",
+          "Coaching calls",
+          "Zoom meetings",
+          "Face-to-face sessions",
+          "Kick-Offs",
+          "Service Caf\u00e9s",
+          "Website for resources and feedback",
+          "NCCD technical assistance and CQI activities",
+          "NCCD training and coaching for implementation of SDM and SOP",
+          "Curriculum updates for ongoing training of new FSWs",
+          "coaching",
+          "technical assistance",
+          "support from Prevention and Reunification Unit",
+          "Online clinical portal (accessible only to trained staff)",
+          "Implementation support and documentation (as referenced on the Youth Villages website)",
+          "ARBest keeps an up-to-date register of therapists in Arkansas who are able to provide each of these therapies.",
+          "DCFS is exploring the logistics of training and coaching staff",
+          "assistance from Casey Family Programs",
+          "assistance from NCCD Children\u2019s Research Center (CRC)",
+          "NCWWI grant support",
+          "SafeMeasures case management tool for workflow and real-time data monitoring",
+          "Graduated caseloads for new workers",
+          "Family First Provider meetings",
+          "One-on-one phone calls with placement providers",
+          "Quarterly meetings with stakeholders and other divisions",
+          "Email for provider feedback and sharing of ideas"
+        ],
+        "university_partnerships": [
+          "Collaboration with NCWWI (National Child Welfare Workforce Institute) through the NCWWI Workforce Excellence grant",
+          "MidSouth, University of Arkansas at Little Rock (UALR) School of Social Work",
+          "Arkansas Academic Partnership in Public Child Welfare (nine IV-E university partners, including UALR)",
+          "University of Arkansas Medical Sciences, Psychiatric Research Institute (ARBest)",
+          "University of Arkansas at Little Rock School of Social Work",
+          "ARBest"
+        ],
+        "quotes": [
+          "\"FCT requires licensure through the Family Centered Treatment Foundation which provides training, coaching, and certification to allow agencies to implement this model.\"",
+          "\"Providers of FCT are licensed by the Family Centered Treatment Foundation, there is already stringent monitoring of fidelity to the model.\"",
+          "\"DCFS uses monthly reports and a contract provider portal for monthly data analysis along with provider meetings and feedback loops between front line staff and providers.\"",
+          "\"DCFS will implement semi-annual case reviews performed by the Program Management staff to oversee contract performance and ensure quality service delivery to children and families.\"",
+          "\"PCG currently conducts Quality Service Peer Reviews for DCFS using the federal Onsite Review Instrument (OSRI) to continually assess the ability of DCFS to improve its case practice.\""
+        ]
+      },
+      "credentialing": {
+        "has_requirements": true,
+        "requirements_by_program": {
+          "SafeCare": [
+            "Oversight and accreditation from the national SafeCare office"
+          ],
+          "Family Centered Treatment (FCT)": [
+            "Licensure through the Family Centered Treatment Foundation",
+            "Family Centered Treatment Certification for all FCT clinicians",
+            "FCT approved supervisor training for all FCT supervisors",
+            "Sustainability of adherence of fidelity to the FCT model after implementation and certification",
+            "System to provide data collection to assure fidelity to the model",
+            "The Family Centered Treatment Foundation has a best practice implementation process that allows prospective and current licensed FCT providers to identify and plan for sustainable implementation.",
+            "There is only one version of FCT.",
+            "The manuals used for implementation are The Wheels of Change: The Family Centered specialist\u2019s handbook and training manual\u00a9- William E. Painter Jr. and Mario Smith and Family Centered Treatment\u00ae Design and Implementation Guide- Tim Wood."
+          ],
+          "Intercept": [
+            "Strong fidelity measures set by Youth Villages (creator of the model)"
+          ],
+          "HomeBuilders": [
+            "Certification through the Institute for Family Development",
+            "Fidelity measures"
+          ],
+          "Nurturing Parenting (NFA)": [
+            "Accredited through the Nurturing Parenting"
+          ],
+          "YVIntercept\u2122": [
+            "Training and certification in the Intercept model required.",
+            "Access to proprietary online clinical portal restricted to trained staff."
+          ],
+          "TF-CBT": [],
+          "PCIT": [],
+          "CPT": [],
+          "CPP": [],
+          "FFT": []
+        },
+        "general_requirements": [
+          "Contract providers using evidence-based models are required to maintain fidelity of the model.",
+          "Therapists are not required by contract to be certified in specific therapeutic modalities.",
+          "Providers are encouraged to be trained in evidence-based approaches but certification is not required."
+        ],
+        "quotes": [
+          "\"Contract providers using evidence-based models are required to maintain fidelity of the model.\"",
+          "\"SafeCare is a model that requires oversight and accreditation from the national SafeCare office.\"",
+          "\"FCT requires licensure through the Family Centered Treatment Foundation which provides training, coaching, and certification to allow agencies to implement this model.\""
+        ]
+      }
+    },
+    "funding_sources": {
+      "funding_sources": [
+        {
+          "source": "Medicaid",
+          "details": "Currently funds SafeCare program.",
+          "quote": "SafeCare is currently funded by Medicaid"
+        },
+        {
+          "source": "DCFS funds",
+          "details": "Will provide a 15% match starting Oct. 1, 2019 and will assume full responsibility for payments on Oct. 1, 2020.",
+          "quote": "DCFS will provide a 15% match starting Oct. 1, 2019. DCFS will assume full responsibility for payments on Oct. 1, 2020."
+        },
+        {
+          "source": "State match",
+          "details": "15% state match spent on SafeCare in FFY 2020 requested to count towards the 50% state expenditures on well-supported programs.",
+          "quote": "DCFS is requesting that the 15% state match spent on SafeCare in FFY 2020 count towards the 50% state expenditures on well-supported programs."
+        },
+        {
+          "source": "DCFS funds/contracts",
+          "details": "Funds YVInterceptT (IIHS), Family Centered Treatment (IIHS), Homebuilders\u00ae, Teaching Family Model (IFS), Mental Health (TF-CBT), Parent Child Interaction Therapy, and Cognitive Processing Therapy. DCFS has contracts with providers for these services.",
+          "quote": "| YVInterceptT (IIHS)              | \u2713                  | Youth Villages                                  | 9 Counties       | DCFS              | ... |\n| Family Centered Treatment (IIHS) | \u2713                  | St. Francis                                     | 15 Counties      | DCFS              | ... |\n| Family Centered Treatment (IIHS) | \u2713                  | Youth Advocate Programs                         | 13 Counties      | DCFS              | ... |\n| Homebuilders\u00ae (IFS)              | \u2713                  | ... | DCFS and Medicaid | ... |\n| Teaching Family Model (IFS)      | \u2713                  | ... | DCFS              | ... |\n| Mental Health\u00b9\u2076                  | ... | Medicaid/DCFS     | ... |\n| Parent Child Interaction Therapy | ... | Medicaid/DCFS    | ... |\n| Cognitive Processing Therapy     | ... | Medicaid/DCFS    | ... |\n\n'16 DCFS has contracts with mental health providers, but not specific contracts for each therapy modality'"
+        },
+        {
+          "source": "Title IV-E",
+          "details": "Services will be claimed under Title IV-E upon approval of the prevention plan, including transitional payment requirements. Expected match is designated (D) or anticipated (A) for several services with specific dates.",
+          "quote": "'No services will be claimed until an approved prevention plan, including the transitional payment requirements'"
+        },
+        {
+          "source": "Title IV-E (transitional payments)",
+          "details": "FFPSA funding; assumes waiver approval for transitional payments until services are rated on the Title IV-E Prevention Services Clearinghouse.",
+          "quote": "Information in Table 6 assumes waiver approval for transitional payments until rated on the Title IV-E Prevention Services Clearinghouse and assumes implementation of service occurs on schedule."
+        },
+        {
+          "source": "NCWWI Workforce Excellence grant",
+          "details": "Supports DCFS in several ways, including the NCWWI Leadership Academy for supervisors and managers.",
+          "quote": "the NCWWI Workforce Excellence grant"
+        },
+        {
+          "source": "NCCD support",
+          "details": "Provides support necessary to write policy revisions, create validated assessment tools, train, and coach staff, and provide continuous quality improvement activities over the next five years.",
+          "quote": "NCCD is providing the support necessary to write policy revisions, create validated assessment tools, train, and coach staff on how to implement the safety-organized practice model and SDM. ... NCCD will also be providing continuous quality improvement activities over the next five years."
+        },
+        {
+          "source": "State Title IV-E Prevention Program Reporting Assurance",
+          "details": "Assurance related to Title IV-E program reporting, required for funding compliance.",
+          "quote": "i. State Title IV-E Prevention Program Reporting Assurance"
+        },
+        {
+          "source": "Transitional Payments",
+          "details": "Documentation related to independent systematic review for transitional payments under IV-E.",
+          "quote": "v. Required Documentation of Independent Systematic Review for Transitional Payments"
+        },
+        {
+          "source": "State general funds",
+          "details": "Funding approved by Governor Asa Hutchinson and the State Legislature to fully staff the new Prevention and Reunification Unit and other new positions supporting prevention and reunification efforts.",
+          "quote": "By 2018, DCFS was able to fully staff the new unit through more positions and funding approved by Governor Asa Hutchinson and the State Legislature. These positions are in addition to many other new positions all across the state that help support prevention and reunification efforts."
+        }
+      ],
+      "has_multiple_sources": true,
+      "match_requirements": [
+        "15% match",
+        "transitional payment requirements for Title IV-E (exact percentages not specified)"
+      ]
+    },
+    "trauma_informed_delivery": {
+      "uses_trauma_informed_approach": true,
+      "trauma_specific_programs": [
+        "Nurturing Parenting Program (NPP)",
+        "Nurturing the Families of Arkansas (NFA)",
+        "Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)",
+        "Parent Child Interaction Therapy (PCIT)",
+        "Cognitive Processing Therapy (CPT)",
+        "Parent Child Psychotherapy (CPP)",
+        "Functional Family Therapy (FFT)",
+        "Child-Parent Psychotherapy (CPP)",
+        "Family Centered Treatment (FCT)",
+        "Family Centered Treatment",
+        "Trauma Focused-Cognitive Behavioral Therapy (TF-CBT)",
+        "TF-CBT",
+        "CPT"
+      ],
+      "training_components": [
+        "NFA trained their staff on NPP curriculum for the 0-4 age group in the winter of 2019",
+        "training for therapists in the evidence-based, trauma-informed practices of Parent Child Interaction Therapy (PCIT), Cognitive Processing Therapy (CPT) and Parent Child Psychotherapy (CPP)",
+        "ARBest to help educate DCFS staff on Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)",
+        "training and certification",
+        "implementation support and documentation",
+        "online clinical portal that is proprietary and accessible only to staff who are trained in the model",
+        "CPT training",
+        "The FIS receives extensive, ongoing training from the licensed clinicians to continually improve their skills.",
+        "trauma-informed child welfare practice",
+        "clinical training",
+        "supervisor training",
+        "maintenance phase (includes ongoing training and annual renewal)",
+        "Arkansas has a good support and training system for TF-CBT therapists through ARBest.",
+        "ARBest also trains therapists across Arkansas in PCIT."
+      ],
+      "evidence_quotes": [
+        "NPP is an evidence-based, trauma-informed in-home parenting program.",
+        "Nurturing the Families of Arkansas (NFA) is Arkansas\u2019s version of the Nurturing Parenting Program, a program for parents and caregivers involved in in-home cases with children between the ages of 5-18, though exceptions can be made for children 0-4.",
+        "Due to this change, NFA trained their staff on NPP curriculum for the 0-4 age group in the winter of 2019.",
+        "NPP was developed in 1983 and based around the 6 protective factors: Nurturing and Attachment, Knowledge of Parenting and Child Development, Parental Resilience, Social Connections, Concrete Support Services for Parents, and Social and Emotional Competence of Children.",
+        "Providers will now report ... if they are using one of the specified trauma-informed, evidence-based therapies listed in the Division\u2019s IV-E Prevention Program Five-Year Plan, and if the client is eligible under Family First."
+      ]
+    }
+  },
+  "extraction_confidence": {
+    "confidence_score": 8,
+    "categories_extracted": 6,
+    "notes": [
+      "Failed to extract effectiveness_outcomes: Error code: 429 - {'error': {'message': 'Request too large for gpt-4.1 in organization org-cFmH78ll2czX9MHL56D6f4iD on tokens per min (TPM): Limit 30000, Requested 42270. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
+      "Failed to extract monitoring_accountability: Error code: 429 - {'error': {'message': 'Request too large for gpt-4.1 in organization org-cFmH78ll2czX9MHL56D6f4iD on tokens per min (TPM): Limit 30000, Requested 42351. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
+      "Failed to extract equity_disparity_reduction: Error code: 429 - {'error': {'message': 'Request too large for gpt-4.1 in organization org-cFmH78ll2czX9MHL56D6f4iD on tokens per min (TPM): Limit 30000, Requested 42272. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
+      "Failed to extract structural_determinants: Error code: 429 - {'error': {'message': 'Request too large for gpt-4.1 in organization org-cFmH78ll2czX9MHL56D6f4iD on tokens per min (TPM): Limit 30000, Requested 42293. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+    ]
+  },
+  "tokens_used": 101140
+}

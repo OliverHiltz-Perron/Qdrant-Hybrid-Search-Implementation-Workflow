@@ -1,0 +1,51 @@
+{
+  "quality_score": 0.8,
+  "completeness": {
+    "score": 0.6,
+    "expected_categories": 10,
+    "present_categories": 6,
+    "missing_categories": [
+      "effectiveness_outcomes",
+      "monitoring_accountability",
+      "equity_disparity_reduction",
+      "structural_determinants"
+    ],
+    "empty_categories": [],
+    "complete": false
+  },
+  "validation_summary": {
+    "total_categories": 6,
+    "valid_categories": 6,
+    "total_errors": 0
+  },
+  "category_details": {
+    "programs_waiting_to_add": {
+      "valid": true,
+      "errors": []
+    },
+    "target_populations": {
+      "valid": true,
+      "errors": []
+    },
+    "eligibility_determination": {
+      "valid": true,
+      "errors": []
+    },
+    "workforce_support": {
+      "valid": true,
+      "errors": []
+    },
+    "funding_sources": {
+      "valid": true,
+      "errors": []
+    },
+    "trauma_informed_delivery": {
+      "valid": true,
+      "errors": []
+    }
+  },
+  "recommendations": [
+    "Extract missing categories: effectiveness_outcomes, monitoring_accountability, equity_disparity_reduction, structural_determinants",
+    "Consider re-running extraction with adjusted prompts"
+  ]
+}

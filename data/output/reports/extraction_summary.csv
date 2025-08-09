@@ -1,0 +1,2 @@
+state,document_date,pages,confidence_score,categories_extracted,programs_waiting_count,populations_count,primary_population_focus,federal_funding_sources,state_funding_sources,uses_braided_funding,trauma_informed,addresses_equity,addresses_structural_determinants,has_oversight_structure,public_reporting
+AR,,48,10,10,3,1,,0,1,False,True,True,True,False,False

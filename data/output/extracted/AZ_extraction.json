@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "filename": "AZ_PreventionPlan.md",
+    "state": "AZ",
+    "document_date": "February 9, 2018",
+    "total_pages": 24,
+    "total_tokens": 15962,
+    "title": "ARIZONA DEPARTMENT of CHILD SAFETY"
+  },
+  "extracted_data": {
+    "effectiveness_outcomes": {
+      "outcome_goals": [
+        {
+          "goal": "Reduce the rate of children reported to DCS per 1,000 children age birth through five in Arizona",
+          "metric": "Rate of children reported to DCS per 1,000 children age birth through five",
+          "target": null,
+          "quote": "The Department will monitor the following intended outcomes: Reduce the rate of children reported to DCS per 1,000 children age birth through five in Arizona"
+        },
+        {
+          "goal": "Reduce the entry rate per 1,000 children in Arizona",
+          "metric": "Entry rate per 1,000 children",
+          "target": null,
+          "quote": "The Department will monitor the following intended outcomes: Reduce the entry rate per 1,000 children in Arizona"
+        },
+        {
+          "goal": "Reduce the rate of children with an open DCS in-home services case who enter out-of-home care during services or within twelve months following service completion",
+          "metric": "Rate of children with an open DCS in-home services case who enter out-of-home care during services or within twelve months following service completion",
+          "target": null,
+          "quote": "The Department will monitor the following intended outcomes: Reduce the rate of children with an open DCS in-home services case who enter out-of-home care during services or within twelve months following service completion"
+        },
+        {
+          "goal": "Reduce the rate of re-entry within twelve and twenty-four months among children who exited out-of-home care to reunification",
+          "metric": "Rate of re-entry within twelve and twenty-four months among children who exited out-of-home care to reunification",
+          "target": null,
+          "quote": "The Department will monitor the following intended outcomes: Reduce the rate of re-entry within twelve and twenty-four months among children who exited out-of-home care to reunification"
+        },
+        {
+          "goal": "Reduce the rate of re-entry into out-of-home care among youth who exited care to adoption or guardianship",
+          "metric": "Rate of re-entry into out-of-home care among youth who exited care to adoption or guardianship",
+          "target": null,
+          "quote": "The Department will monitor the following intended outcomes: Reduce the rate of re-entry into out-of-home care among youth who exited care to adoption or guardianship"
+        }
+      ],
+      "has_outcome_goals": true
+    },
+    "monitoring_accountability": {
+      "has_monitoring_system": true,
+      "cqi_mentioned": true,
+      "fidelity_monitoring": true,
+      "monitoring_description": "Fidelity monitoring and continuous improvement are conducted through accreditation or affiliation processes required by each program’s national organization. Quality assurance site visits, data system reviews, and program-specific fidelity assessments are conducted regularly. Continuous Quality Improvement (CQI) processes include tracking and evaluating service delivery and outcomes, monitoring staff requirements, and implementing action plans for sites not meeting standards. Designated Department of Child Safety FFPSA Oversight staff verify accreditation/affiliation and review fidelity reports. Safety and risk assessments are conducted periodically using formal program assessments and ongoing family evaluations, with mandated reporting to DCS Hotline as needed.",
+      "quotes": [
+        "Fidelity monitoring and continuous improvement of service delivery for all three programs is conducted through the accreditation or affiliation process required by the program’s national organization – Healthy Families America, Parents as Teachers National Center, and National Service Office for Nurse Family Partnership.",
+        "Healthy Families Arizona is accredited by Healthy Families America as a multi-site statewide program and is overseen by HFA and Arizona’s Healthy Families Central Administration to ensure model fidelity and maintain national accreditation by Healthy Families America©.",
+        "Each program site receives a comprehensive quality assurance site visit annually to ensure implementation of the HFA National Best Practice Standards.",
+        "Continuous improvement occurs at the site and program levels. A work plan and follow-up are required of the program providers when any best practice standard is determined to be out of adherence following a site visit.",
+        "The Healthy Families Advisory Board reviews the annual evaluation and site visit results and identifies activities to support program fidelity and outcome improvement.",
+        "Parents as Teachers is delivered by Local Implementing Agencies that must demonstrate they have received affiliation from the Parents as Teachers National Center, thereby ensuring that the program is implemented to fidelity.",
+        "Local Implementing Agencies receive and maintain affiliation by participating in site reviews and providing required data for national model developer review.",
+        "Sites that cannot demonstrate affiliation develop an action plan with timelines outlining how they will improve to meet benchmarks, participate in rapid CQI processes, and undergo technical assistance with an assigned PAT staff member.",
+        "The PAT National Center expects affiliate providers to engage in CQI of service delivery and operations on an ongoing basis including: tracking and evaluating service delivery and outcomes, along with monitoring staff requirements such supervision, training and workload.",
+        "Nurse Family Partnership providers in Arizona receive an annual assessment of delivery to model fidelity by the model developer. The fidelity review includes review of Quarterly Outcome Reports, Agency Implementation Review, Fidelity Index, Collaborative Success Plan, Site visits and ongoing consultation.",
+        "Continuous improvement occurs at the site and program levels in line with Strong Families Arizona priorities to meet community need.",
+        "Designated Department of Child Safety FFPSA Oversight staff with direct service experience will verify that each service provider is accredited or affiliated with the program’s national organization, and will review reports of model fidelity published by the national organizations to be aware of individual provider strengths and opportunities for support.",
+        "Section 471(e)(5)(B)(iii)(II) requires states to include in their title IV-E prevention program five-year plan information regarding how programs and services will be continuously monitored to ensure fidelity to the practice model, to determine outcomes achieved, and how information learned from the monitoring will be used to refine and improve practices.",
+        "The Department’s FFPSA oversight staff will be responsible for reviewing prevention plans for any red flags that may signify further follow up is required, which may include a report to the DCS hotline.",
+        "Safety assessment differs from risk assessment in that it assesses the child’s present danger and the interventions currently needed to protect the child. In contrast, risk assessment looks at the likelihood of future maltreatment incidents without considering severity.",
+        "Safety and risk assessment in each of the programs identified in this Prevention Programs and Services Five Year Plan will occur using the periodic assessments of family functioning that currently are part of the program’s design and conducted by the provider.",
+        "If the provider observes conditions in the home that may be unsafe to a child and require an assessment of children safety, the provider makes a report to the DCS Hotline in accordance with Arizona mandated reporter statute."
+      ]
+    },
+    "equity_disparity_reduction": {
+      "addresses_equity": true,
+      "equity_approach": "The plan addresses equity by recognizing disproportionality of African American/Black and Native American children in out-of-home care and abuse/neglect deaths, engaging with these communities for input, selecting culturally adaptable programs, encouraging agencies serving these communities to submit proposals, and including program adaptations for specific populations including African American, Native American, and LGBTQ families. The plan also emphasizes cultural responsiveness, trauma-informed care, and individualized services aligned with family culture and traditions.",
+      "targeted_groups": [
+        "African American/Black children and families",
+        "Native American children and families",
+        "LGBTQ+ families",
+        "Families in rural and urban areas (implied by statewide service delivery)",
+        "Pregnant and parenting youth in foster care",
+        "Families with substance exposed newborns",
+        "Low-income families",
+        "Single parent households"
+      ],
+      "quotes": [
+        "African American/Black children and Native American children are disproportionally represented among children in out-of-home care. In 2019, African American/Black children were 4.5% of Arizona’s general population and 16.4% of Arizona’s foster care population. Native American children were 4.5% of Arizona’s population (on or off tribal lands) and 8.3% of Arizona’s foster care population (non-tribal foster care only).",
+        "African American/Black children and Native American children have disproportionate rates of death from abuse or neglect. In 2021, Black and American Indian children made up 27% and 9% of abuse/neglect deaths, respectively, and comprised 6% and 5% of the total child population (Arizona Child Fatality Review Program, 2022).",
+        "DCS executive leadership met with American Indian and African American community members in March 2020 to share information about FFPSA and request input about the needs of families at risk of involvement with the child protection system. These partners identified needs for concrete support, culturally adaptable services, and provision of services by members of the American Indian and African American communities.",
+        "To address these needs, the Department selected programs that can be adjusted to the family’s culture and traditions while maintaining fidelity to program design, and actively encouraged agencies that primarily serve African American and American Indian communities to submit proposals for the Nurturing Parenting Program and Family Connections.",
+        "Nurturing Parenting Program provides a core model known as Nurturing Skills for Families, with specialty workbooks and supplemental lessons for families in substance abuse treatment and recovery, fathers, African American/Black families, Native American families, and families with parents who identify as LGBTQ.",
+        "Healthy Families Critical Element #9: Service providers should be selected because of their personal characteristics, their willingness to work in or their experience working with culturally diverse communities, and their skills to do the job.",
+        "All service providers should receive basic training in areas such as cultural competency, reporting child abuse, determining the safety of the home, managing crisis situations, responding to mental health, substance abuse and/or domestic violence issues, drug-exposed infants and services in the community.",
+        "Healthy Families home-visiting staff members use the responses to create a service plan to organize the risks, concerns and needs identified by families with the activities, interventions and supports provided by the family support specialist to help ameliorate family risk.",
+        "PAT encourages all staff to have specialized training and support to serve, engage, and retain families with histories of adversity and trauma exposure.",
+        "Nurse-Family Partnership nurses receive education to incorporate trauma and violence informed care approaches into their interactions with clients and team members. This includes approaching all interactions through a trauma and violence informed care lens of ensuring physical and emotional safety, trustworthiness, and collaboration in all interactions, along with always offering choice and following the client’s lead."
+      ]
+    },
+    "structural_determinants": {
+      "addresses_structural_determinants": true,
+      "support_types": [
+        "housing",
+        "transportation",
+        "childcare",
+        "healthcare",
+        "employment",
+        "education support",
+        "income support"
+      ],
+      "quotes": [
+        "When the family is involved with DCS, the services in Arizona’s Prevention Programs and Services Five Year Plan may be provided in conjunction with housing assistance, transportation, adult mental health, substance use treatment, and child integrated physical and behavioral health services to provide a comprehensive array of services to meet each family’s needs.",
+        "Healthy Families America (HFA) ... Services include: links to community resources, health care, childcare, and housing; help to obtain education and employment; teaching and support of positive parent-child interaction; developmental screenings and resource referrals for children with developmental delays; emotional support and encouragement.",
+        "Healthy Families Arizona serves pregnant women and parents of newborns who face challenges that might be an obstacle to successful parenting. HFAz serves families of children who have increased risk for maltreatment or other adverse childhood experiences, including low-income families, single parent households, or families who have experienced substance use, mental health issues, or domestic violence.",
+        "Parents as Teachers (PAT) ... The PAT model includes four core components: personal home visits, supportive group connection events, child health and developmental screenings, and community resource networks.",
+        "Parents as Teachers affiliates provide services for pregnant women and families with children through age four at enrollment and risk factors such as teen parents, low income, parental low educational attainment, history of substance abuse, and chronic health conditions.",
+        "Nurse Family Partnership (NFP) ... Nurses provide support related to individualized goal setting, preventative health practices, parenting skills, and educational and career planning.",
+        "Adult well-being – Improved economic and housing stability. At least one study demonstrated that participation in NFP increased economic stability, specifically increasing the likelihood of a caregiver employment after birth (Olds, 2022).",
+        "The Department and other jurisdictions are conducting evaluations of the following programs, which will be added to the plan when the required evidence rating by the Title IV-E Prevention Services Clearinghouse is achieved: Nurturing Parenting Program, Family Connections. ... Family Connections includes a key element of assessment and intervention to address concrete needs.",
+        "Families eligible for the Home Visiting programs in Arizona’s Prevention Programs and Services Five Year Plan include families with: children age birth to five and eligible for enrollment in Healthy Families Arizona, Nurse-Family Partnership, or Parents as Teachers; substance exposed newborns; and pregnant or parenting youth or young adults in foster care or extended foster care."
+      ]
+    },
+    "programs_waiting_to_add": {
+      "programs": [
+        {
+          "name": "Family Connections (FC)",
+          "quote": "In February 2020, Family Connections (FC) and Nurturing Parenting Program (NPP) were selected as parent skill-building programs for inclusion in the DCS contracted service array. These programs do not yet have an evidence rating of at least promising from the Title IV-E Prevention Services Clearinghouse, and therefore are not included in this Prevention Programs and Services Five Year Plan. These programs support the FFPSA and DCS goal to maintain children at home whenever safe to do so, and will be added to the Prevention Programs and Services Five Year Plan when the required rating is obtained.",
+          "status": "pending clearinghouse review",
+          "timeline": "will be added when the required rating is obtained"
+        },
+        {
+          "name": "Nurturing Parenting Program (NPP)",
+          "quote": "In February 2020, Family Connections (FC) and Nurturing Parenting Program (NPP) were selected as parent skill-building programs for inclusion in the DCS contracted service array. These programs do not yet have an evidence rating of at least promising from the Title IV-E Prevention Services Clearinghouse, and therefore are not included in this Prevention Programs and Services Five Year Plan. These programs support the FFPSA and DCS goal to maintain children at home whenever safe to do so, and will be added to the Prevention Programs and Services Five Year Plan when the required rating is obtained. A rigorous evaluation of NPP that found evidence of effectiveness was submitted to the Title IV-E Prevention Services Clearinghouse in October 2022 and is expected to achieve a rating of Supported once reviewed.",
+          "status": "pending clearinghouse review",
+          "timeline": "expected to be added after clearinghouse review following October 2022 submission"
+        },
+        {
+          "name": "Nurturing Parenting Program",
+          "quote": "The Department and other jurisdictions are conducting evaluations of the following programs, which will be added to the plan when the required evidence rating by the Title IV-E Prevention Services Clearinghouse is achieved:\n\n- Nurturing Parenting Program",
+          "status": "pending clearinghouse review",
+          "timeline": "to be added when the required evidence rating is achieved"
+        },
+        {
+          "name": "Family Connections",
+          "quote": "The Department and other jurisdictions are conducting evaluations of the following programs, which will be added to the plan when the required evidence rating by the Title IV-E Prevention Services Clearinghouse is achieved:\n\n- Family Connections",
+          "status": "pending clearinghouse review",
+          "timeline": "to be added when the required evidence rating is achieved"
+        }
+      ],
+      "total_count": 4
+    },
+    "target_populations": {
+      "populations": [
+        {
+          "group": "families with children age zero to five",
+          "quote": "These home visiting programs will support the most at risk populations and goals identified in the IV-B plan, including children age zero to five and prevention of repeat maltreatment and entry or re-entry into foster care.",
+          "criteria": "children age zero to five"
+        },
+        {
+          "group": "families at risk of repeat maltreatment and entry or re-entry into foster care",
+          "quote": "These home visiting programs will support the most at risk populations and goals identified in the IV-B plan, including children age zero to five and prevention of repeat maltreatment and entry or re-entry into foster care.",
+          "criteria": "prevention of repeat maltreatment and entry or re-entry into foster care"
+        },
+        {
+          "group": "families served by DCS",
+          "quote": "In 2021 DCS, Arizona Council staff, and committee members collaborated on the design and implementation of evidence-informed parent skills training programs for families served by DCS.",
+          "criteria": "families served by DCS"
+        },
+        {
+          "group": "families with children in DCS care",
+          "quote": "In 2022 DCS, Arizona Council staff, and committee members are collaborating on the design of parenting time supervision services for families with children in DCS care.",
+          "criteria": "families with children in DCS care"
+        },
+        {
+          "group": "families in underserved communities where DCS intervention is higher",
+          "quote": "The IALT Statewide Data Management Workgroup analyzes data on visitation rates by county, program and zip codes to determine the overall reach and impact of the home visiting programs, including impact in underserved communities where DCS intervention is higher.",
+          "criteria": "underserved communities where DCS intervention is higher"
+        },
+        {
+          "group": "pregnant women and parents of newborns who face challenges that might be an obstacle to successful parenting",
+          "quote": "Healthy Families Arizona serves pregnant women and parents of newborns who face challenges that might be an obstacle to successful parenting.",
+          "criteria": "For families who are not involved with DCS, the infants must be under three months of age at enrollment. For children involved with DCS, the child must be under age two at enrollment. The program can continue until the child’s fifth birthday."
+        },
+        {
+          "group": "pregnant and parenting youth in foster care and families after the birth of the child",
+          "quote": "Arizona’s target population under the Arizona Title IV-E Prevention Program is limited to pregnant and parenting youth in foster care and families after the birth of the child.",
+          "criteria": "Limited to pregnant and parenting youth in foster care and families after the birth of the child."
+        },
+        {
+          "group": "families of children who have increased risk for maltreatment or other adverse childhood experiences",
+          "quote": "HFAz serves families of children who have increased risk for maltreatment or other adverse childhood experiences, including low-income families, single parent households, or families who have experienced substance use, mental health issues, or domestic violence.",
+          "criteria": "Includes low-income families, single parent households, or families who have experienced substance use, mental health issues, or domestic violence."
+        },
+        {
+          "group": "young, first-time, low-income mothers (adolescents and adults)",
+          "quote": "Nurse Family Partnership (NFP) is a home-visiting program that is implemented by trained registered nurses. NFP serves young, first-time, low-income mothers (adolescents and adults) beginning early in their pregnancy until the child turns two.",
+          "criteria": "young, first-time, low-income mothers (adolescents and adults), beginning early in their pregnancy until the child turns two"
+        },
+        {
+          "group": "prenatal first-time mothers less than 28 weeks pregnant",
+          "quote": "The Arizona NFP program enrolls prenatal first-time mothers less than 28 weeks pregnant, and provides services until the child is age two.",
+          "criteria": "prenatal first-time mothers less than 28 weeks pregnant"
+        },
+        {
+          "group": "families with no DCS involvement",
+          "quote": "In Arizona, this program provides prevention services to families with no DCS involvement;",
+          "criteria": "families with no DCS involvement"
+        },
+        {
+          "group": "pregnant and parenting mothers in out-of-home care, including young adults in extended foster care",
+          "quote": "and pregnant and parenting mothers in out-of-home care, including young adults in extended foster care.",
+          "criteria": "pregnant and parenting mothers in out-of-home care, including young adults in extended foster care"
+        },
+        {
+          "group": "families in Maricopa and Pima Counties (Phoenix and Tucson)",
+          "quote": "NFP is currently available in Maricopa and Pima Counties, which include the cities of Phoenix and Tucson.",
+          "criteria": "families residing in Maricopa and Pima Counties"
+        },
+        {
+          "group": "families at risk of involvement with the child protection system",
+          "quote": "DCS executive leadership met with American Indian and African American community members in March 2020 to share information about FFPSA and request input about the needs of families at risk of involvement with the child protection system.",
+          "criteria": "families at risk of involvement with the child protection system"
+        },
+        {
+          "group": "African American families currently receiving in-home services from the Department",
+          "quote": "In June 2021, DCS executive leadership met with African American families currently receiving in-home services from the Department to learn about the strengths and opportunities in existing programs and provider practice with African American families",
+          "criteria": "African American families currently receiving in-home services"
+        },
+        {
+          "group": "American Indian and African American communities",
+          "quote": "the Department selected programs that can be adjusted to the family’s culture and traditions while maintaining fidelity to program design, and actively encouraged agencies that primarily serve African American and American Indian communities to submit proposals for the Nurturing Parenting Program and Family Connections.",
+          "criteria": "families served by agencies primarily serving African American and American Indian communities"
+        },
+        {
+          "group": "Families served through DCS in-home services with higher risk of child entering out-of-home care",
+          "quote": "Among families served through DCS in-home services, those with higher risk of a child entering out-of-home care have children ages birth to two years, three or more risk factors, or the combination of housing instability and alcohol abuse.",
+          "criteria": "children ages birth to two years, three or more risk factors, or the combination of housing instability and alcohol abuse"
+        },
+        {
+          "group": "Families with substance exposed newborns",
+          "quote": "At least 12% of reports to DCS allege a substance exposed newborn, and nearly 1 in 4 of these children enter foster care within one year of birth.",
+          "criteria": "reports alleging a substance exposed newborn"
+        },
+        {
+          "group": "Infants less than 1 year of age",
+          "quote": "The majority of abuse/neglect deaths occurred among infants less than 1 year of age (52%)",
+          "criteria": "infants less than 1 year of age"
+        },
+        {
+          "group": "Children ages 1-4 years",
+          "quote": "followed by children ages 1-4 years (23%)",
+          "criteria": "children ages 1-4 years"
+        },
+        {
+          "group": "Infants who exit care at less than 3 months of age",
+          "quote": "more than 13% of infants who exit care at less than 3 months of age reenter care within the next 12 months",
+          "criteria": "infants who exit care at less than 3 months of age"
+        },
+        {
+          "group": "African American/Black children",
+          "quote": "African American/Black children were 4.5% of Arizona’s general population and 16.4% of Arizona’s foster care population",
+          "criteria": "African American/Black children in Arizona"
+        },
+        {
+          "group": "Native American children",
+          "quote": "Native American children were 4.5% of Arizona’s population (on or off tribal lands) and 8.3% of Arizona’s foster care population (non-tribal foster care only)",
+          "criteria": "Native American children in Arizona"
+        },
+        {
+          "group": "Families served through DCS in-home services with diminished protective capacities",
+          "quote": "Among families served through DCS in-home services, the protective capacities of recognizes threats, controls impulses, meets own emotional needs, understands protective role, plans and articulates plans for protection, and sets aside own needs for child were identified as diminished and requiring intervention in 25% or more of cases reviewed.",
+          "criteria": "families served through DCS in-home services with diminished protective capacities"
+        },
+        {
+          "group": "Families served through DCS in-home services with economic resources risk factor",
+          "quote": "Among families served through DCS in-home services, the most common risk factor ... was economic resources, which was present for 68% of families.",
+          "criteria": "families served through DCS in-home services with economic resources risk factor"
+        },
+        {
+          "group": "Families served through DCS in-home services with drug abuse and domestic violence risk factors",
+          "quote": "Drug abuse and domestic violence were present in 45% and 41% of families, respectively.",
+          "criteria": "families served through DCS in-home services with drug abuse and domestic violence risk factors"
+        },
+        {
+          "group": "Families reported to DCS experiencing drug abuse or domestic violence",
+          "quote": "Similarly, of families reported to DCS, roughly one in three is experiencing drug abuse or domestic violence",
+          "criteria": "families reported to DCS experiencing drug abuse or domestic violence"
+        },
+        {
+          "group": "Families reported to DCS involving a substance exposed newborn",
+          "quote": "between 10% and 12% involve a substance exposed newborn.",
+          "criteria": "families reported to DCS involving a substance exposed newborn"
+        },
+        {
+          "group": "families from diverse backgrounds",
+          "quote": "Research indicates that HFA is an effective intervention for families from diverse backgrounds.",
+          "criteria": "diverse backgrounds"
+        },
+        {
+          "group": "socially disadvantaged pregnant women",
+          "quote": "One study demonstrated that HFA is effective in reducing adverse birth outcomes for socially disadvantaged pregnant women; two thirds of those participants were Black or Hispanic women (Lee, 2009).",
+          "criteria": "socially disadvantaged pregnant women, including Black or Hispanic women"
+        },
+        {
+          "group": "pregnant American Indian adolescents",
+          "quote": "Another study found that pregnant American Indian adolescents who received HFA had significantly better outcomes including higher parent knowledge scores and maternal involvement scores as compared to mothers in the control group (Barlow, 2006).",
+          "criteria": "pregnant American Indian adolescents"
+        },
+        {
+          "group": "families with children up to age 5",
+          "quote": "The California Evidence-Based Clearinghouse for Child Welfare (CEBC) lists HFA as a program for parents and caregivers of children up to age 5 (CEBC, 2023).",
+          "criteria": "parents and caregivers of children up to age 5"
+        },
+        {
+          "group": "families referred by child welfare with children up to age 24 months",
+          "quote": "this allows sites to enroll families referred by child welfare up to age 24 months.",
+          "criteria": "families referred by child welfare with children up to age 24 months"
+        },
+        {
+          "group": "families participating in PAT",
+          "quote": "participation in PAT has been shown to include child safety by reducing the occurrence of substantiated incidents of abuse and neglect",
+          "criteria": "families participating in the Parents as Teachers (PAT) program"
+        },
+        {
+          "group": "predominantly Latina mothers",
+          "quote": "PAT was designed to be delivered to a diverse population of families, demonstrating efficacy with predominantly Latina mothers (Wagner, 1999)",
+          "criteria": "families with predominantly Latina mothers"
+        },
+        {
+          "group": "African American mothers",
+          "quote": "PAT was designed to be delivered to a diverse population of families, demonstrating efficacy with ... African American mothers (Wagner, 2002)",
+          "criteria": "families with African American mothers"
+        },
+        {
+          "group": "children scoring at or above their chronological age on the Self-Help Developmental Scale",
+          "quote": "children scoring at or above their chronological age on the Self-Help Developmental Scale (Wagner, 1999)",
+          "criteria": "children assessed by the Self-Help Developmental Scale"
+        },
+        {
+          "group": "Prenatal families",
+          "quote": "Prenatal Family Levels (2 points) | Families that are enrolled in the first or second trimester may be moved to semi-monthly visits (Level 2P) after the first month based upon identified needs and discussion between the FSS and Supervisor. Parents in the third trimester receive weekly home visits. At the birth of the baby, families will then be placed on Level 1 on the first of the month following the birth of the baby.",
+          "criteria": "Enrolled in the first or second trimester; parents in the third trimester; families after the birth of the baby"
+        },
+        {
+          "group": "Families with special needs or crisis",
+          "quote": "SS – Special Services (1 additional point) | Families on Level 1, 2, or 3 may receive additional case weight (1 additional point) for special services or temporary crisis for up to 3 months at a time. Reasons for placing a family on Level SS may include intensive case management, multiple births or second target child, special needs child(ren), or unexpected crisis.",
+          "criteria": "Families on Level 1, 2, or 3 with intensive case management needs, multiple births or second target child, special needs children, or unexpected crisis"
+        },
+        {
+          "group": "Families with children age birth to five",
+          "quote": "Families eligible for the Home Visiting programs in Arizona’s Prevention Programs and Services Five Year Plan include families with children age birth to five and eligible for enrollment in Healthy Families Arizona, Nurse-Family Partnership, or Parents as Teachers",
+          "criteria": "children age birth to five and eligible for enrollment in Healthy Families Arizona, Nurse-Family Partnership, or Parents as Teachers"
+        },
+        {
+          "group": "Pregnant or parenting youth or young adults in foster care or extended foster care",
+          "quote": "Families eligible for the Home Visiting programs in Arizona’s Prevention Programs and Services Five Year Plan include families with ... pregnant or parenting youth or young adults in foster care or extended foster care",
+          "criteria": "pregnant or parenting youth or young adults in foster care or extended foster care"
+        },
+        {
+          "group": "Children and families who are reasonable candidates for foster care",
+          "quote": "For each child receiving prevention services described in the Prevention Programs and Services Five Year Plan, the Department shall determine if the child is a reasonable candidate for foster care. For these children, a child is a reasonable candidate for foster care when the child and family is eligible for a program named in the Department’s current approved Prevention Programs and Services Five Year Plan and does not have a DCS case open for services.",
+          "criteria": "child and family eligible for a program named in the Department’s current approved Prevention Programs and Services Five Year Plan and does not have a DCS case open for services"
+        }
+      ],
+      "primary_population": "families at risk of repeat maltreatment and entry or re-entry into foster care"
+    },
+    "eligibility_determination": {
+      "determination_method": "Eligibility is determined through family initial and continuing strengths and risk assessments conducted by trained prevention program staff following program-specific requirements and practice models.",
+      "screening_tools": [
+        "Family Resilience and Opportunities for Growth (FROG) assessment",
+        "Strengths and Risks (STAR) Framework",
+        "family assessment developed for Parents as Teachers",
+        "Home Observation for Measurement of the Environment (HOME)",
+        "Healthy Families Parenting Inventory (HFPI)",
+        "Nurse Family Partnership Strengths and Risks (STAR) Framework",
+        "PHQ-9",
+        "GAD-7",
+        "Intimate Partner Violence (IPV) clinical pathway",
+        "Dyadic Assessment of Naturalistic Caregiver-Child Experiences (DANCE)",
+        "PHQ-2",
+        "GAD-2",
+        "Ages and Stages Questionnaire Third Edition (ASQ-3)",
+        "ASQ Social-Emotional Second Edition (ASQ-SE2)",
+        "Devereux Early Childhood Assessment (DECA)",
+        "BRIGANCE Early Childhood Screens III",
+        "Developmental Indicators for the Assessment of Learning 4th Edition (DIAL-4)",
+        "Parents’ Evaluation of Developmental Status (PEDS)",
+        "Infant-Toddler Developmental Assessment (IDA-2)",
+        "parent-survey tool (Healthy Families Arizona)",
+        "Edinburgh Postnatal Depression Scale (EPDS)",
+        "Center for Epidemiologic Studies Depression Scale (CESD)",
+        "interpersonal violence (IPV) screening",
+        "CHEERS check-in tool",
+        "Family Assessment Worker (FAW) screen",
+        "Parent Survey",
+        "program assessments",
+        "developmental screens",
+        "standardized assessment instruments",
+        "Keys to Interactive Parenting Scale (KIPS)",
+        "Parenting Interaction with Children: Checklist of Observations Linked to Outcomes (PICCOLO)",
+        "Arizona’s safety assessment",
+        "protective factors assessment models"
+      ],
+      "decision_maker": "Prevention program staff trained and qualified according to program model requirements, overseen by Department’s FFPSA oversight staff",
+      "quotes": [
+        "Staff are trained on the program-specific requirements for family initial and continuing strengths and risk assessment, development of service plans, service delivery, and determination of the need for continued services.",
+        "Staff qualifications, training, and supervision standards are set by the program developers to ensure that the provided services are consistent with the practice models, the evidence-based programs are delivered with fidelity, and that the program staff are qualified to conduct risk assessments and develop appropriate prevention plans.",
+        "The training curriculum will include the purpose of FFPSA, eligibility criteria, and development of prevention plans.",
+        "The Department’s FFPSA oversight staff will be responsible for reviewing prevention plans for any red flags that may signify further follow up is required, which may include a report to the DCS hotline.",
+        "DCS will be responsible for the final IV-E prevention eligibility determination for families.",
+        "Submitted information must include results of the program’s family assessment that determines the family’s eligibility for the program or level of need.",
+        "For Healthy Families, this is the Family Resilience and Opportunities for Growth (FROG) assessment.",
+        "For Nurse Family Partnership, this is the Strengths and Risks (STAR) Framework.",
+        "For Parents as Teachers, this is the family assessment developed.",
+        "In alignment with the Department’s current practice, dedicated staff with direct service experience will review the submitted child specific prevention plans and all related information to make the final determination of eligibility of reasonable candidacy.",
+        "For each child receiving prevention services described in the Prevention Programs and Services Five Year Plan, the Department shall determine if the child is a reasonable candidate for foster care.",
+        "The determination that a child is a reasonable candidate will be made by the Department based on information provided to the Department by the agency or provider delivering services to the family.",
+        "Healthy Families utilizes the Home Observation for Measurement of the Environment (HOME) when the child is age 2 months, 4 months, and 12 months to measure the quality of support and stimulation available to the child in the home environment.",
+        "Healthy Families uses the Healthy Families Parenting Inventory (HFPI), which examines nine parenting domains... The HFPI is completed at intake, 6 months, 12 months, 24 months, and 36 months.",
+        "Nurse Family Partnership clinically assess clients in the domains of personal health, maternal role, and environmental health.",
+        "The Nurse Family Partnership Strengths and Risks (STAR) Framework... informs and supports consistency of clinical decisions made by NFP nurses and supervisors regarding visit content and time spent on the six domains.",
+        "NFP recommends the PHQ-9 and the GAD-7 to assess for symptoms of depression and anxiety... These screening tools are administered at intake, pregnancy (36 weeks), infancy (1-8 weeks), infancy (4-6 months), infancy (12 months) and additionally at the nurse’s discretion.",
+        "NFP nurses use an Intimate Partner Violence (IPV) clinical pathway to assess risk and determine a tailored intervention for each client.",
+        "The Dyadic Assessment of Naturalistic Caregiver-Child Experiences (DANCE) is used by health professionals to assess and support the relationship between a caregiver and their child.",
+        "Parents as Teachers affiliates use the PAT records to gather and understand data about family characteristics, situations, experiences, resources, and needs... The family-centered assessment provides vital information for parent educators to use in understanding families’ strengths and assets, needs, and perspectives in seven areas, and informs goal setting, and planning/delivery of services.",
+        "PAT affiliates screen for issues of concern. As outlined by the PAT quality standards, parent educators screen parents for depression and intimate partner violence and support them in accessing related support and services.",
+        "Depression and anxiety screening is built into the Prenatal/Postpartum record used by PAT affiliates, using the PHQ-2 and GAD-2 for this population.",
+        "PAT home visitors also engage in child developmental surveillance during each personal visit, facilitating early identification of red flags.",
+        "They partner with each family to complete periodic developmental screening using a tool approved by Parents as Teachers National Center. These include: ASQ-3, ASQ-SE2, DECA, BRIGANCE Early Childhood Screens III, DIAL-4, PEDS, IDA-2.",
+        "As outlined in the PAT quality standards, affiliates have a written protocol that provides clear guidance on how home visitors and supervisors are expected to respond to concerns regarding abuse and neglect. The protocol specifies how a report is made to the DCS Hotline in accordance with Arizona statute.",
+        "Service need and eligibility is determined through the Family Resilience and Opportunities for Growth (FROG) assessment, which assesses the family in 15 subtopics organized around the 5 Protective Factors.",
+        "A score of 10 or higher on the 60-point FROG scale indicates risk of abuse or neglect and program eligibility.",
+        "The IALT Statewide Data Management Workgroup analyzes data on visitation rates by county, program and zip codes to determine the overall reach and impact of the home visiting programs, including impact in underserved communities where DCS intervention is higher.",
+        "Prevention service data gathered through continuous monitoring activities and for submission to the federal Department of Health and Human Services will be shared with stakeholders during consultation for the development of the CFSP so that there is coordinated service array planning that considers both funding sources and any overlapping target populations, eligibility criteria, and geographic coverage to avoid redundancies and increase access for all eligible families.",
+        "safety and risk assessment in each of the programs identified in this Prevention Programs and Services Five Year Plan will occur using the periodic assessments of family functioning that currently are part of the program’s design and conducted by the provider.",
+        "Each program has formal assessments that are completed at specified intervals. Additionally, practitioners informally evaluate family functioning, needs, and risks at all contacts with the family.",
+        "Healthy Families Arizona utilizes the parent-survey tool to assess factors associated with increased risk for child maltreatment or other adverse childhood experiences.",
+        "Healthy Families home-visiting staff members use the responses to create a service plan to organize the risks, concerns and needs identified by families with the activities, interventions and supports provided by the family support specialist to help ameliorate family risk.",
+        "Healthy Families completes screening for maternal depression at various intervals during participation using the Edinburgh Postnatal Depression Scale (EPDS) or Center for Epidemiologic Studies Depression Scale (CESD) and interpersonal violence (IPV) on all primary caregivers and makes referrals for resources when necessary.",
+        "Healthy Families home-visiting staff members observe parent child interaction during each home visit and document their observations (following the CHEERS memory aid: Cues, Holding, Expression, Empathy, Rhythm/reciprocity, and Smiles). They subsequently complete the CHEERS check-in tool, used to assess parent/child interaction, at multiple intervals throughout the duration of services.",
+        "If the provider observes conditions in the home that may be unsafe to a child and require an assessment of children safety, the provider makes a report to the DCS Hotline in accordance with Arizona mandated reporter statute.",
+        "Review of the Family Assessment Worker (FAW) documentation, the scoring accuracy, and the use of required HFAz forms (Critical Element 2)",
+        "Review of the FAW screen, assessment, and acceptance rates",
+        "Observation of the FAW completing a Parent Survey (Critical Elements 2 and 12), when possible",
+        "program assessments are utilized in planning home visits",
+        "developmental screens and all program tools are reviewed for scoring accuracy and appropriate follow-up",
+        "families and home visitors collaborate in setting goals, identifying strengths, determining needs",
+        "Family Connections uses standardized assessment instruments to select change-focused interventions and develop a service plan driven by the family’s input about their problems and the best way to support change.",
+        "Both programs use compassion, empathy, respect, and problem-solving skills to engage families.",
+        "Both programs are designed to strengthen family protective factors and parent protective capacities, which are key elements of Arizona’s safety and risk assessment models.",
+        "Healthy Families America (HFA) is a home visiting program for new and expectant families with children who are at-risk for maltreatment or adverse childhood experiences.",
+        "Arizona would follow the direction of HFA regarding expansion to 24 months for enrollment, per the HFA’s official adaptation protocol for the field of child welfare.",
+        "Consistent with HFA requirements, support services will be offered for a minimum of three years, regardless of the age of the child at intake, and as a model originally designed to support families with children through age 5; this allows sites to enroll families referred by child welfare up to age 24 months.",
+        "The expansion of enrollment to 24 months also allows for a full dosage (three years) of HFA treatment to families involved in child welfare. This would maximize eligibility of Arizona families while remaining in compliance with the standards set by HFA.",
+        "Local Implementing Agencies that must demonstrate they have received affiliation from the Parents as Teachers National Center, thereby ensuring that the program is implemented to fidelity.",
+        "All affiliates must select one tool that measures at least one of five key parenting outcomes that include parenting behaviors, parent knowledge of children development, parent-child interaction, physical home environment and parental/family involvement.",
+        "Providers that meet at least 75% of PAT Quality Standards are recognized as exemplary “Blue Ribbon Affiliates,” recognizing that these providers are delivering high-quality services to children and families.",
+        "Sites that cannot demonstrate affiliation develop an action plan with timelines outlining how they will improve to meet benchmarks, participate in rapid CQI processes, and undergo technical assistance with an assigned PAT staff member.",
+        "Sites that do not implement an action plan and become compliant within the timeframes set in the plan are not eligible for continued funding.",
+        "Clients are first-time, low-income, expectant mothers who enroll before third trimester",
+        "Visit frequency meets clients' needs according to client-centered care plan developed from ongoing and extensive assessment of clients' protective factors and risks",
+        "The Arizona Title IV-E Prevention Program described in this Prevention Programs and Services Five Year Plan is a federal funding program that supports service provision to achieve positive safety and permanency outcomes, including prevention of out-of-home care, for eligible children and their parents.",
+        "The mental health, substance abuse treatment, and in-home parent skill-building services and programs approved under this plan are available to the services’ target populations regardless of the child’s eligibility for the Arizona Title IV-E Prevention Program.",
+        "Delivered by staff with expertise in needs assessment, service planning and behavioral change interventions; separated from, but complimenting, safety assessment and planning",
+        "Congruent with Arizona’s safety assessment and protective factors assessment models",
+        "The survey results indicated a variety of assessment instruments and curricula were in use, many of which are not found on the Title IV-E Prevention Services Clearinghouse."
+      ]
+    },
+    "workforce_support": {
+      "workforce_training": {
+        "has_training_plan": true,
+        "training_description": "Training and supervision to support a qualified, competent, skilled, and professional workforce to deliver trauma-informed and evidence-based services consistent with the selected models will be provided to all prevention program staff according to the requirements of the program model being delivered. Training curriculum specific to the title IV-E prevention program will be provided by the Department to each agency for use with their staff. The Department’s FFPSA oversight staff will provide training directly to the prevention program workforce or through a train-the-trainer model. The training curriculum will include the purpose of FFPSA, eligibility criteria, and development of prevention plans. All prevention program staff will also be required to complete mandated reporter training.",
+        "quotes": [
+          "Training and supervision to support a qualified, competent, skilled, and professional workforce to deliver trauma-informed and evidence-based services consistent with the selected models will be provided to all prevention program staff according to the requirements of the program model being delivered.",
+          "Training curriculum specific to the title IV-E prevention program will be provided by the Department to each agency for use with their staff.",
+          "The Department’s FFPSA oversight staff will provide training directly to the prevention program workforce or through a train-the-trainer model.",
+          "The training curriculum will include the purpose of FFPSA, eligibility criteria, and development of prevention plans.",
+          "All prevention program staff will also be required to complete mandated reporter training.",
+          "Parent educators obtain competency-based professional development and training and renew certification with the national office annually.",
+          "The IALT collaborates to provide professional development to home visitors by assisting with a statewide home visitor annual conference and Home Visitor Supervisor Institute.",
+          "The IALT meets every other month, with subcommittees meeting more frequently to focus on topics such as mental health consultation, data management, and professional development.",
+          "Review of training logs for orientation, core, and three-month, six-month and twelve-month requirements for each staff member",
+          "Review of annual training and cultural competency training.",
+          "Observation of a supervisory session, documentation and feedback",
+          "Continuous improvement occurs at the site and program levels. A work plan and follow-up are required of the program providers when any best practice standard is determined to be out of adherence following a site visit.",
+          "The programs have strong program-specific training and supervision components for staff development.",
+          "Fidelity and outcome monitoring are supported by the clarity of program design, standardized curriculum and lessons in NPP, standardized assessment instruments used in Family Connections and NPP to measure change over time, and support from the program developers to design fidelity processes and train the DCS Fidelity and Compliance Services staff.",
+          "Sites shall ensure that all direct service staff members receive quality weekly supervision which should be one hour and thirty minutes to two hours in duration. Supervision should encompass administrative, clinical, and reflective supervision techniques.",
+          "Sites shall ensure that Supervisors are held accountable for the quality of their work, receive skill development and professional support through regular and ongoing supervision.",
+          "The Essential Requirements include collecting and using outcome data.",
+          "Sites that cannot demonstrate affiliation develop an action plan with timelines outlining how they will improve to meet benchmarks, participate in rapid CQI processes, and undergo technical assistance with an assigned PAT staff member.",
+          "The PAT National Center expects affiliate providers to engage in CQI of service delivery and operations on an ongoing basis including: tracking and evaluating service delivery and outcomes, along with monitoring staff requirements such supervision, training and workload.",
+          "All staff receive initial training in the implementation of the protocol and then an annual review.",
+          "Ability to recruit qualified staff to deliver the program with fidelity",
+          "Ability to develop Arizona-based training capacity",
+          "Required training within six months of hire:",
+          "- Infant and Child Development",
+          "- Supporting the Parent-Child Relationship",
+          "- Staff Related Issues Mental Health",
+          "- ASQ-3/ASQ-SE",
+          "Components of trauma informed care are embedded in the home visiting model and are introduced in the PAT core training that all parent educators and supervisors must complete.",
+          "PAT encourages all staff to have specialized training and support to serve, engage, and retain families with histories of adversity and trauma exposure.",
+          "professionals are encouraged to develop trauma informed collaborative relationships with other professionals involved with the family.",
+          "Nurse-Family Partnership nurses receive education to incorporate trauma and violence informed care approaches into their interactions with clients and team members.",
+          "Strong Families AZ, Arizona’s Home Visiting Alliance, provides additional training and professional development opportunities for home visitors throughout the state, regardless of program and funder.",
+          "The trainings are offered as computer-based training, live stream webinar and interactive virtual training, and in-person trainings and conferences.",
+          "All trainings provided by Strong Families AZ are free to home visitors.",
+          "program delivery, initial training, and ongoing provider coaching can be designed to develop the strengths and address the needs",
+          "the Department selected programs that can be adjusted to the family’s culture and traditions while maintaining fidelity to program design",
+          "Healthy Families Critical Element #10: Service providers receive intensive training specific to their role to understand the essential components of the family assessment process, home visitation and supervision."
+        ]
+      },
+      "credentialing": {
+        "has_requirements": true,
+        "requirements": [
+          "staff qualifications and training requirements as described by each home visiting program",
+          "staff qualifications, training, and supervision standards set by the program developers",
+          "service provider accreditation or affiliation with the program’s national organization",
+          "mandated reporter training",
+          "certification with the national office",
+          "fingerprint/background checks",
+          "reference checks",
+          "confidentiality statements",
+          "completion of policy and procedure review",
+          "Supervisors – Master’s degree in Human Services or related field, or Bachelor’s degree with three years of relevant experience",
+          "Family Assessment Worker and Family Support Specialist – minimum of a high school diploma with college coursework preferred",
+          "affiliation from the Parents as Teachers National Center",
+          "meeting at least 75% of PAT Quality Standards",
+          "adherence to Essential Requirements covering affiliate leadership, staffing, services to families, and evaluation"
+        ],
+        "quotes": [
+          "Each home visiting program defines staff qualifications and training requirements as described below.",
+          "Staff qualifications, training, and supervision standards are set by the program developers to ensure that the provided services are consistent with the practice models, the evidence-based programs are delivered with fidelity, and that the program staff are qualified to conduct risk assessments and develop appropriate prevention plans.",
+          "The Department will employ designated FFPSA oversight staff who will verify that each service provider is accredited or affiliated with the program’s national organization, as confirmation that the provider is meeting staff qualification, training, and caseload requirements.",
+          "All prevention program staff will also be required to complete mandated reporter training.",
+          "Parent educators obtain competency-based professional development and training and renew certification with the national office annually.",
+          "No specific credentialing, licensing, certification, or qualification standards for providers are mentioned in this section.",
+          "Review of staff adherence to contractual requirements, including fingerprint/background checks, reference checks, confidentiality statements, completion of policy and procedure review",
+          "The HFAz scope of work requires the following qualifications:",
+          "Supervisors – Master’s degree in Human Services or related field, or Bachelor’s degree with three years of relevant experience working with children and families, understanding of and experience with supervision staff, knowledge of infant child development, experience providing services to culturally diverse populations, and a background of providing home visiting services.",
+          "Family Assessment Worker and Family Support Specialist – Direct service staff shall have a minimum of a high school diploma with college coursework preferred, an ability to establish trusting relationships and work with a culturally diverse population, and knowledge of infant and child development.",
+          "Parents as Teachers is delivered by Local Implementing Agencies that must demonstrate they have received affiliation from the Parents as Teachers National Center, thereby ensuring that the program is implemented to fidelity.",
+          "In order to become a Parents as Teachers affiliate, an organization must be designed to meet the Parents as Teachers model fidelity requirements called Essential Requirements.",
+          "Providers that meet at least 75% of PAT Quality Standards are recognized as exemplary “Blue Ribbon Affiliates,” recognizing that these providers are delivering high-quality services to children and families."
+        ]
+      }
+    },
+    "funding_sources": {
+      "funding_sources": [
+        {
+          "source": "Title IV-E",
+          "quote": "The Families First Prevention Services Act (FFPSA) was signed into law on February 9, 2018, amending title IV-E of the Social Security Act to allow federal funding for the provision of evidence-based mental health, substance use, and in-home parent skill-based programs for children at imminent risk of entering foster care (known as reasonable candidates) and their parents."
+        }
+      ],
+      "has_multiple_sources": false
+    },
+    "trauma_informed_delivery": {
+      "uses_trauma_informed_approach": true,
+      "evidence_quotes": [
+        "HFA uses a trauma-informed approach, including awareness of the impact that trauma has had on the lives of families, an awareness of behaviors and responses that might trigger re-traumatization, and an openness to understanding how current behaviors are often adaptation to past abuses.",
+        "Foundations training for all direct service staff, supervisors, and program managers includes the topic of trauma-informed practice (HFA Best Practice Standards, Prevent Child Abuse America).",
+        "Components of trauma informed care are embedded in the home visiting model and are introduced in the PAT core training that all parent educators and supervisors must complete.",
+        "Parent educators recognize the trauma that children and families experience and respond appropriately to improve outcomes using curricula resources and the PAT approach of partnering, facilitating & reflecting.",
+        "PAT encourages all staff to have specialized training and support to serve, engage, and retain families with histories of adversity and trauma exposure.",
+        "professionals are encouraged to develop trauma informed collaborative relationships with other professionals involved with the family.",
+        "Collectively, providers maximize opportunities for the families to recover from the trauma in a way that protects their psychological and physical safety.",
+        "Nurse-Family Partnership nurses receive education to incorporate trauma and violence informed care approaches into their interactions with clients and team members.",
+        "This includes approaching all interactions through a trauma and violence informed care lens of ensuring physical and emotional safety, trustworthiness, and collaboration in all interactions, along with always offering choice and following the client’s lead.",
+        "In addition, NFP nurses apply the four R’s of trauma and violence informed care including realizing that trauma affects many individuals and groups, recognizing the signs of trauma, and responding appropriately without retraumatizing.",
+        "Training and supervision to support a qualified, competent, skilled, and professional workforce to deliver trauma-informed and evidence-based services consistent with the selected models will be provided to all prevention program staff according to the requirements of the program model being delivered."
+      ]
+    }
+  },
+  "extraction_confidence": {
+    "confidence_score": 10,
+    "categories_extracted": 10,
+    "notes": []
+  },
+  "tokens_used": 148571
+}

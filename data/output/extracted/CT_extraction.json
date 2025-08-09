@@ -1,0 +1,630 @@
+{
+  "metadata": {
+    "filename": "CT_PreventionPlan.md",
+    "state": "CT",
+    "document_date": null,
+    "total_pages": 74,
+    "total_tokens": 48362,
+    "title": "2022 Connecticut Family First Prevention Plan"
+  },
+  "extracted_data": {
+    "effectiveness_outcomes": {
+      "outcome_goals": [
+        {
+          "goal": "Children are able to live safely with their families.",
+          "metric": "Percentage of DCF children served in their own home.",
+          "target": "70%",
+          "quote": "\"Children are able to live safely with their families.\" ... \"70% of DCF children are served in their own home.\""
+        },
+        {
+          "goal": "Children will live with relatives, kin, or someone they know.",
+          "metric": "Percentage of children in kinship or relative care when they cannot stay in their own home.",
+          "target": "70%",
+          "quote": "\"Children will live with relatives, kin, or someone they know.\" ... \"For children who cannot stay in their own home; 70% will be in kinship or relative care.\""
+        },
+        {
+          "goal": "Children will live with a family.",
+          "metric": "Percentage of children in care in a home setting; with at least 2.5 beds available per child coming into care.",
+          "target": "90%",
+          "quote": "\"Children will live with a family.\" ... \"90% of children in care will be in a home setting; with at least 2.5 beds available per child coming into care.\""
+        },
+        {
+          "goal": "Children will be in congregate care settings rarely and briefly.",
+          "metric": "Percentage of children in congregate care settings and average length of stay.",
+          "target": "10% of children in care will be in congregate settings; with an average length of stay of < 60 days.",
+          "quote": "\"Children will be in congregate care settings rarely, & briefly.\" ... \"10% of children in care will be in congregate settings; with an average length of stay of < 60 days.\""
+        },
+        {
+          "goal": "Children will experience timely permanency.",
+          "metric": "Percentage of children in care achieving permanency within 12 months.",
+          "target": "60%",
+          "quote": "\"Children will experience timely permanency.\" ... \"60% of children in care will achieve permanency within 12 months.\""
+        },
+        {
+          "goal": "Children in care will be better off healthy, safe, smart, and strong.",
+          "metric": "Percentage of children in care with needs met on medical/dental, academic achievement, mental health; and maltreatment recurrence rate.",
+          "target": "90% of children in care will have their needs met on medical/dental, academic achievement; mental health: <2% will experience repeat maltreatment.",
+          "quote": "\"Children in care will be better off healthy, safe, smart and strong:\" ... \"90% of children in care will have their needs met on medical/dental, academic achievement; mental health: <2% will experience repeat maltreatment.\""
+        },
+        {
+          "goal": "Youth who age out will be prepared for success.",
+          "metric": "High school graduation rate, employment or post-secondary enrollment, presence of a defined positive adult, and homelessness rate.",
+          "target": ">85% will graduate from high school, >60% will be employed or enrolled in post secondary education, >95% will have a defined positive adult in their life, 5% will go into homelessness.",
+          "quote": "\"Youth who age out will be prepared for success:\" ... \"Of children who age out of DCF: >85% will graduate from high school, >60% will be employed or enrolled in post secondary education, >95% will have a defined positive adult in their life, 5% will go into homelessness.\""
+        }
+      ],
+      "has_outcome_goals": true
+    },
+    "monitoring_accountability": {
+      "has_monitoring_system": true,
+      "cqi_mentioned": true,
+      "fidelity_monitoring": true,
+      "monitoring_description": "Connecticut employs a Continuous Quality Improvement (CQI) infrastructure led by a CQI Implementation Team that develops fidelity and outcome measures for the Care Management Entity (CME) and evidence-based programs (EBPs). The Department appoints Program Leads responsible for oversight and quality assurance of contracted services, including fidelity monitoring and outcome data review. CQI processes include routine data collection, analysis, and collaborative improvement strategies with providers and model developers. Fidelity monitoring includes specific tools and protocols for each EBP, such as supervision checklists, adherence measures, and certification processes. Contract monitoring, data sharing, and collaborative CQI workgroups ensure ongoing accountability and quality assurance.",
+      "quotes": [
+        "CTDCF intends to utilize the CQI Implementation Team to support the development of fidelity and outcome measures for the CME (details regarding the CQI implementation team structure can be found in Section 6). While the specific fidelity and outcome measures of the CME would be developed within the CQI implementation team, at a minimum CTDCF will require that the CQI Implementation team operationalize the following elements into fidelity and outcome measures: 1. The development of quality child specific prevention plans; 2. The selection of appropriate services that align with the family’s needs; 3. Effective service referral and linkage processes and outcomes; 4. Appropriate monitoring, adjusting, and closing of child specific prevention plans based on the changing needs of families; and 5. Effective ongoing risk and safety monitoring.",
+        "The Program Lead will meet regularly with the CME to review data based on the specific outcome and fidelity measures designed by the CQI Implementation team and embedded in the CME contract. If deficits are identified, the Program Lead will meet with the CME to collaboratively identify strategies to improve fidelity and outcome measures.",
+        "CTDCF has developed a rich infrastructure for collaborative program design, implementation, data sharing and service delivery statewide. This infrastructure includes Memoranda of Understanding (MOUs) between EBP model developers, other state agencies, the CT Judicial Branch, academic centers, and a network of community adolescent and family behavioral health providers serving every region of the state. CTDCF will leverage this infrastructure to build its Family First Implementation team as well as its CQI Workgroup.",
+        "The Bureau of Strategic Planning: encompasses Quality Improvement (QI), Quality Assurance (QA), and Performance Management (PM): QI includes all efforts to provide strategies for improvement of the practice; QA provides ongoing review of CTDCF practice; PM includes the provision of performance data and oversight of the overarching performance goals and outcomes for the agency. The Bureau will be responsible for leading and coordinating the CQI strategy and providing the monitoring and management of the well-supported interventions.",
+        "CTDCF Program Leads: Primarily responsible for the oversight and quality assurance regarding the specific contracted services and ensuring quality implementation and needed program improvement. Program Leads will work with EBP model developers to identify and develop reports on specific outcomes.",
+        "Contracted Services: All contracted services in Connecticut have performance expectations and specific outcomes. The performance and outcome data collected are utilized to assess progress towards intended outcomes for Connecticut's families, and to assess whether services are achieving intended benefits. CTDCF Program Leads meet with provider agencies regularly to review data based on the specific outcome and model fidelity measures that are outlined in contracts. If deficits are identified in the performance expectations and outcomes, the Program Leads along with the model developers meet with agencies to collaboratively identify strategies to improve outcome measures. If continued challenges exist, programs could be placed on a Corrective Action Plan, up to and including termination if the deficiencies fail to be corrected.",
+        "Training and TA: CTDCF has a longstanding practice of contracting with model developers for training and technical assistance to ensure model fidelity. CTDCF currently has contracts with all model developers for EBPs currently in place.",
+        "Data collection: All EBP models and CTDCF require data systems that collect information on clients served. In addition, the EBP models require information on staff training and progress toward certification in the model. These data include staff participation in initial and booster training sessions, any necessary technical assistance, documentation of sessions (submission of recorded sessions); and track the content, frequency and duration of sessions. For each EBP fidelity reviews are conducted that analyze all the data collected. These reviews typically include CTDCF Program Leads, the EBP model developer, and providers. CTDCF conducts two levels of reviews: system reviews and individual provider reviews. System fidelity reviews look at these data in aggregate, while the fidelity review of the individual program looks at provider specific data. CTDCF, in partnership with the EBP model developer, will combine these data into dashboard reports and share with providers to inform discussion during fidelity review meetings that occur quarterly.",
+        "FFT fidelity is assessed using various sources and from multiple perspectives from the family, supervisors, and therapists themselves. Clinical Services System (CSS) is FFT’s web-based system used to monitor program fidelity based on the fidelity and dissemination adherence scores.",
+        "Therapist fidelity is measured in part through the Weekly Supervision Checklist and the Global Therapist Ratings. The checklist is completed for each week’s consultation and contains ratings for each case staffed for every therapist by supervisors after every staffing.",
+        "MST has a rigorous fidelity monitoring infrastructure and includes measures for both the therapist and the supervisor. The Therapist Adherence Measure Revised (TAM-R) is a 28-item measure that evaluates a therapist’s adherence to the MST model as reported by the primary caregiver of the family. The TAM-R is administered monthly. The Supervisor Adherence Measure (SAM) is a 43-item measure that evaluates the MST Supervisor’s adherence to the MST model of supervision as reported by MST therapists (CEBC).",
+        "BSFT therapists are assessed after each session using the BSFT Adherence Certification Checklist which is based upon ratings of filmed clinical sessions. This tool is designed to assess how adept a practitioner is at implementing BSFT and to provide feedback that can be used to increase clinical skills and fidelity to the model.",
+        "PCIT providers will use a fidelity checklist for each session and will use specific parent handouts and the Eyberg Child Behavior Inventory (ECBI). CTDCF will require that PCIT providers ensure their room equipment is in good working order and PCIT providers participate in continuing education.",
+        "The two NFP providers that CT OEC already contracts with have completed the key pre-implementation steps necessary to implement NFP to fidelity. All nurses and their supervisors participating in a 9-month comprehensive training program to learn how to conduct in-home visits and engaging in ongoing education and training occurs for both new nurse home visitors and supervisors. Supervisors receive ongoing consultation to monitor and support the nurse home visitors. NFP fidelity requires adherence to all 19 of the NFP Model Elements.",
+        "The PAT National Center requires that affiliates provide annual data on their fidelity to the program model through an Affiliate Performance Report (CEBC). The PAT National Center monitors fidelity through the data collected within these annual reviews. Providers that meet at least 75% of PAT Quality Standards are recognized as exemplary “Blue Ribbon Affiliates”, recognizing that these providers are delivering high-quality services to children and families.",
+        "HFA requires local HFA providers to follow the HFA Best Practice Standards and to demonstrate fidelity to the standards demonstrated through periodic accreditation site visits. The HFA Best Practice Standards are both a guide to model implementation and the fidelity tool used to measure adherence to model requirements. There are 153 standards that providers are rated on and ultimately help measure the current degree of fidelity to the model.",
+        "Ongoing technical assistance, staff training, and periodic site visits are components of formal implementation support provided by the HFA National Office and serve as key elements of fidelity monitoring. For practice standards that providers are not in adherence with the HFA National Office provides CQI guidance and support to ensure fidelity and alignment with model.",
+        "CTDCF intends to build upon the internal and external CQI strategies and frameworks as a starting place for its Family First CQI structure. Below are ongoing strategies Connecticut currently employs to ensure performance and outcome monitoring: Service Development Plan and Corrective Action Plan, Contracted Services performance expectations, Training and TA, Data collection and review.",
+        "Because CTDCF is proposing to contract out many of the administrative elements necessary for the implementation of Family First in Connecticut, it is essential that it establishes clear and robust strategies for monitoring the CME. In order to provide adequate oversight of the CME, CTDCF proposes to 1) engage in intensive contract monitoring, 2) administer a well-developed and collaborative CQI infrastructure, and 3) develop a shared data system that facilitates both contract monitoring and CQI mechanisms but preserves family privacy.",
+        "As with all contracted services, Connecticut will appoint a Program Lead to be responsible for oversight and quality assurance regarding the specific contractual obligations of the CME. At CTDCF, Program Leads are currently responsible for ensuring quality implementation and addressing needed program improvement."
+      ]
+    },
+    "equity_disparity_reduction": {
+      "addresses_equity": true,
+      "equity_approach": "Connecticut's plan explicitly addresses equity and disparity reduction through a commitment to racial justice, trauma-informed and culturally responsive practices, and targeted supports for populations experiencing disparities. The plan includes a racial justice framework aiming to become an anti-racist organization, addresses disproportionality through data disaggregation, and incorporates culturally responsive evidence-based programs. It also targets specific populations with heightened risks, such as families of color, youth involved in juvenile justice, LGBTQ+ is not explicitly mentioned, but cultural responsiveness and racial equity are emphasized. The plan includes equity goals and initiatives embedded in practice models, workforce training, and continuous quality improvement with a racial equity lens.",
+      "targeted_groups": [
+        "Families of color",
+        "Children and families known to CTDCF",
+        "Families accepted for Voluntary Care Management services",
+        "Pregnant and parenting youth in foster care",
+        "Siblings of youth in foster care",
+        "Youth referred to juvenile review boards or diversion programs",
+        "Children who are chronically absent or truant",
+        "Children of incarcerated parents",
+        "Trafficked youth",
+        "Unstably housed/homeless youth and families",
+        "Families experiencing interpersonal violence",
+        "Caregivers or children with substance use disorder, mental health condition, or disability impacting parenting",
+        "Substance-exposed infants",
+        "Communities of color",
+        "Spanish-speaking communities",
+        "Families with intellectual and developmental disabilities"
+      ],
+      "quotes": [
+        "The seven cross-cutting themes that guide the mission and strategies of the practice model include: Addressing racial inequities in all areas of our practice.",
+        "CTDCF seeks to sharpen the safety lens by strengthening primary prevention across the child welfare system through five strategic goals: Safety, Permanency, Racial Justice, Well-being, and Workforce.",
+        "Eliminate racial & ethnic disparate outcomes within our department.",
+        "In 2020, with racial disparities illuminated in a global pandemic and our nation gripped in civil unrest, CTDCF reaffirmed its commitment to becoming an anti-racist organization whose beliefs, values, policies, and practices achieve racially just outcomes.",
+        "CTDCF recognizes that these assessments must occur in partnership with providers, the family, youth and children, in an age and developmentally appropriate manner, shaped by clients’ racial, cultural, and linguistic self-identification and needs.",
+        "CTDCF is committed to cultivating and sustaining an environment that is supported and grounded in the context of the Department's Safe and Sound Culture. As a culture of safety, CT Safe and Sound Culture is rooted in principles of respect, trust, candor, equity, and racial justice.",
+        "CTDCF has a strong data infrastructure that is accessible to all staff, one that assists in evaluation of its practices and outcomes through a racial justice lens. The Department has deliberately invested in capabilities that allow for disaggregation of most reports by race and ethnicity.",
+        "The Differential Response System is a core part of CTDCF's move to a more family-centered practice.",
+        "CTDCF is also firmly committed to meaningful fatherhood engagement. It is well documented that fatherhood involvement, particularly in communities of color, is vital to child development and strengthening the family.",
+        "BSFT was developed to respond to the cultural/contextual factors that influence youth behavior problems and has promising outcomes with communities of color and Spanish-speaking communities.",
+        "PCIT has demonstrated positive effects with various populations including African American families, American Indian/Alaska Native families, and Latino and Spanish-speaking families.",
+        "PAT is culturally responsive and has shown effectiveness with non-white populations.",
+        "All evaluation and CQI questions will be examined from the standpoint of racial equity; Connecticut plans to engage a diverse set of stakeholders and data to ensure it approaches Family First CQI with racial justice at the forefront.",
+        "The Academy currently offers a robust training curriculum ... designed to ensure that the workforce is equipped with the requisite skills and knowledge needed to support a prevention-oriented system. Each training category offers a cadre of courses that are trauma informed, competency-based and reflective of the Department’s commitment to racial justice.",
+        "Caregivers also expressed that ... ensuring that the workforce understands the importance of being genuine, flexible, and understanding is key to positive relationship building which leads to positive outcomes for children, youth, families and communities.",
+        "CTDCF intends to build workforce capacity to use assessments as a tool for enhanced family engagement, in order to authentically partner with families to identify needs and capitalize on family expertise.",
+        "CTDCF intends to integrate the core tenets developed out of the CONCEPT framework into all Family First contracts including language about trauma training, trauma-informed policy alignment, and trauma-screening.",
+        "CTDCF believes that through relationship building, regular contact, and crisis planning, when needed, monitoring safety can be a collaborative and empowering experience that keeps children safe while equipping families to sustain safety and stability.",
+        "CTDCF places an emphasis on training support for the CTDCF child welfare and provider workforce so that they are expertly trained on a competency-based, trauma informed curriculum that encompasses best practice through an intentional racial justice lens."
+      ]
+    },
+    "structural_determinants": {
+      "addresses_structural_determinants": true,
+      "support_types": [
+        "housing",
+        "food security",
+        "employment/job training",
+        "education support",
+        "income support",
+        "healthcare access",
+        "transportation",
+        "childcare access",
+        "poverty/economic support"
+      ],
+      "quotes": [
+        "Connecticut has reimagined its system to not only serve those families who come to the attention of the child welfare agency, but to also develop supports for families \"upstream,\" resulting in families being diverted from involvement with the child welfare agency. By empowering and supporting families, the well-being of Connecticut's families is enhanced.",
+        "CTDCF, sister state agencies, community-based organizations, early childhood, K-12 education, healthcare, law enforcement, judicial/courts, housing, behavioral health, labor and social service systems are all on the same team, working together to achieve optimal outcomes for children, youth, families and communities.",
+        "Therefore, Connecticut intends to continue investment in efforts that address family and community economic supports, services that are developed with and for communities of color, and evidence-based practices that address the full continuum of mental, behavioral, and physical health needs of Connecticut children and families.",
+        "By identifying unstably housed youth and their caregivers as candidates, Connecticut intends to provide prevention services to address underlying needs and plans to connect families with existing housing initiatives led by partner agencies to help address housing-specific needs.",
+        "Under the McKinney-Vento Homeless Assistance Act, school districts are required to identify a liaison for identifying and ensuring immediate and consistent access to education and subsequent support services.",
+        "The State Department of Education maintains a program manager to oversee the provision of educational and related services, rights and opportunities for students experiencing homelessness or unstable housing.",
+        "Research indicates that substance use disorder is a risk factor for maltreatment and neglect, as it may affect a parent’s ability to function as a caregiver and provide for their children's basic needs.",
+        "Families seek out the VCM Program because they are unable to access services to address the acute needs of their children. Historically, some families saw the only pathway to services for their children with serious emotional or behavioral challenges as involving contact with the child welfare agency, which exposed the families to the possibility of losing guardianship or having their child committed to the Department.",
+        "Families accepted for Voluntary Care Management (VCM) Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families experiencing interpersonal violence - HFA has proven outcomes for mothers with reported instances of intimate partner violence; specifically, mothers receiving HFA reported lower rates of physical assault victimization and significantly lower rates of perpetration.",
+        "Families accepted for VCM Services: Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Pregnant or parenting youth in foster care - NFP could be offered to expectant or new mothers in foster care.",
+        "Caregivers or children who have a substance use disorder, mental health condition, or disability that impacts parenting - Studies indicate that NFP can improve child cognitive functioning and abilities as well as their physical and developmental health.",
+        "Currently these services are aimed at families identified through OEC and eligible for MIECHV funding; Connecticut’s goal is to use Family First as a lever to expand the reach of home visiting programs to the families identified through Connecticut’s candidacy populations, including child welfare system-involved families or families at risk of child-welfare involvement.",
+        "CTDCF seeks to leverage OEC's investment in HFA to build programmatic infrastructure in the state.",
+        "Families accepted for Voluntary Care Management Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Children who are chronically absent from preschool/school or who are truant - When participating in PAT, parents are taught to detect developmental delays earlier in their children and parents are.",
+        "Families accepted for VCM Services: Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for Voluntary Care Management Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that FFT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that MST can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that BSFT can result in improved child behavioral and emotional functioning by reducing externalizing behaviors which is the primary reason youth are referred for VCM services.",
+        "Families accepted for VCM Services - Research indicates that PCIT can result in improved child behavioral and emotional functioning which is the primary reason youth are referred for VCM services."
+      ]
+    },
+    "programs_waiting_to_add": {
+      "programs": [
+        {
+          "name": "MDFT",
+          "quote": "In the future, Connecticut intends to pursue an evaluation for the three \"promising\" and \"supported\" EBPs named in this Prevention Plan (i.e., MDFT, TF-CBT, and Triple P),",
+          "status": "pending evaluation",
+          "timeline": "in the future"
+        },
+        {
+          "name": "TF-CBT",
+          "quote": "In the future, Connecticut intends to pursue an evaluation for the three \"promising\" and \"supported\" EBPs named in this Prevention Plan (i.e., MDFT, TF-CBT, and Triple P),",
+          "status": "pending evaluation",
+          "timeline": "in the future"
+        },
+        {
+          "name": "Triple P",
+          "quote": "In the future, Connecticut intends to pursue an evaluation for the three \"promising\" and \"supported\" EBPs named in this Prevention Plan (i.e., MDFT, TF-CBT, and Triple P),",
+          "status": "pending evaluation",
+          "timeline": "in the future"
+        },
+        {
+          "name": "Multidimensional Family Therapy",
+          "quote": "Multidimensional Family Therapy             |                                 | ✔                         ",
+          "status": "planned/future evaluation",
+          "timeline": "not specified"
+        },
+        {
+          "name": "Trauma-Focused Cognitive Behavioral Therapy",
+          "quote": "Trauma-Focused Cognitive Behavioral Therapy |                                 | ✔                         ",
+          "status": "planned/future evaluation",
+          "timeline": "not specified"
+        }
+      ],
+      "total_count": 5
+    },
+    "target_populations": {
+      "populations": [
+        {
+          "group": "Families with accepted Careline calls",
+          "quote": "Families with accepted Careline calls",
+          "criteria": "Families referred to the VCM program from the CTDCF Careline"
+        },
+        {
+          "group": "Pregnant and parenting youth in foster care",
+          "quote": "Pregnant and parenting youth in foster care",
+          "criteria": "Youth currently in foster care who are pregnant or parenting"
+        },
+        {
+          "group": "Siblings of youth in foster care",
+          "quote": "Siblings of youth in foster care",
+          "criteria": "Siblings of children currently in foster care"
+        },
+        {
+          "group": "Families accepted for Voluntary Care Management Services",
+          "quote": "Families accepted for Voluntary Care Management Services",
+          "criteria": "Families accepted for VCM services as identified by Careline staff"
+        },
+        {
+          "group": "Youth that have exited foster care",
+          "quote": "Youth that have exited foster care",
+          "criteria": "Youth who have left foster care"
+        },
+        {
+          "group": "Children who are chronically absent from preschool/school or are truant from school",
+          "quote": "Children who are chronically absent from preschool/school or are truant from school",
+          "criteria": "Children with chronic absenteeism or truancy"
+        },
+        {
+          "group": "Children of incarcerated parents",
+          "quote": "Children of incarcerated parents",
+          "criteria": "Children with one or more incarcerated parents"
+        },
+        {
+          "group": "Trafficked youth",
+          "quote": "Trafficked youth",
+          "criteria": "Youth who have been trafficked"
+        },
+        {
+          "group": "Unstably housed/homeless youth",
+          "quote": "Unstably housed/homeless youth",
+          "criteria": "Youth experiencing unstable housing or homelessness"
+        },
+        {
+          "group": "Families experiencing interpersonal violence",
+          "quote": "Families experiencing interpersonal violence",
+          "criteria": "Families experiencing interpersonal violence"
+        },
+        {
+          "group": "Youth who have been referred to a Juvenile Review Board, a Youth Service Bureau, or another diversion program; or who have been arrested",
+          "quote": "Youth who have been referred to a Juvenile Review Board, a Youth Service Bureau, or another diversion program; or who have been arrested",
+          "criteria": "Youth involved with juvenile diversion programs or arrested"
+        },
+        {
+          "group": "Caregivers or children who have a substance use disorder, mental health condition, or disability that impacts parenting",
+          "quote": "Caregivers or children who have a substance use disorder, mental health condition, or disability that impacts parenting",
+          "criteria": "Caregivers or children with substance use disorder, mental health condition, or disability impacting parenting"
+        },
+        {
+          "group": "Infants born substance-exposed",
+          "quote": "Infants born substance-exposed (as defined by the state CAPTA notification protocol)",
+          "criteria": "Infants born substance-exposed per state CAPTA notification protocol"
+        },
+        {
+          "group": "Families accepted for Voluntary Services (Voluntary Care Management as of May 1, 2020)",
+          "quote": "Families accepted for Voluntary Services (Voluntary Care Management as of May 1, 2020)",
+          "criteria": "Accepted for Voluntary Services or Voluntary Care Management"
+        },
+        {
+          "group": "Youth who have been referred to a juvenile review board, youth service bureau, other diversion program, or who have been arrested",
+          "quote": "Youth who have been referred to a juvenile review board, youth service bureau, other diversion program, or who have been arrested",
+          "criteria": "Youth involved with juvenile review boards, youth service bureaus, diversion programs, or arrested"
+        },
+        {
+          "group": "Caregivers or children who have a substance use disorder, mental health condition or disability that impacts parenting",
+          "quote": "Caregivers or children who have a substance use disorder, mental health condition or disability that impacts parenting",
+          "criteria": "Caregivers or children with substance use disorder, mental health condition, or disability impacting parenting"
+        },
+        {
+          "group": "Infants born substance-exposed as defined by the state’s Child Abuse Prevention and Treatment Act (CAPTA) notification protocol",
+          "quote": "Infants born substance-exposed as defined by the state’s Child Abuse Prevention and Treatment Act (CAPTA) notification protocol",
+          "criteria": "Newborns exposed in utero to substances or diagnosed with withdrawal symptoms or Fetal Alcohol Syndrome per CAPTA definition"
+        },
+        {
+          "group": "young, first-time, low-income mothers from early pregnancy through the child’s first two years",
+          "quote": "It targets young, first-time, low-income mothers from early pregnancy through the child’s first two years (Nurse Family Partnership, 2020).",
+          "criteria": "young, first-time, low-income mothers; early pregnancy through child’s first two years"
+        },
+        {
+          "group": "families in New London and Middlesex counties",
+          "quote": "Since 2012, the Visiting Nurse Association of Southeastern Connecticut has been providing NFP to families in New London and Middlesex counties",
+          "criteria": "families residing in New London and Middlesex counties"
+        },
+        {
+          "group": "families in the western part of the state",
+          "quote": "in 2020 the New Milford Visiting Nurse Association expanded NFP to serve families in the western part of the state",
+          "criteria": "families residing in western Connecticut"
+        },
+        {
+          "group": "first time mothers (pregnant and parenting youth in foster care, children with mental health or developmental disabilities, substance-exposed infants)",
+          "quote": "Connecticut selected NFP ... because of its established infrastructure and its alignment with candidacy populations that may include first time mothers (pregnant and parenting youth in foster care, children with mental health or developmental disabilities, substance-exposed infants).",
+          "criteria": "first time mothers including pregnant and parenting youth in foster care, children with mental health or developmental disabilities, substance-exposed infants"
+        },
+        {
+          "group": "families identified through OEC and eligible for MIECHV funding",
+          "quote": "Currently these services are aimed at families identified through OEC and eligible for MIECHV funding",
+          "criteria": "families identified through OEC and eligible for MIECHV funding"
+        },
+        {
+          "group": "child welfare system-involved families or families at risk of child-welfare involvement",
+          "quote": "Connecticut’s goal is to use Family First as a lever to expand the reach of home visiting programs to the families identified through Connecticut’s candidacy populations, including child welfare system-involved families or families at risk of child-welfare involvement.",
+          "criteria": "families involved with or at risk of involvement with child welfare system"
+        },
+        {
+          "group": "Families at risk of foster care entry",
+          "quote": "The child specific prevention plan will include language that indicates that the child has been identified as being at serious risk of entering foster care and that families’ participation in prevention services is designed to prevent foster care entry.",
+          "criteria": "Child identified as being at serious risk of entering foster care"
+        },
+        {
+          "group": "Known-to-CTDCF populations",
+          "quote": "“Known-to-CTDCF” populations (i.e., pregnant and parenting youth in foster care, siblings in foster care) will be captured in CT-LINK.",
+          "criteria": "Families and children with prior child welfare involvement known to CTDCF"
+        },
+        {
+          "group": "Community pathways population",
+          "quote": "For Connecticut's community pathway population, CTDCF anticipates that child specific data will be entered into a community portal and the CME will share the relevant child-specific data elements with CTDCF to ensure Connecticut has the data necessary for Family First claiming and reporting.",
+          "criteria": "Families served through community pathways, with partnerships and infrastructure in place before contracting with CME"
+        },
+        {
+          "group": "Families accepted for Voluntary Care Management (VCM)",
+          "quote": "For families accepted for VCM, Family First eligibility will be determined by the CTDCF Careline workers. Once services are identified through Beacon Health Options, services and the remaining elements of the child-specific prevention plan will be documented in their electronic system, Service Care Connect.",
+          "criteria": "Families accepted for voluntary services under VCM"
+        },
+        {
+          "group": "new and expectant parents/caregivers with children at high risk of abuse or neglect or other adverse childhood experiences",
+          "quote": "HFA is a home visiting program for new and expectant parents/caregivers with children at a high risk of abuse or neglect or other adverse childhood experiences.",
+          "criteria": "Enrollment begins prenatally and can continue until three months after birth; most families are offered services for at least three years."
+        },
+        {
+          "group": "parents with children under 3 years of age",
+          "quote": "alignment with candidacy populations that may include parents with children under 3 years of age (pregnant and parenting youth in foster care, children with behavioral health or developmental disabilities, substance-exposed infants, etc.)",
+          "criteria": "children under 3 years of age"
+        },
+        {
+          "group": "children with behavioral health or developmental disabilities",
+          "quote": "children with behavioral health or developmental disabilities",
+          "criteria": "children with behavioral health or developmental disabilities"
+        },
+        {
+          "group": "substance-exposed infants",
+          "quote": "substance-exposed infants",
+          "criteria": "substance-exposed infants"
+        },
+        {
+          "group": "known-to-CTDCF candidates",
+          "quote": "All of the “known-to-CTDCF” candidates undergo the SDM CT Family Safety and Risk Assessment as part of the intake process.",
+          "criteria": "children and families known to CTDCF and candidates for services"
+        },
+        {
+          "group": "families served by the Voluntary Care Management (VCM) program",
+          "quote": "The Voluntary Care Management (VCM) program works with families to help connect youth to high needs behavioral health services and support.",
+          "criteria": "families with youth needing high needs behavioral health services"
+        },
+        {
+          "group": "community pathways candidacy population",
+          "quote": "For the community pathways candidacy population, the CME will initially evaluate a family’s safety using a validated safety assessment tool...",
+          "criteria": "families identified under the community pathways candidacy population"
+        }
+      ],
+      "primary_population": "Families referred to the VCM program from the CTDCF Careline"
+    },
+    "eligibility_determination": {
+      "determination_method": "Eligibility is determined through an assessment protocol administered by the Care Management Entity (CME) to ensure no safety concerns, identify risks, strengths, and needs, and evaluate alignment with Connecticut’s criteria for imminent risk and community pathway candidacy definition. The CME then makes a recommendation to CTDCF, which makes the ultimate eligibility determination.",
+      "screening_tools": [
+        "assessment protocol (further explained in Section 4: Child Specific Prevention Plan)",
+        "standardized assessment tools",
+        "assessment protocol conducted by the CME",
+        "Connecticut's SDM tool",
+        "SDM CT Family Safety and Risk Assessment",
+        "validated safety assessment tool (used by CME)",
+        "questionnaire/referral",
+        "periodic risk assessment",
+        "Structured Decision Making (SDM) tool",
+        "risk and safety assessments"
+      ],
+      "decision_maker": "The Care Management Entity (CME) makes a recommendation based on the assessment, and CTDCF makes the ultimate determination regarding candidacy eligibility.",
+      "quotes": [
+        "In order to make an eligibility recommendation, the CME will first administer an assessment protocol (further explained in Section 4: Child Specific Prevention Plan) 1) to ensure there are no safety concerns that would be better handled by the Careline, 2) to identify risks, strengths, and needs that will inform case planning and service matching, and 3) to evaluate whether children and youth meet Connecticut’s criteria for imminent risk and align with CTDCF’s community pathway candidacy definition.",
+        "Once the assessment protocol and the initial child specific prevention plan have been developed, the CME will make a recommendation to CTDCF about eligible candidates and CTDCF will make the ultimate determination regarding candidacy eligibility.",
+        "While this determination decision will be essential for families to receive reimbursable Title IV-E services, it will not determine whether they are served by the CME. Connecticut intends to serve all families that come through the CME and intends to make candidacy determination a claiming decision that will happen behind the scenes and will not impact the family’s service experience.",
+        "For Connecticut’s “known-to-CTDCF” population, eligibility will be determined using existing infrastructure at the Careline, reflecting the fact that all families associated with accepted Careline calls will be eligible for Family First.",
+        "Services will be selected in partnership with the family while drawing on the results of the identified standardized assessment tools.",
+        "For families accepted for VCM, Family First eligibility will be determined by the CTDCF Careline workers.",
+        "For the community pathways population, Connecticut plans to integrate the child-specific prevention plan requirements into the assessment protocol conducted by the CME.",
+        "The CME will engage families to assess their risks, needs, and strengths. Partner with them to select the appropriate services.",
+        "For all Family First candidacy populations, Connecticut intends to use a standardized referral process.",
+        "The CME will be responsible for filling out referrals with a standardized set of criteria for community pathway families.",
+        "For each child, the candidacy determination date will be documented and tracked by CTDCF.",
+        "Following that meeting, CTDCF will make the redetermination decision and will document it in CT-LINK.",
+        "The CME will provide a candidacy re-recommendation to CTDCF at 11 months and CTDCF will make a final candidacy re-determination before 12 months.",
+        "Results from Connecticut's SDM tool, completed during intake, determine a CTDCF response.",
+        "CTDCF determined that families involved with both Investigations and FAR tracks should be eligible for Family First prevention services in order to provide all families with accepted Careline calls enhanced family supports to prevent occurrence or recurrence of maltreatment and to keep children at home when safe.",
+        "As part of existing intake procedures, Connecticut already assesses all children in the home, therefore identification of siblings and their needs is consistent with current casework.",
+        "All of the “known-to-CTDCF” candidates undergo the SDM CT Family Safety and Risk Assessment as part of the intake process.",
+        "For all “known-to-CTDCF” candidates, case workers will continue to leverage these existing engagement and monitoring mechanisms (CFTMs, regular contact, the ABCD Child Safety Practice Model, the SDM tools, etc.) to update each child specific prevention plan and to identify whether a child’s risk remains high, and services are still required during the 12-month period receiving Title IV-E prevention services.",
+        "If at the end of the 12-month period, family risk and/or needs remain high, CTDCF will make a formal redetermination decision for “known-to-CTDCF” families and will ensure the child specific prevention plan and identified Title IV-E services align with current needs and maintain child safety.",
+        "During meetings with the family, the VCM care manager will complete informal assessments of both child risk and safety, and will discuss the family’s progress, goals, and any barriers they are experiencing.",
+        "The VCM will submit redetermination recommendations and an accompanying rationale to the CTDCF Regional System Program Directors, the current VCM contract monitor, who then will make the final candidacy redetermination decision.",
+        "For the community pathways candidacy population, the CME will initially evaluate a family’s safety using a validated safety assessment tool that will identify whether current, significant, and clearly observable threats exist to the safety of the child or youth.",
+        "If there is a safety concern, the CME will make a referral to the Careline for further evaluation.",
+        "CTDCF will require that the CME have regular contact with the family and will conduct informal safety assessments during those contacts.",
+        "Both CME and service providers will be mandated reporters and will be trained in CTDCF’s safety practice model (ABCD Child Safety Practice Model) in order to ensure a clear understanding of how to identify safety threats and when a call to the Careline is necessary.",
+        "only CTDCF staff will determine child-specific eligibility for prevention services.",
+        "eligibility will be determined initially at the Careline due to the fact that families associated with all accepted Careline calls will be eligible for Family First service.",
+        "various opportunities during intake and routine casework, such as the administrative case review process, for Connecticut CTDCF staff to identify pregnant or parenting youth.",
+        "All \"known–to-CTDCF\" populations’ eligibility will be documented in Connecticut's data system, “LINK.”",
+        "The CME intends to accept all calls from children and families, unless safety factors are identified at which time a careline report will be made.",
+        "CME staff are mandated reporters and if they hear something that meets the statutory criteria of abuse or neglect, they will refer to the Careline.",
+        "A Family Assessment Response and a traditional investigation share many of the same principles described below:",
+        "- Focuses on the safety and well‐being of the child",
+        "- Promotes permanency within the family whenever possible",
+        "- Recognizes the authority of CTDCF to make decisions about removal, out‐of‐home placement, and court involvement",
+        "- Acknowledges that other community services may be more appropriate and beneficial to families in some cases rather than receiving services from a child protection agency, such as “Community Support for Families” or the “Integrated Family Care and Support” program",
+        "families call the CTDCF Careline to request services. Careline staff gather eligibility information about the family through a questionnaire/referral that is submitted to Beacon Health Options, the contacted provider, and the Office of Health Care Advocate to ensure all potential alternative insurance resources have been explored.",
+        "a contracted provider is responsible for determining and delivering services",
+        "the CME will be expected to conduct an assessment protocol for all families coming through the CME. This will include 1) an evaluation of safety; if there is a safety concern the CME will make a call to the Careline for further evaluation, and 2) an assessment of risks, strengths, and needs to inform case planning, and service matching.",
+        "CTDCF will dictate within the CME RFP the necessity to use a ‘periodic risk assessment’ that meets the requirements outlined in the Family First legislation and that incorporates assessment characteristics identified by the Infrastructure, Practice, and Policy subgroup (i.e., tools that facilitate family engagement and trust-building) but will allow the CME to select the specific assessment.",
+        "Connecticut plans to build workforce capacity to use assessments as a tool for enhanced family engagement, in order to authentically partner with families to identify needs and capitalize on family expertise.",
+        "the overview training will introduce a clear process for understanding service eligibility for known-to-CTDCF Family First candidates; and address ... using risk and safety assessments (the SDM tool).",
+        "family engagement in the assessment process",
+        "pre-service offerings for new child welfare staff include ... a two-day Structured Decision Making (SDM) training",
+        "Key among the many in-service courses currently offered to support Family First are: Assessing Safety and Risk during the interview process, SDM Safety Planning and Critical Thinking Skills.",
+        "supervisors will engage coaching tools and techniques to strengthen practice proficiency in their staff.",
+        "CT will work with the CME to determine appropriate caseload sizes based on the experience levels and expected activities of the staff working with families receiving Family First prevention services.",
+        "CTDCF anticipates at least three key roles within the CME including 1) Assessment Specialist responsible for assessing families and making candidacy recommendations to CTDCF",
+        "Care Coordinators responsible for the ongoing case management of Family First candidates",
+        "Clinical Supervisors to provide guidance and support to these other two positions.",
+        "Families with certain characteristics that will be identified through a community or neighborhood pathway and eligible for services are: Families accepted for Voluntary Services (Voluntary Care Management as of May 1, 2020), Children who are chronically absent from preschool/school or are truant from school, Children of incarcerated parents, Trafficked youth, Unstably housed/homeless youth, Families experiencing interpersonal violence, Youth who have been referred to a juvenile review board, youth service bureau, other diversion program, or who have been arrested, Caregivers or children who have a substance use disorder, mental health condition or disability that impacts parenting, Infants born substance-exposed as defined by the state’s Child Abuse Prevention and Treatment Act (CAPTA) notification protocol.",
+        "CTDCF plans to contract with a Care Management Entity (CME) to engage these \"community pathways\" families, provide case management, manage service referrals, and monitor ongoing progress.",
+        "The Differential Response System ... affords CTDCF the opportunity to customize its response to accepted reports of child maltreatment by using one of two response tracks: Traditional Investigation or Family Assessment Response.",
+        "In a traditional investigation, ... a formal determination is made as to whether maltreatment has occurred.",
+        "When a family is the subject of a Family Assessment Response (FAR), ... the agency does not make a formal finding of child maltreatment.",
+        "Comprehensive assessment, resources, tools, and protocols to support safety and consistent decisions"
+      ]
+    },
+    "workforce_support": {
+      "workforce_training": {
+        "has_training_plan": true,
+        "training_description": "Connecticut provides training support for the child welfare and provider workforce through a competency-based, trauma informed curriculum with a racial justice lens, including training via the Academy for Workforce Development to prepare caseworkers on Family First and evidence-based practices.",
+        "quotes": [
+          "Connecticut places an emphasis on training support for the CTDCF child welfare and provider workforce so that they are expertly trained on a competency-based, trauma informed curriculum that encompasses best practice through an intentional racial justice lens.",
+          "Ensuring that the workforce has a comprehensive understanding of being trauma informed not only supports a well-developed workplace but also reinforces the important professional development.",
+          "CTDCF provides training through the Academy for Workforce Development, which prepares caseworkers to understand the specific details of Family First and available EBPs.",
+          "CTDCF will modify the existing contract with Beacon Health Options to include mandatory Family First-specific training to orient all new staff.",
+          "These trainings will cover a number of topics, but will at a minimum cover skills and strategies needed to develop, adjust, and monitor child specific prevention plans including strategies for identifying the information needed to make a candidacy redetermination recommendation to CTDCF.",
+          "VCM workers also will be trained in the ABCD Child Safety Practice Model.",
+          "These training required for VCM workers will be competency-based and in the interim, will be provided through the existing Community Academy (formerly known as the ‘Provider Academy’ and housed within the Academy of Workforce Development).",
+          "Beacon Health Options is contractually obligated to provide ongoing staff development and education to VCM staff that cover areas like trauma-informed care, case management, service referral, etc.",
+          "CTDCF will also develop a train-the-trainer model for Family First trainings to ensure quality.",
+          "FFT provides training to teams of therapists plus consultation and practice to support model fidelity.",
+          "All existing and any future Connecticut FFT providers have completed or will complete the three phases of development and training necessary for fidelity: 1) clinical training, 2) supervisor training, and 3) the maintenance phase.",
+          "Therapist fidelity is measured in part through the Weekly Supervision Checklist and the Global Therapist Ratings.",
+          "FFT fidelity monitoring will include completion of assessments which include pre posts, process, and outcome measures, along with fidelity rating of staffing and consultations with supervisors.",
+          "CTDCF has a longstanding practice of contracting with model developers for training and technical assistance to ensure model fidelity.",
+          "The EBP models require information on staff training and progress toward certification in the model. These data include staff participation in initial and booster training sessions, any necessary technical assistance, documentation of sessions (submission of recorded sessions); and track the content, frequency and duration of sessions.",
+          "CTDCF will require and coordinate mandatory Family First orientation trainings including skills and strategies needed to develop, adjust, and monitor child specific prevention plans including strategies for identifying the information needed to make a candidacy redetermination recommendation to CTDCF.",
+          "Because the initial Family First trainings will be provided through the existing Community Academy, CTDCF plans to implement a train-the-trainer model and share the curriculum and training resources with the CME in order to ensure training quality.",
+          "Workforce skill development is central",
+          "There are strong initiatives across the state to learn from and build upon",
+          "A capable workforce with local knowledge supporting and =",
+          "The model guides the daily interactions of employees, families, and community members in their work with the Department in conjunction with the standards of practice to achieve child safety outcomes by: ... Clarifying interactive expectations for frontline staff, supervisors, and community-based partners",
+          "The six core components of the child safety practice model are: ... Supervision and consultation to inform critical thinking",
+          "Training and support for child welfare staff has been prioritized to cultivate an understanding of childhood trauma and to build strategies around how to support children and families who have experienced adverse circumstances.",
+          "CTDCF has since adopted the National Child Trauma Stress Network’s (NCTSN) Child Welfare Trauma Training Toolkit, training more than 2,500 child welfare staff and implementing a Trauma-Informed Therapeutic Childcare model.",
+          "CTDCF intends to integrate the core tenets developed out of the CONCEPT framework into all Family First contracts including language about trauma training, trauma-informed policy alignment, and trauma-screening.",
+          "CTDCF anticipates annual monitoring of this trauma-informed framework in alignment with the existing contract review and continuous quality improvement strategies.",
+          "Because there are no active sites in Connecticut, organizations seeking to implement will need to participate in the pretraining Organizational Readiness process in order to orient the staff with the essentials of the model.",
+          "BSFT therapists are assessed after each session using the BSFT Adherence Certification Checklist which is based upon ratings of filmed clinical sessions.",
+          "This tool is designed to assess how adept a practitioner is at implementing BSFT and to provide feedback that can be used to increase clinical skills and fidelity to the model.",
+          "The PAT National Center provides technical assistance via state assigned National Center TA providers to any organization implementing PAT that requests assistance.",
+          "This state-based TA includes support with fidelity monitoring culminating in an annual report.",
+          "PAT providers are required to meet specific CQI measures known as the 21 Essential Requirements.",
+          "If the provider does not meet certain benchmark percentages of the Essential Requirements, they must complete a “Success Plan” outlining how they will improve to meet benchmarks, participate in rapid CQI processes, and undergo technical assistance with an assigned PAT staff member.",
+          "The PAT National Center expects affiliate providers to engage in CQI of service delivery and operations on an ongoing basis including: tracking and evaluating service delivery and outcomes, along with monitoring staff requirements such supervision, training and workload.",
+          "new providers are offered a 3-day Implementation Training by the HFA National Office as well as ongoing implementation support.",
+          "Providers are granted consultation phone calls to help identify implementation readiness and are provided with HFA Site Development guides.",
+          "Ongoing technical assistance, staff training, and periodic site visits are components of formal implementation support provided by the HFA National Office and serve as key elements of fidelity monitoring.",
+          "The Academy for Workforce Development: Primarily responsible for training and support of field practices that advance the goals of high-quality assessment, referral, case planning, and service delivery in Connecticut.",
+          "Model developers/trainers: Primarily responsible for training and support of providers implementing Family First EBPs.",
+          "To support implementation of Family First, the EBP provider workforce will be trained on the unique EBP model requirements, to ensure fidelity and long-term sustainability.",
+          "The Department recognizes that having a lead entity for EBP workforce training is critical particularly for the ongoing support and coaching that is needed for fidelity.",
+          "The Department plans to contract with an outside entity to partner in this task, as available funding allows."
+        ]
+      },
+      "credentialing": {
+        "has_requirements": true,
+        "requirements": [
+          "completion of three phases of development and training: clinical training, supervisor training, maintenance phase",
+          "progress toward certification in the model",
+          "staff participation in initial and booster training sessions",
+          "BSFT Adherence Certification",
+          "BSFT Certified Supervisors",
+          "Providers must meet specific CQI measures known as the 21 Essential Requirements",
+          "Providers become a “Provisional Affiliate” until minimum benchmark measures are met",
+          "Providers that meet at least 75% of PAT Quality Standards are recognized as “Blue Ribbon Affiliates”",
+          "submission of an implementation plan outlining capacity to implement model requirements",
+          "completion of a self-study of current site policy and practice",
+          "demonstration of fidelity to HFA Best Practice Standards through periodic accreditation site visits",
+          "adherence to 153 HFA Best Practice Standards"
+        ],
+        "quotes": [
+          "All existing and any future Connecticut FFT providers have completed or will complete the three phases of development and training necessary for fidelity: 1) clinical training, 2) supervisor training, and 3) the maintenance phase.",
+          "The EBP models require information on staff training and progress toward certification in the model.",
+          "These data include staff participation in initial and booster training sessions, any necessary technical assistance, documentation of sessions (submission of recorded sessions); and track the content, frequency and duration of sessions.",
+          "BSFT therapists are assessed after each session using the BSFT Adherence Certification Checklist which is based upon ratings of filmed clinical sessions.",
+          "Initial ratings will be provided by the BSFT Institute Faculty until Connecticut providers develop their own BSFT Certified Supervisors.",
+          "PAT providers are required to meet specific CQI measures known as the 21 Essential Requirements.",
+          "If the provider does not meet certain benchmark percentages of the Essential Requirements, they must complete a “Success Plan” outlining how they will improve to meet benchmarks, participate in rapid CQI processes, and undergo technical assistance with an assigned PAT staff member.",
+          "The provider becomes a “Provisional Affiliate” until minimum benchmark measures are met.",
+          "Providers that meet at least 75% of PAT Quality Standards are recognized as exemplary “Blue Ribbon Affiliates”, recognizing that these providers are delivering high-quality services to children and families.",
+          "Prospective HFA providers are required to submit an implementation plan outlining their capacity to implement the model requirements.",
+          "HFA requires local HFA providers to follow the HFA Best Practice Standards and to demonstrate fidelity to the standards demonstrated through periodic accreditation site visits.",
+          "All HFA providers are required to complete a self-study of current site policy and practice.",
+          "An external and objective peer review team uses this self-study along with a multi-day site visit to determine the sites rating (of exceeding, meeting or not yet meeting) for each standard."
+        ]
+      }
+    },
+    "funding_sources": {
+      "funding_sources": [
+        {
+          "source": "Title IV-B",
+          "quote": "they will collaboratively select and document appropriate services, including those supported by title IV-B subpart 1 and 2 funding"
+        },
+        {
+          "source": "Title IV-E",
+          "quote": "As part of these conversations, case managers will communicate the purpose and intended outcomes of the title IV-E prevention services identified in their child’s prevention plan."
+        },
+        {
+          "source": "Connecticut DCF",
+          "quote": "While PCIT is not currently funded by CTDCF or any other Connecticut state agency, it has been installed by a number of therapists and a few community providers. As available funding allows, CTDCF will begin to support the infrastructure development and implementation of services models in our plan that would be new additions to the Connecticut DCF service array, including PCIT."
+        },
+        {
+          "source": "Maternal, Infant, and Early Childhood Home Visiting (MIECHV) program",
+          "quote": "These home visiting services are supported by the Maternal, Infant, and Early Childhood Home Visiting (MIECHV) program, an initiative funded by the Health Resources and Services Administration (HRSA) in partnership with the Administration for Children and Families (ACF)."
+        },
+        {
+          "source": "MIECHV funding",
+          "quote": "Currently these services are aimed at families identified through OEC and eligible for MIECHV funding;"
+        },
+        {
+          "source": "Office of Early Childhood (OEC) investment",
+          "quote": "CTDCF seeks to leverage OEC's investment in HFA to build programmatic infrastructure in the state."
+        },
+        {
+          "source": "federal grant",
+          "quote": "In 2011, CTDCF was awarded a $3.2 million, five-year federal grant to develop the Connecticut Collaborative on Effective Practices for Trauma (CONCEPT), in order to integrate trauma practices into all levels of the child welfare system."
+        }
+      ],
+      "has_multiple_sources": true
+    },
+    "trauma_informed_delivery": {
+      "uses_trauma_informed_approach": true,
+      "evidence_quotes": [
+        "Expanding trauma-informed practice and culture",
+        "With a firm emphasis on strengthening and preserving families, the practice model lends itself to the Family First vision through keeping children safely with their families and avoiding the traumatic experience of entering care.",
+        "Connecticut intends to build upon its existing trauma-informed, mental and behavioral health infrastructure, in order to deliver Family First EBPs within a trauma-informed framework.",
+        "One of CTDCF's six cross-cutting values is Trauma-Informed Practice, which means delivering services to children and families with an understanding of the impact that trauma can have on their lives and using interpersonal skills to ensure that our work is supportive of trauma recovery and not re-traumatizing.",
+        "Training and support for child welfare staff has been prioritized to cultivate an understanding of childhood trauma and to build strategies around how to support children and families who have experienced adverse circumstances.",
+        "CTDCF has since adopted the National Child Trauma Stress Network’s (NCTSN) Child Welfare Trauma Training Toolkit, training more than 2,500 child welfare staff and implementing a Trauma-Informed Therapeutic Childcare model.",
+        "Expansion of trauma-informed interventions like TF-CBT and Child and Family Traumatic Stress Intervention (CFTSI)",
+        "CTDCF intends to integrate the core tenets developed out of the CONCEPT framework into all Family First contracts including language about trauma training, trauma-informed policy alignment, and trauma-screening.",
+        "This includes asking contracted providers a set of questions to ensure programming includes key trauma-informed activities including: Trauma-informed written policies; Training for staff and families regarding trauma and its impact on youth, families, and communities; Supervisors equipped to guide case managers on trauma-informed care; Trauma screening",
+        "Beacon Health Options is contractually obligated to provide ongoing staff development and education to VCM staff that cover areas like trauma-informed care, case management, service referral, etc.",
+        "In response to these concerns, it is anticipated that CTDCF will develop a contract with an outside Care Management Entity (CME) to work with families, local providers and CTDCF, to ensure that Connecticut can facilitate preventive services to families who need them to thrive with a racial justice and trauma-informed lens.",
+        "Each training category offers a cadre of courses that are trauma informed, competency-based and reflective of the Department’s commitment to racial justice.",
+        "For example, pre-service offerings for new child welfare staff include a two-day trauma training, behavioral health training, a two-day Structured Decision Making (SDM) training and a course focused on effectively engaging families, to name a few."
+      ]
+    }
+  },
+  "extraction_confidence": {
+    "confidence_score": 10,
+    "categories_extracted": 10,
+    "notes": []
+  },
+  "tokens_used": 289618
+}

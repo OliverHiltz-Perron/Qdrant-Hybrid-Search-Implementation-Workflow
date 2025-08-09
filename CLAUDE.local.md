@@ -1,0 +1,1 @@
+- Never change the model being used. Always use openais 4.1-mini or embedding 3 small whenever you use a model
