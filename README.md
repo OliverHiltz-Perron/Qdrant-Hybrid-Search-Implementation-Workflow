@@ -6,7 +6,7 @@ A comprehensive RAG (Retrieval-Augmented Generation) pipeline for systematically
 
 ### 🎯 Research Innovation
 
-This project implements a novel methodology that addresses critical challenges in policy analysis:
+This project implements a methodology that addresses critical challenges in policy analysis:
 
 - **Scale**: Processing 2,000+ pages across 42 state documents
 - **Complexity**: Extracting structured data from 14 distinct policy categories
@@ -38,11 +38,11 @@ The pipeline processes Family First Prevention Services Act (FFPSA) Title IV-E p
 ┌─────────────────────────────────────────────────────────────────┐
 │                    RETRIEVAL & EXTRACTION                       │
 ├─────────────────────────────────────────────────────────────────┤
-│ Query Expansion → Hybrid Search (70% Vector + 30% BM25)        │
+│ Query Expansion → Hybrid Search (70% Vector + 30% BM25)         │
 │         ↓                                                       │
-│ Cross-Encoder Reranking → Top-K Selection                      │
+│ Cross-Encoder Reranking → Top-K Selection                       │
 │         ↓                                                       │
-│ GPT-4 Schema-Based Extraction → Pydantic Validation            │
+│ GPT-4.1 Schema-Based Extraction → Pydantic Validation           │
 │         ↓                                                       │
 │ Structured JSON Output with Quality Metrics                     │
 └─────────────────────────────────────────────────────────────────┘
@@ -87,8 +87,8 @@ The pipeline processes Family First Prevention Services Act (FFPSA) Title IV-E p
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ffpsa-pipeline.git
-cd ffpsa-pipeline
+git clone https://github.com/[yourusername]/FFPSA.git
+cd FFPSA
 ```
 
 2. Install dependencies:
@@ -107,7 +107,13 @@ cp .env.example .env
 4. Start Qdrant (for local development):
 
 ```bash
-docker run -p 6333:6333 -v ./qdrant_storage:/qdrant/storage qdrant/qdrant
+# First, pull the Qdrant image
+docker pull qdrant/qdrant
+
+# Then run Qdrant with persistent storage
+docker run -p 6333:6333 -p 6334:6334 \
+    -v "$(pwd)/qdrant_storage:/qdrant/storage:z" \
+    qdrant/qdrant
 ```
 
 ### Running the Pipeline
@@ -115,27 +121,29 @@ docker run -p 6333:6333 -v ./qdrant_storage:/qdrant/storage qdrant/qdrant
 Process specific states and tasks:
 
 ```bash
-cd LocalQDrant
+cd src
 python pipeline.py --states CA FL TX --tasks FundingSources PreventionPrograms
 ```
 
 Process all 42 states for specific tasks:
 
 ```bash
+cd src
 python pipeline.py --tasks TraumaInformed EquityDisparity
 ```
 
 Full pipeline execution:
 
 ```bash
+cd src
 python pipeline.py  # Processes all states and all 14 tasks
 ```
 
 ## 📁 Project Structure
 
 ```
-FFPSA_backup/
-├── LocalQDrant/           # Main pipeline implementation
+FFPSA/
+├── src/                   # Main pipeline implementation
 │   ├── pipeline.py        # Multi-state orchestrator
 │   ├── pipeline_core.py   # Core RAG implementation
 │   ├── llm_processor.py   # GPT-4 extraction with validation
@@ -143,20 +151,24 @@ FFPSA_backup/
 │   ├── embed_cloud.py     # Cloud deployment embeddings
 │   ├── validation_models.py # 14 Pydantic schemas
 │   ├── prompt_manager.py  # Prompt engineering system
+│   ├── config/            # Configuration management
 │   └── Prompts/           # Task-specific prompts
 │       ├── LLM/           # Extraction prompts (14 categories)
 │       ├── Reranker/      # Cross-encoder prompts
 │       ├── BM25/          # Keyword expansion queries
 │       └── RAG/           # Semantic search queries
-├── data/                  # Source documents (42 state plans)
+├── states/                # Source documents (42 state plans)
 ├── multi_state_output_standardized/  # Structured outputs
 │   ├── [STATE]/           # State-specific results
 │   ├── _combined_by_task/ # Cross-state comparisons
 │   └── overall_summary.json
-├── config/                # Configuration management
 ├── tests/                 # Test suite
-├── docs/                  # Documentation & research paper
-└── requirements.txt       # Dependencies
+├── requirements.txt       # Dependencies
+├── requirements-dev.txt   # Development dependencies
+├── README.md              # Project documentation
+├── LICENSE                # MIT License
+├── CONTRIBUTING.md        # Contribution guidelines
+└── CHANGELOG.md           # Version history
 ```
 
 ## 📊 14 Policy Categories Analyzed
@@ -289,13 +301,13 @@ TIMEOUT_SECONDS=300
 
 ```bash
 # Run full test suite
-make test
+pytest tests/ -v --cov=src --cov-report=html --cov-report=term
 
 # Unit tests only
-make test-unit
+pytest tests/unit/ -v
 
 # Integration tests
-make test-integration
+pytest tests/integration/ -v
 
 # Test specific policy category
 python -m pytest tests/test_validation_models.py::TestFundingSources
@@ -329,9 +341,8 @@ If you use this methodology or code in your research, please cite:
          A Methodology for Extracting Structured Data from Child Welfare Policy},
   author={Perron, Brian E. and Hiltz-Perron, Oliver T. and
           Lyujun, Zhou and Eldeeb, Nehal},
-  journal={[Journal Name]},
-  year={2025},
-  note={Manuscript submitted for publication}
+  journal={Manuscript submitted for publication},
+  year={2025}
 }
 ```
 
@@ -347,12 +358,9 @@ If you use this methodology or code in your research, please cite:
 - Vector search powered by Qdrant
 - Cross-encoder reranking by Jina AI
 - Validation using Pydantic & Instructor
-- Research supported by [Institution/Grant info]
-
 ## 📞 Support
 
 For technical issues: Open a GitHub issue
-For research inquiries: [Contact information]
 
 ## 📄 License
 
