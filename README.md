@@ -68,7 +68,6 @@ The pipeline processes Family First Prevention Services Act (FFPSA) Title IV-E p
 
 ### Quality Assurance
 
-- **RAGAS Metrics**: Automated evaluation without ground truth
 - **Confidence Scoring**: Flags low-confidence extractions for review
 - **Audit Trail**: Complete provenance from source to extraction
 
@@ -219,7 +218,6 @@ python pipeline.py \
 
 The pipeline automatically:
 
-- Calculates RAGAS metrics (faithfulness, relevancy, completeness)
 - Flags low-confidence extractions
 - Generates validation reports
 
@@ -340,7 +338,7 @@ If you use this methodology or code in your research, please cite:
   title={Advancing Policy Analysis Through Retrieval-Augmented Generation:
          A Methodology for Extracting Structured Data from Child Welfare Policy},
   author={Perron, Brian E. and Hiltz-Perron, Oliver T. and
-          Lyujun, Zhou and Eldeeb, Nehal},
+          Lyujun, Zhou},
   journal={Manuscript submitted for publication},
   year={2025}
 }
