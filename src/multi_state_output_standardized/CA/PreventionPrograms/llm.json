@@ -1,0 +1,99 @@
+{
+  "state_code": "CA",
+  "task_type": "PreventionPrograms",
+  "extraction_timestamp": "2025-08-10T20:56:36.894144",
+  "model_used": "gpt-4.1",
+  "chunks_processed": 20,
+  "chunk_ids": [
+    "semantic_chunk_000039",
+    "semantic_chunk_000059",
+    "semantic_chunk_000061",
+    "semantic_chunk_000036",
+    "semantic_chunk_000068",
+    "semantic_chunk_000063",
+    "semantic_chunk_000038",
+    "semantic_chunk_000066",
+    "semantic_chunk_000077",
+    "semantic_chunk_000052",
+    "semantic_chunk_000013",
+    "semantic_chunk_000051",
+    "semantic_chunk_000014",
+    "semantic_chunk_000055",
+    "semantic_chunk_000060",
+    "semantic_chunk_000064",
+    "semantic_chunk_000062",
+    "semantic_chunk_000057",
+    "semantic_chunk_000056",
+    "semantic_chunk_000037"
+  ],
+  "extraction": {
+    "prevention_programs": [
+      {
+        "program_name": "Nurse-Family Partnership (NFP)",
+        "target_population": "First-time parents/caregivers with a child under 2 years of age; young, first-time, low-income mothers beginning early in their pregnancy until the child turns two",
+        "evidence_rating": "Well-Supported",
+        "reference": "Chunks: 10, 12"
+      },
+      {
+        "program_name": "Healthy Families America (HFA)",
+        "target_population": "New and expectant parents",
+        "evidence_rating": "Well-Supported",
+        "reference": "Chunk: 10"
+      },
+      {
+        "program_name": "Parents as Teachers (PAT)",
+        "target_population": "Parents/caregivers with children aged Birth to kindergarten; parents that are expecting or have a child 0 to 5 years of age",
+        "evidence_rating": "Well-Supported",
+        "reference": "Chunks: 14, 18, 19"
+      },
+      {
+        "program_name": "Parent-Child Interaction Therapy (PCIT)",
+        "target_population": "Children aged 2-7 and their parents/caregivers",
+        "evidence_rating": "Well-Supported",
+        "reference": "Chunks: 2, 18"
+      },
+      {
+        "program_name": "Multisystemic Therapy (MST)",
+        "target_population": "Children aged 12-17 and their parents/caregivers; troubled youth (12 to 17 years) and their families",
+        "evidence_rating": "Well-Supported",
+        "reference": "Chunks: 2, 15"
+      },
+      {
+        "program_name": "Brief Strategic Family Therapy (BSFT)",
+        "target_population": "Adolescents aged 6-17 and parents/caregivers; families with youth experiencing behavioral issues",
+        "evidence_rating": "Well-Supported",
+        "reference": "Chunks: 3, 17"
+      },
+      {
+        "program_name": "Family Check-Up",
+        "target_population": "Families with children ages 2-17; families (those with children ages 2-17) potentially including parenting youth",
+        "evidence_rating": "Well-Supported",
+        "reference": "Chunks: 6, 17"
+      },
+      {
+        "program_name": "Functional Family Therapy (FFT)",
+        "target_population": "Adolescents aged 11-18 and their parent/caregivers; parents with children 11-18 years of age",
+        "evidence_rating": "Well-Supported",
+        "reference": "Chunk: 16"
+      },
+      {
+        "program_name": "Homebuilders",
+        "target_population": "California families receiving Family Maintenance services or those with multiple child welfare referrals",
+        "evidence_rating": "Well-Supported",
+        "reference": "Chunk: 8"
+      },
+      {
+        "program_name": "Motivational Interviewing (MI)",
+        "target_population": "Child Welfare; adults with children of any age",
+        "evidence_rating": "Well-Supported",
+        "reference": "Chunks: 1, 5, 7, 8"
+      }
+    ],
+    "additional_notes": "All programs listed are described as Well-Supported EBPs in the Title IV-E Prevention Services Clearinghouse and are included in California's Title IV-E Prevention Plan."
+  },
+  "validation_status": "success",
+  "processing_time": 6.710458755493164,
+  "timing": {
+    "llm_processing_seconds": 7.73
+  }
+}

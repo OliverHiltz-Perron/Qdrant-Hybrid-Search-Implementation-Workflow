@@ -12,7 +12,7 @@ from openai import OpenAI
 from pydantic import ValidationError, BaseModel
 import time
 
-import config
+from config import config
 from validation_models import TASK_MODELS
 from prompt_manager import PromptManager
 

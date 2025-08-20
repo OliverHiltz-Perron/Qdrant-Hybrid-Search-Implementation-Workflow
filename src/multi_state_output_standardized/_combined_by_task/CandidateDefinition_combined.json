@@ -1,0 +1,12 @@
+{
+  "task": "CandidateDefinition",
+  "timestamp": "2025-08-10T20:59:00.671710",
+  "states": {
+    "CA": {
+      "CandidateDefinition": {
+        "description": "California defines a candidate for foster care as a child who is identified in a prevention plan as being at imminent risk of entering foster care, but who can remain safely in the child\u2019s home or in a kinship placement if eligible prevention services that are necessary to prevent the entry of the child into foster care are provided. Eligibility for Title IV-E prevention services is determined on a case-by-case, individualized assessment basis, considering the unique needs and circumstances of each child and family. Children are considered for eligibility if they fall within one of the following categories and are individually determined to be at imminent risk of foster care: (1) Children in voluntary or court-ordered Family Maintenance services cases; (2) Probation minors subject to a petition under section 602 of the Welfare and Institutions Code, determined to be at imminent risk for foster care; (3) Children whose guardianship or adoption arrangement is at risk of disruption; (4) Children with a substantiated or inconclusive disposition of a child abuse or neglect allegation, without a case being opened; (5) Children who have siblings in foster care; (6) Homeless youth; (7) Lesbian, Gay, Bisexual, Transgender and Queer/questioning (LGBTQ) children; (8) Substance-exposed newborns; (9) Trafficked children; (10) Children exposed to domestic violence; (11) Children whose caretakers experience a substance use disorder; (12) Children or youth experiencing other risk factors that, when combined with family instability or safety threats, would be assessed to be at imminent risk of foster care. Pregnant and parenting foster youth are also eligible for prevention services and do not need to be determined at imminent risk of foster care to participate. For all populations, candidacy is determined through an assessment of current circumstances, risk factors, and the likelihood that, without intervention, placement may be needed. For Indian children, the child\u2019s Tribe must be engaged in the assessment and prevention planning process.",
+        "reference": "Chunks: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14"
+      }
+    }
+  }
+}

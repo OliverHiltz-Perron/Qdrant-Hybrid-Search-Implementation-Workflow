@@ -1,0 +1,577 @@
+{
+  "state": "CA",
+  "processing_start": "2025-08-10T20:52:16.746003",
+  "last_updated": "2025-08-10T20:59:00.564160",
+  "total_tasks": 14,
+  "successful_tasks": 14,
+  "failed_tasks": 0,
+  "tasks": {
+    "CandidateDefinition": {
+      "status": "success",
+      "extraction": {
+        "candidacy_definition": "California defines a candidate for foster care as a child who is identified in a prevention plan as being at imminent risk of entering foster care, but who can remain safely in the child\u2019s home or in a kinship placement if eligible prevention services that are necessary to prevent the entry of the child into foster care are provided. Eligibility for Title IV-E prevention services is determined on a case-by-case, individualized assessment basis, considering the unique needs and circumstances of each child and family. Children are considered for eligibility if they fall within one of the following categories and are individually determined to be at imminent risk of foster care: (1) Children in voluntary or court-ordered Family Maintenance services cases; (2) Probation minors subject to a petition under section 602 of the Welfare and Institutions Code, determined to be at imminent risk for foster care; (3) Children whose guardianship or adoption arrangement is at risk of disruption; (4) Children with a substantiated or inconclusive disposition of a child abuse or neglect allegation, without a case being opened; (5) Children who have siblings in foster care; (6) Homeless youth; (7) Lesbian, Gay, Bisexual, Transgender and Queer/questioning (LGBTQ) children; (8) Substance-exposed newborns; (9) Trafficked children; (10) Children exposed to domestic violence; (11) Children whose caretakers experience a substance use disorder; (12) Children or youth experiencing other risk factors that, when combined with family instability or safety threats, would be assessed to be at imminent risk of foster care. Pregnant and parenting foster youth are also eligible for prevention services and do not need to be determined at imminent risk of foster care to participate. For all populations, candidacy is determined through an assessment of current circumstances, risk factors, and the likelihood that, without intervention, placement may be needed. For Indian children, the child\u2019s Tribe must be engaged in the assessment and prevention planning process.",
+        "reference": "Chunks: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14",
+        "additional_notes": null
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:52:41.897609",
+      "processing_duration": 26.13
+    },
+    "CommunityEngagement": {
+      "status": "success",
+      "extraction": {
+        "stakeholders_involved": [
+          {
+            "name": "California Department of Social Services (CDSS)",
+            "type": "state agency",
+            "role": "Lead agency; convened stakeholder workgroups, Prevention Summit, and ongoing engagement for plan development and implementation",
+            "reference": "Chunk 1"
+          },
+          {
+            "name": "Other state departments, counties, Tribes",
+            "type": "government/tribal",
+            "role": "Collaborated in plan development, ongoing consultation, and annual planning updates",
+            "reference": "Chunk 1"
+          },
+          {
+            "name": "Child Welfare Directors",
+            "type": "providers",
+            "role": "Provided feedback through focused conversations during planning",
+            "reference": "Chunk 1"
+          },
+          {
+            "name": "Chief Probation Officers",
+            "type": "providers",
+            "role": "Provided feedback through focused conversations during planning",
+            "reference": "Chunk 1"
+          },
+          {
+            "name": "Youth and parents with lived experience",
+            "type": "youth/families",
+            "role": "Provided feedback through surveys and conversations; ongoing engagement for implementation",
+            "reference": "Chunk 1, Chunk 2, Chunk 12"
+          },
+          {
+            "name": "Service providers and training academies",
+            "type": "providers",
+            "role": "Provided feedback through surveys and conversations; involved in implementation",
+            "reference": "Chunk 1"
+          },
+          {
+            "name": "Parents Anonymous",
+            "type": "families",
+            "role": "Provided plan feedback; venue for ongoing implementation discussions",
+            "reference": "Chunk 2"
+          },
+          {
+            "name": "California Youth Connection",
+            "type": "youth",
+            "role": "Provided plan feedback; venue for ongoing implementation discussions",
+            "reference": "Chunk 2"
+          },
+          {
+            "name": "Youth Empowerment Project",
+            "type": "youth",
+            "role": "Provided plan feedback; venue for ongoing implementation discussions",
+            "reference": "Chunk 2"
+          },
+          {
+            "name": "Citizen Review Panels",
+            "type": "community oversight",
+            "role": "Provided plan feedback; venue for ongoing implementation discussions",
+            "reference": "Chunk 2"
+          },
+          {
+            "name": "Tribal Advisory Committee",
+            "type": "tribal",
+            "role": "Provided input on plan development and revisions; formal consultation",
+            "reference": "Chunk 1"
+          },
+          {
+            "name": "Local service organizations (CBOs, FRCs, behavioral health agencies)",
+            "type": "providers/community-based organizations",
+            "role": "Conduct assessments, plan treatment, provide case management and aftercare, participate in resource mapping",
+            "reference": "Chunk 2, Chunk 4"
+          },
+          {
+            "name": "Schools, healthcare providers, local organizations",
+            "type": "referral sources",
+            "role": "Refer families to community pathway for prevention services",
+            "reference": "Chunk 4"
+          }
+        ],
+        "engagement_methods": [
+          {
+            "method": "Stakeholder workgroups",
+            "description": "Multiple workgroups convened by CDSS since 2019 to orient stakeholders and gauge needs/readiness for prevention services",
+            "frequency": "multiple/ongoing",
+            "phase": "planning",
+            "reference": "Chunk 1"
+          },
+          {
+            "method": "Prevention Summit",
+            "description": "Widely attended summit to orient stakeholders and gather input for plan development",
+            "frequency": "one-time",
+            "phase": "planning",
+            "reference": "Chunk 1"
+          },
+          {
+            "method": "Detailed survey process",
+            "description": "Surveys conducted to gather feedback from youth, parents, providers, and other stakeholders on plan development",
+            "frequency": "one-time",
+            "phase": "planning",
+            "reference": "Chunk 1"
+          },
+          {
+            "method": "Focused conversations",
+            "description": "Targeted discussions with Child Welfare Directors, Chief Probation Officers, youth, parents, and providers for plan feedback",
+            "frequency": "multiple",
+            "phase": "planning",
+            "reference": "Chunk 1"
+          },
+          {
+            "method": "Annual planning update process",
+            "description": "Ongoing annual updates to the plan in collaboration with counties, stakeholders, and Tribes for program enhancements",
+            "frequency": "annual",
+            "phase": "implementation",
+            "reference": "Chunk 1"
+          },
+          {
+            "method": "Formal Tribal Consultation",
+            "description": "Regular government-to-government consultations and engagement of the Tribal Advisory Committee for plan input",
+            "frequency": "multiple/ongoing",
+            "phase": "planning/implementation",
+            "reference": "Chunk 1"
+          },
+          {
+            "method": "Intentional and targeted engagement with youth and parents",
+            "description": "Feedback gathered from youth and parents through groups such as Parents Anonymous, California Youth Connection, Youth Empowerment Project, and Citizen Review Panels",
+            "frequency": "ongoing",
+            "phase": "planning/implementation",
+            "reference": "Chunk 2, Chunk 12"
+          },
+          {
+            "method": "Community resource mapping",
+            "description": "Local agencies map community resources, contracted/non-contracted services, and grassroots organizations to identify gaps and plan service delivery",
+            "frequency": "one-time/periodic",
+            "phase": "planning",
+            "reference": "Chunk 2"
+          },
+          {
+            "method": "Asset mapping and strengths/needs assessment",
+            "description": "Local agencies conduct asset mapping and needs assessments to inform EBP selection and prevention planning",
+            "frequency": "one-time/periodic",
+            "phase": "planning",
+            "reference": "Chunk 11"
+          }
+        ],
+        "governance_structures": [
+          {
+            "name": "Tribal Advisory Committee",
+            "purpose": "Solicit input on development and revisions of the Title IV-E Prevention Program; formal consultation with Tribes",
+            "membership": "Tribal representatives, CDSS, state and county representatives",
+            "authority": "Advisory; provides input and feedback on plan development and revisions",
+            "reference": "Chunk 1"
+          },
+          {
+            "name": "State Prevention Advisory Committee",
+            "purpose": "State-level oversight and advisory body for prevention program implementation and continuous quality improvement",
+            "membership": "State agency leaders, technical assistance providers, local representatives, lived expertise",
+            "authority": "Oversight and advisory; communicates with counties and local cross-sector planning entities",
+            "reference": "Chunk 3"
+          },
+          {
+            "name": "Local Cross-Sector Partnerships",
+            "purpose": "Local planning, implementation, and ongoing improvement of prevention services",
+            "membership": "Child welfare, probation, service providers, tribal representatives, local supervisors, case managers, county and tribal representatives, lived expertise",
+            "authority": "Local planning and implementation; informs state oversight and CQI",
+            "reference": "Chunk 3"
+          }
+        ]
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:53:23.704427",
+      "processing_duration": 39.62
+    },
+    "EligibilityDetermination": {
+      "status": "success",
+      "extraction": {
+        "determination_process": {
+          "description": "Eligibility for Title IV-E prevention services in California is determined through a multi-step process involving assessment and review by the local Title IV-E agency. Families may be referred through various pathways, including self-referral, referral by public or private entities, or by the Title IV-E agency itself. A contracted service provider (such as a Community Based Organization, Family Resource Center, or behavioral health agency) conducts an intake assessment to identify if the child may be at imminent risk of foster care. If so, the provider submits a referral to the Title IV-E agency, which reviews the request and makes the final candidacy determination. For probation youth, probation officers use specific assessment tools to determine candidacy and document findings in the case plan. All eligibility and candidacy determinations, as well as ongoing safety and risk monitoring, are documented in the CWS-CARES system. For Indian children, the Title IV-E agency must engage the child's Tribe in the assessment and determination process.",
+          "reference": "Chunks: 1, 7, 10, 11, 12, 16, 18, 20"
+        },
+        "tools_used": [
+          {
+            "name": "CWS-CARES",
+            "purpose": "State\u2019s Comprehensive Child Welfare Information System used for documenting assessments, candidacy determinations, ongoing safety and risk monitoring, and case management for Title IV-E prevention services.",
+            "reference": "Chunks: 1, 9, 11, 12"
+          },
+          {
+            "name": "Structured Decision Making (SDM) tools",
+            "purpose": "Used by child welfare agencies for systematic assessment of safety, risk, and needs throughout the life of a child welfare case, including Safety Assessment, Risk Assessment, and Risk Reassessment.",
+            "reference": "Chunks: 12, 20"
+          },
+          {
+            "name": "Evaluation of Imminent Risk and Reasonable Candidacy (EIRRC) tool",
+            "purpose": "Checklist used by probation officers to determine and document why and how a child is considered a candidate for foster care and Title IV-E prevention services.",
+            "reference": "Chunk: 20"
+          },
+          {
+            "name": "Juvenile Assessment Intervention System (JAIS)",
+            "purpose": "Assessment tool used by probation departments to assess safety and risk domains for ongoing monitoring.",
+            "reference": "Chunk: 20"
+          },
+          {
+            "name": "Positive Achievement Change Tool (PACT)",
+            "purpose": "Assessment tool used by probation departments to assess safety and risk domains for ongoing monitoring.",
+            "reference": "Chunk: 20"
+          },
+          {
+            "name": "Youth Level of Service/Case Management Instrument (YLS/CMI)",
+            "purpose": "Assessment tool used by probation departments to assess safety and risk domains for ongoing monitoring.",
+            "reference": "Chunk: 20"
+          },
+          {
+            "name": "Risk Resiliency Check Up Tool (RRC)",
+            "purpose": "Assessment tool used by probation departments to assess safety and risk domains for ongoing monitoring.",
+            "reference": "Chunk: 20"
+          }
+        ],
+        "determination_authority": {
+          "description": "The local Title IV-E agency (county child welfare, probation, or tribal agency) is responsible for making the final determination of candidacy and eligibility for Title IV-E prevention services, even when assessments are conducted by contracted service providers. For Indian children, the Title IV-E agency must engage the child\u2019s Tribe in the assessment and determination process.",
+          "reference": "Chunks: 1, 7, 10, 11, 16"
+        },
+        "additional_notes": "Eligibility determination is individualized and case-by-case, requiring unbiased assessment of risk and family circumstances. Contracted agencies may conduct assessments and make recommendations, but only the Title IV-E agency can authorize eligibility. For Indian children, tribal engagement is required. All determinations and ongoing monitoring are documented in CWS-CARES."
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:53:56.677153",
+      "processing_duration": 30.73
+    },
+    "EquityDisparity": {
+      "status": "success",
+      "extraction": {
+        "disparities_addressed": "Yes",
+        "disparity_description": "California acknowledges that Black and American Indian/Alaska Native (AI/AN) children and youth are over-represented and experience disparity in most aspects of California\u2019s child welfare system, including higher rates of maltreatment allegations, foster care entry, and re-entry. Black children are four times more likely to enter foster care than White children and are less likely to leave foster care within 72 months. Latino and LGBTQ+ families are also noted as experiencing inequities. Disparities are attributed to poverty, economic inequity, and structural racism. The plan recognizes the impact of historical and systemic racism on Black and tribal families, and the overrepresentation of AI/AN children in foster care.",
+        "affected_populations": "Black/African American children and youth; American Indian/Alaska Native children and youth; Latino children and youth; LGBTQ+ children and youth; Asian/Pacific Islander children and youth; BIPOC families; families with disabilities",
+        "strategies": "Creation of Office of Equity (OOE); Creation of Office of Tribal Affairs (OTA); Tribal consultation policy and Tribal Advisory Council; Cultural humility and implicit bias trainings; Community pathway for prevention services; Culturally appropriate engagement and healing practices; Adaptation of evidence-based practices for cultural needs; Prioritizing culturally appropriate and responsive services in local prevention plans; Stakeholder engagement with lived experience; Workforce diversification and training; Cross-sector and community-based partnerships",
+        "reference": "1,2,3,4,5,7,8,9,10,11,12,13,15,17,18,19,20",
+        "additional_notes": "The plan includes specific data on disproportionality, such as Black children making up 21.5% of the foster system but only 5.6% of the general population, and AI/AN children entering foster care at a rate of 8.6 per 1,000. There is an explicit commitment to ongoing stakeholder and tribal engagement, and to continuous quality improvement with a focus on equity."
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:54:25.233699",
+      "processing_duration": 26.41
+    },
+    "EvaluationMetrics": {
+      "status": "success",
+      "extraction": {
+        "outcome_goals": "Reduce incidences of abuse and neglect; Decrease entries into foster care; Reduce disproportionality; Address systemic and historical traumas; Improve the lives of children, youth, and families; Improve child safety; Prevent maltreatment; Reduce recurrence of maltreatment; Increase positive parenting practices; Improve child behavioral and emotional functioning",
+        "evaluation_metrics": "Foster care entry rates; Child maltreatment allegation rates; Substantiation rates; In care rates; Racial disparity indices; Entries to foster care: short stayers in care by ethnicity; Reentry to care rates",
+        "reference": "Chunks: 2, 3, 4, 5, 9, 10, 13, 14, 16, 20",
+        "additional_notes": "Metrics include system-level indicators such as entry, in care, and reentry rates, as well as racial disparity indices. Specific numeric targets are not provided in the available chunks."
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:54:49.302071",
+      "processing_duration": 21.84
+    },
+    "FundingSources": {
+      "status": "success",
+      "extraction": {
+        "funding_sources": "Title IV-E Prevention Services; Title IV-B; Child Abuse Prevention and Treatment Act (CAPTA); Medi-Cal; Mental Health Services Act (MHSA); CalWORKs; CalWORKs Home Visiting; CalWORKs Homeless Assistance; CalFresh; State General Fund (Family First Prevention Program state block grant - $199 million); County funds; First 5; Individual insurance plans; CalWORKs or similar safety-net funding sources; Promoting Safe and Stable Families (PSSF); Community-Based Organizations (CBOs) and Family Resource Centers (FRCs) contracts/grants; Required state match; Local funding sources",
+        "reference": "Chunks: 1, 2, 3, 4, 5, 6, 7, 8",
+        "additional_notes": "Title IV-E is the payer of last resort. The state block grant provides $199 million to counties. Medi-Cal and individual insurance plans may cover some services. Local agencies are encouraged to leverage and braid multiple funding streams, including county and local sources. Some funding sources (e.g., First 5, MHSA, CalWORKs) are used for EBPs not yet eligible for Title IV-E. Required state match is referenced but not specified."
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:55:16.229560",
+      "processing_duration": 24.58
+    },
+    "MonitoringAccountability": {
+      "status": "success",
+      "extraction": {
+        "monitoring_and_accountability": "A coordinated approach to CQI will determine protocols for regular assessment of service delivery, measuring effectiveness, and how lessons learned can improve future practice; CDSS will engage external experts, local Title IV-E Agencies, Tribes, and program developers to develop standardized, statewide approaches to fidelity monitoring and CQI for each EBP; Local service provider contracts will include fidelity monitoring and CQI processes and requirements in accordance with state-issued guidance; CDSS will hire a contractor to assist in the development of a proposal for model fidelity oversight of EBPs across implementation sites; Data will be collected from each provider either through the model fidelity oversight process or CWS-CARES; CDSS will conduct periodic reviews to assess and monitor fidelity of each EBP across local agencies and work with the purveyor to provide resources for improvements and course corrections; Local Title IV-E agencies and contracted providers will provide data requested by CDSS, documented in CWS-CARES, to ensure service delivery meets model fidelity standards; CDSS will leverage contracted expertise to develop the program\u2019s CQI framework; CDSS has created a governance structure to oversee and guide implementation, leveraging existing California government entities and relationships for oversight, direction, and culture of the program; Aggregate data on implementation progress, model fidelity, and child/family outcomes will be communicated between state oversight/advisory bodies and counties\u2019 local cross-sector planning entities within the CQI framework; Local Title IV-E agencies are responsible for supervising and ensuring contractors perform all contracted Title IV-E administrative activities in accordance with federal and state requirements, and will receive and review periodic, aggregate reports via CWS-CARES to support their oversight; Local Title IV-E agencies will address concerns with local service providers over observed systemic issues in care coordination as part of continuous monitoring; Probation Department staff use a variety of tools for assessment, documenting results in the family\u2019s case plan, and are required to visit the child and family at least once per month, completing a new Case Plan every 6 months; Prevention caseload numbers will be tracked through CWS-CARES and available for analysis throughout the continuous monitoring of the FFPS program; Local Title IV-E agencies will describe in their CPP additional local strategies or protocols for how caseload size and type for prevention caseload size and the type of prevention case assignments will be determined, managed, and monitored; Local Title IV-E agencies must include language within service contracts that describes the process for safety monitoring and periodic risk assessments to ensure roles and responsibilities are clear; Coordinators of services will be required to track data for each child deemed a candidate for Title IV-E prevention services and share this information with local Title IV-E agencies",
+        "reference": "Chunks: 1, 2, 5, 6, 7, 9, 10, 14",
+        "additional_notes": null
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:55:45.309345",
+      "processing_duration": 26.89
+    },
+    "NonReimbursablePrograms": {
+      "status": "success",
+      "extraction": {
+        "non_reimbursable_programs": [
+          {
+            "program_name": null,
+            "non_reimbursable_reason": null,
+            "future_timeline": null,
+            "reference": "No non-reimbursable programs mentioned in chunks 1-20"
+          }
+        ]
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:56:08.868084",
+      "processing_duration": 21.37
+    },
+    "PreventionPrograms": {
+      "status": "success",
+      "extraction": {
+        "prevention_programs": [
+          {
+            "program_name": "Nurse-Family Partnership (NFP)",
+            "target_population": "First-time parents/caregivers with a child under 2 years of age; young, first-time, low-income mothers beginning early in their pregnancy until the child turns two",
+            "evidence_rating": "Well-Supported",
+            "reference": "Chunks: 10, 12"
+          },
+          {
+            "program_name": "Healthy Families America (HFA)",
+            "target_population": "New and expectant parents",
+            "evidence_rating": "Well-Supported",
+            "reference": "Chunk: 10"
+          },
+          {
+            "program_name": "Parents as Teachers (PAT)",
+            "target_population": "Parents/caregivers with children aged Birth to kindergarten; parents that are expecting or have a child 0 to 5 years of age",
+            "evidence_rating": "Well-Supported",
+            "reference": "Chunks: 14, 18, 19"
+          },
+          {
+            "program_name": "Parent-Child Interaction Therapy (PCIT)",
+            "target_population": "Children aged 2-7 and their parents/caregivers",
+            "evidence_rating": "Well-Supported",
+            "reference": "Chunks: 2, 18"
+          },
+          {
+            "program_name": "Multisystemic Therapy (MST)",
+            "target_population": "Children aged 12-17 and their parents/caregivers; troubled youth (12 to 17 years) and their families",
+            "evidence_rating": "Well-Supported",
+            "reference": "Chunks: 2, 15"
+          },
+          {
+            "program_name": "Brief Strategic Family Therapy (BSFT)",
+            "target_population": "Adolescents aged 6-17 and parents/caregivers; families with youth experiencing behavioral issues",
+            "evidence_rating": "Well-Supported",
+            "reference": "Chunks: 3, 17"
+          },
+          {
+            "program_name": "Family Check-Up",
+            "target_population": "Families with children ages 2-17; families (those with children ages 2-17) potentially including parenting youth",
+            "evidence_rating": "Well-Supported",
+            "reference": "Chunks: 6, 17"
+          },
+          {
+            "program_name": "Functional Family Therapy (FFT)",
+            "target_population": "Adolescents aged 11-18 and their parent/caregivers; parents with children 11-18 years of age",
+            "evidence_rating": "Well-Supported",
+            "reference": "Chunk: 16"
+          },
+          {
+            "program_name": "Homebuilders",
+            "target_population": "California families receiving Family Maintenance services or those with multiple child welfare referrals",
+            "evidence_rating": "Well-Supported",
+            "reference": "Chunk: 8"
+          },
+          {
+            "program_name": "Motivational Interviewing (MI)",
+            "target_population": "Child Welfare; adults with children of any age",
+            "evidence_rating": "Well-Supported",
+            "reference": "Chunks: 1, 5, 7, 8"
+          }
+        ],
+        "additional_notes": "All programs listed are described as Well-Supported EBPs in the Title IV-E Prevention Services Clearinghouse and are included in California's Title IV-E Prevention Plan."
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:56:36.894144",
+      "processing_duration": 25.8
+    },
+    "StructuralDeterminants": {
+      "status": "success",
+      "extraction": {
+        "structural_determinants_approach": "Prevention at the primary level addresses general population needs and child well-being through a social determinants of health approach. Objectives include increasing access to supports such as childcare, food and housing; reducing poverty and improving economic stability; improving transportation; and improving access to healthcare. California's integrated system of care leverages programs such as CalFRESH, CalWORKs Homeless Assistance, and CalWORKs Home Visiting to strengthen families and keep children safe at home.",
+        "specific_supports": "Childcare assistance; Food assistance; Housing assistance; Poverty reduction; Economic stability supports; Transportation support; Healthcare access; CalFRESH; CalWORKs Homeless Assistance; CalWORKs Home Visiting",
+        "reference": "Chunks: 1, 2",
+        "additional_notes": null
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:57:01.706125",
+      "processing_duration": 22.6
+    },
+    "TargetPopulations": {
+      "status": "success",
+      "extraction": {
+        "overall_plan_population": {
+          "description": "Children and youth at imminent risk of entering foster care (as determined by individualized assessment), including those in voluntary or court-ordered Family Maintenance cases, probation minors at imminent risk, children whose guardianship or adoption arrangement is at risk of disruption, children with substantiated or inconclusive child abuse/neglect allegations, children with siblings in foster care, children exposed to domestic violence, children whose caretakers have a substance use disorder, substance-exposed newborns, trafficked children, LGBTQ children, homeless youth, and pregnant and parenting youth in foster care, as well as their parents or kin caregivers. AI/AN children and their families may also be served.",
+          "reference": "Chunks: 2, 5, 7, 10, 13, 15, 20"
+        },
+        "program_populations": [
+          {
+            "program_name": "Nurse-Family Partnership",
+            "target_population": "Young, first-time, low-income mothers beginning early in their pregnancy until the child turns two; first-time parents/caregivers with a child under 2 years of age",
+            "reference": "Chunk: 1"
+          },
+          {
+            "program_name": "Parents as Teachers",
+            "target_population": "Parents/caregivers with children aged Birth to kindergarten",
+            "reference": "Chunk: 3"
+          },
+          {
+            "program_name": "Healthy Families America",
+            "target_population": "Families enrolled within the first three months of birth but before the child(ren) turn 24 months of age, including families referred through child welfare",
+            "reference": "Chunk: 12"
+          },
+          {
+            "program_name": "Family Check-Up",
+            "target_population": "Families (those with children ages 2-17) potentially including parenting youth",
+            "reference": "Chunk: 4"
+          },
+          {
+            "program_name": "Homebuilders",
+            "target_population": "California families receiving Family Maintenance services or those with multiple child welfare referrals",
+            "reference": "Chunk: 6"
+          },
+          {
+            "program_name": "Motivational Interviewing for Substance Use Treatment",
+            "target_population": "Adults with children of any age",
+            "reference": "Chunk: 6"
+          },
+          {
+            "program_name": "Brief Strategic Family Therapy",
+            "target_population": "Adolescents aged 6-17 and parents/caregivers; children 6-18",
+            "reference": "Chunk: 8"
+          },
+          {
+            "program_name": "Functional Family Therapy",
+            "target_population": "Adolescents aged 11-18 and their parent/caregivers; probation minors, homeless/runaway children, and teens demonstrating behavioral issues",
+            "reference": "Chunk: 9"
+          },
+          {
+            "program_name": "Multisystemic Therapy",
+            "target_population": "Children aged 12-17 and their parents/caregivers; troubled youth and their families",
+            "reference": "Chunks: 17, 18"
+          }
+        ],
+        "additional_notes": null
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:57:32.428185",
+      "processing_duration": 28.5
+    },
+    "TraumaInformed": {
+      "status": "success",
+      "extraction": {
+        "trauma_informed_programs": [
+          {
+            "program_name": "System of Care Reform (AB 2083)",
+            "trauma_description": "Requires the development of 'a coordinated, timely, and trauma-informed system-of-care approach for children and youth in foster care who have experienced severe trauma.'",
+            "reference": "Chunks: 2"
+          },
+          {
+            "program_name": null,
+            "trauma_description": null,
+            "reference": "Chunks: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20. No other specific trauma-informed programs are described by name or with sufficient detail to meet extraction criteria."
+          }
+        ]
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:57:56.385367",
+      "processing_duration": 21.67
+    },
+    "TribalConsultation": {
+      "status": "success",
+      "extraction": {
+        "consultation_conducted": "Throughout the development of the prevention plan, the CDSS regularly engaged Tribes by requesting and engaging in formal government to government Tribal Consultations and through engagement of the Tribal Advisory Committee to solicit input on the development of the Title IV-E Prevention Program. The Tribal Advisory Committee convened in the fall/winter of 2021, where CDSS presented feedback on the state plan to respond to the Children\u2019s Bureau feedback and assisted drafting the most recent version of the Plan.",
+        "tribes_consulted": "All 109 federally recognized Tribes in California; Yurok Tribe; Karuk Tribe",
+        "consultation_process": "CDSS instituted the Tribal Consultation Policy (TCP) in 2017 to guide consultations between the CDSS and the 109 federally recognized Tribes in California on policies and procedures that affect Tribes. The Five-Year State Prevention Plan\u2019s review adhered to the 2017 TCP. The CDSS established the Tribal Advisory Council (TAC) as a primary strategy to engage Tribes and tribal partners in CDSS initiatives. The Tribal Advisory Committee was engaged to solicit input and convened in fall/winter 2021. CDSS entered consultation with the Yurok and Karuk Tribes to determine how the IV-E prevention program will be incorporated into their existing Title IV-E agreements.",
+        "reference": "Chunks: 1, 2, 4, 6, 7",
+        "additional_notes": "Specific tribal names beyond Yurok and Karuk are not listed, but the plan references engagement with all 109 federally recognized Tribes in California."
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:58:23.934979",
+      "processing_duration": 25.44
+    },
+    "WorkforceSupport": {
+      "status": "success",
+      "extraction": {
+        "training_plans": [
+          {
+            "target_audience": "Title IV-E agency staff, local prevention service providers, community partners, tribal agencies, probation, supervisors, managers, directors",
+            "training_content": null,
+            "delivery_method": null,
+            "frequency": null,
+            "reference": "Chunks: 1, 3, 6, 8, 15"
+          },
+          {
+            "target_audience": "Caseworkers, supervisors, intake, admin, fiscal staff, tribal agencies, community pathway providers",
+            "training_content": null,
+            "delivery_method": null,
+            "frequency": null,
+            "reference": "Chunks: 3, 6, 15"
+          },
+          {
+            "target_audience": "Practitioners, Title IV-E agencies, CBOs, local agency leadership",
+            "training_content": null,
+            "delivery_method": null,
+            "frequency": null,
+            "reference": "Chunks: 3, 14, 19"
+          },
+          {
+            "target_audience": "Contracted EBP providers, local service providers",
+            "training_content": null,
+            "delivery_method": null,
+            "frequency": null,
+            "reference": "Chunks: 3, 7"
+          }
+        ],
+        "ongoing_support": [
+          {
+            "type": "Supervision and monitoring",
+            "description": "Supervisors monitor caseloads and performance of caseworkers; ongoing assessment of family needs and service fidelity; periodic risk assessments and safety monitoring required for all prevention cases.",
+            "recipient": null,
+            "reference": "Chunks: 7, 17"
+          },
+          {
+            "type": "Continuous Quality Improvement (CQI) and technical assistance",
+            "description": "CQI protocols include regular assessment of service delivery, fidelity monitoring, technical assistance, and periodic reviews to ensure fidelity to EBP models.",
+            "recipient": null,
+            "reference": "Chunks: 12, 17"
+          }
+        ],
+        "credentialing_requirements": [
+          {
+            "role": null,
+            "requirements": null,
+            "certification_body": null,
+            "reference": "Chunk: 18"
+          },
+          {
+            "role": null,
+            "requirements": null,
+            "certification_body": null,
+            "reference": "Chunk: 4"
+          },
+          {
+            "role": null,
+            "requirements": null,
+            "certification_body": null,
+            "reference": "Chunk: 11"
+          }
+        ]
+      },
+      "chunks_processed": 20,
+      "model_used": "gpt-4.1",
+      "extraction_timestamp": "2025-08-10T20:58:59.371295",
+      "processing_duration": 33.23
+    }
+  }
+}

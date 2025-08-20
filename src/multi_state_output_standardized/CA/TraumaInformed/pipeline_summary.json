@@ -1,0 +1,29 @@
+{
+  "pipeline": "complete_search_rerank_llm",
+  "task_type": "TraumaInformed",
+  "state_code": "CA",
+  "completed_timestamp": "2025-08-10T20:57:56.388451",
+  "total_processing_time_seconds": 5.05,
+  "stage_timings": {
+    "search_seconds": 0.11,
+    "rerank_seconds": 1.39,
+    "llm_seconds": 3.55
+  },
+  "parameters": {
+    "search_results": 50,
+    "rerank_results": 20,
+    "llm_chunks": 20,
+    "semantic_weight": 0.7,
+    "bm25_weight": 0.3
+  },
+  "output_files": {
+    "search": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\search_CA_TraumaInformed_20250810_205751.json",
+    "rerank": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\rerank_CA_TraumaInformed_20250810_205752.json",
+    "llm": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\llm_CA_TraumaInformed_20250810_205756.json"
+  },
+  "extraction_preview": {
+    "task_type": "TraumaInformed",
+    "state": "CA",
+    "items_extracted": "N/A"
+  }
+}

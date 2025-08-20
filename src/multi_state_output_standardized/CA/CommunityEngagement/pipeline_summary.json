@@ -1,0 +1,29 @@
+{
+  "pipeline": "complete_search_rerank_llm",
+  "task_type": "Communityengagement",
+  "state_code": "CA",
+  "completed_timestamp": "2025-08-10T20:53:23.707618",
+  "total_processing_time_seconds": 20.42,
+  "stage_timings": {
+    "search_seconds": 0.05,
+    "rerank_seconds": 1.2,
+    "llm_seconds": 19.17
+  },
+  "parameters": {
+    "search_results": 50,
+    "rerank_results": 20,
+    "llm_chunks": 20,
+    "semantic_weight": 0.7,
+    "bm25_weight": 0.3
+  },
+  "output_files": {
+    "search": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\search_CA_Communityengagement_20250810_205303.json",
+    "rerank": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\rerank_CA_Communityengagement_20250810_205304.json",
+    "llm": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\llm_CA_Communityengagement_20250810_205323.json"
+  },
+  "extraction_preview": {
+    "task_type": "Communityengagement",
+    "state": "CA",
+    "items_extracted": "N/A"
+  }
+}

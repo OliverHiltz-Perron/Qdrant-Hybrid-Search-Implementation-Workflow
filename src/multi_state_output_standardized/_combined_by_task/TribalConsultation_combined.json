@@ -1,0 +1,21 @@
+{
+  "task": "TribalConsultation",
+  "timestamp": "2025-08-10T20:59:00.732156",
+  "states": {
+    "CA": {
+      "consultation_conducted": {
+        "description": "Throughout the development of the prevention plan, the CDSS regularly engaged Tribes by requesting and engaging in formal government to government Tribal Consultations and through engagement of the Tribal Advisory Committee to solicit input on the development of the Title IV-E Prevention Program. The Tribal Advisory Committee convened in the fall/winter of 2021, where CDSS presented feedback on the state plan to respond to the Children\u2019s Bureau feedback and assisted drafting the most recent version of the Plan.",
+        "reference": "Chunks: 1, 2, 4, 6, 7"
+      },
+      "tribes_consulted": {
+        "description": "All 109 federally recognized Tribes in California; Yurok Tribe; Karuk Tribe",
+        "reference": "Chunks: 1, 2, 4, 6, 7"
+      },
+      "consultation_process": {
+        "description": "CDSS instituted the Tribal Consultation Policy (TCP) in 2017 to guide consultations between the CDSS and the 109 federally recognized Tribes in California on policies and procedures that affect Tribes. The Five-Year State Prevention Plan\u2019s review adhered to the 2017 TCP. The CDSS established the Tribal Advisory Council (TAC) as a primary strategy to engage Tribes and tribal partners in CDSS initiatives. The Tribal Advisory Committee was engaged to solicit input and convened in fall/winter 2021. CDSS entered consultation with the Yurok and Karuk Tribes to determine how the IV-E prevention program will be incorporated into their existing Title IV-E agreements.",
+        "reference": "Chunks: 1, 2, 4, 6, 7"
+      },
+      "Notes": "Specific tribal names beyond Yurok and Karuk are not listed, but the plan references engagement with all 109 federally recognized Tribes in California."
+    }
+  }
+}

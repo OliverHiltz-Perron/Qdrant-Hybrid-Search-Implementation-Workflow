@@ -1,0 +1,25 @@
+{
+  "task": "EquityDisparity",
+  "timestamp": "2025-08-10T20:59:00.687472",
+  "states": {
+    "CA": {
+      "disparities_addressed": {
+        "description": "Yes",
+        "reference": "1,2,3,4,5,7,8,9,10,11,12,13,15,17,18,19,20"
+      },
+      "disparity_description": {
+        "description": "California acknowledges that Black and American Indian/Alaska Native (AI/AN) children and youth are over-represented and experience disparity in most aspects of California\u2019s child welfare system, including higher rates of maltreatment allegations, foster care entry, and re-entry. Black children are four times more likely to enter foster care than White children and are less likely to leave foster care within 72 months. Latino and LGBTQ+ families are also noted as experiencing inequities. Disparities are attributed to poverty, economic inequity, and structural racism. The plan recognizes the impact of historical and systemic racism on Black and tribal families, and the overrepresentation of AI/AN children in foster care.",
+        "reference": "1,2,3,4,5,7,8,9,10,11,12,13,15,17,18,19,20"
+      },
+      "affected_populations": {
+        "description": "Black/African American children and youth; American Indian/Alaska Native children and youth; Latino children and youth; LGBTQ+ children and youth; Asian/Pacific Islander children and youth; BIPOC families; families with disabilities",
+        "reference": "1,2,3,4,5,7,8,9,10,11,12,13,15,17,18,19,20"
+      },
+      "strategies": {
+        "description": "Creation of Office of Equity (OOE); Creation of Office of Tribal Affairs (OTA); Tribal consultation policy and Tribal Advisory Council; Cultural humility and implicit bias trainings; Community pathway for prevention services; Culturally appropriate engagement and healing practices; Adaptation of evidence-based practices for cultural needs; Prioritizing culturally appropriate and responsive services in local prevention plans; Stakeholder engagement with lived experience; Workforce diversification and training; Cross-sector and community-based partnerships",
+        "reference": "1,2,3,4,5,7,8,9,10,11,12,13,15,17,18,19,20"
+      },
+      "Notes": "The plan includes specific data on disproportionality, such as Black children making up 21.5% of the foster system but only 5.6% of the general population, and AI/AN children entering foster care at a rate of 8.6 per 1,000. There is an explicit commitment to ongoing stakeholder and tribal engagement, and to continuous quality improvement with a focus on equity."
+    }
+  }
+}

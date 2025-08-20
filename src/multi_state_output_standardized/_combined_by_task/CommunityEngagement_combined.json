@@ -1,0 +1,176 @@
+{
+  "task": "CommunityEngagement",
+  "timestamp": "2025-08-10T20:59:00.676345",
+  "states": {
+    "CA": {
+      "stakeholders_involved": [
+        {
+          "name": "California Department of Social Services (CDSS)",
+          "type": "state agency",
+          "role": "Lead agency; convened stakeholder workgroups, Prevention Summit, and ongoing engagement for plan development and implementation",
+          "reference": "Chunk 1"
+        },
+        {
+          "name": "Other state departments, counties, Tribes",
+          "type": "government/tribal",
+          "role": "Collaborated in plan development, ongoing consultation, and annual planning updates",
+          "reference": "Chunk 1"
+        },
+        {
+          "name": "Child Welfare Directors",
+          "type": "providers",
+          "role": "Provided feedback through focused conversations during planning",
+          "reference": "Chunk 1"
+        },
+        {
+          "name": "Chief Probation Officers",
+          "type": "providers",
+          "role": "Provided feedback through focused conversations during planning",
+          "reference": "Chunk 1"
+        },
+        {
+          "name": "Youth and parents with lived experience",
+          "type": "youth/families",
+          "role": "Provided feedback through surveys and conversations; ongoing engagement for implementation",
+          "reference": "Chunk 1, Chunk 2, Chunk 12"
+        },
+        {
+          "name": "Service providers and training academies",
+          "type": "providers",
+          "role": "Provided feedback through surveys and conversations; involved in implementation",
+          "reference": "Chunk 1"
+        },
+        {
+          "name": "Parents Anonymous",
+          "type": "families",
+          "role": "Provided plan feedback; venue for ongoing implementation discussions",
+          "reference": "Chunk 2"
+        },
+        {
+          "name": "California Youth Connection",
+          "type": "youth",
+          "role": "Provided plan feedback; venue for ongoing implementation discussions",
+          "reference": "Chunk 2"
+        },
+        {
+          "name": "Youth Empowerment Project",
+          "type": "youth",
+          "role": "Provided plan feedback; venue for ongoing implementation discussions",
+          "reference": "Chunk 2"
+        },
+        {
+          "name": "Citizen Review Panels",
+          "type": "community oversight",
+          "role": "Provided plan feedback; venue for ongoing implementation discussions",
+          "reference": "Chunk 2"
+        },
+        {
+          "name": "Tribal Advisory Committee",
+          "type": "tribal",
+          "role": "Provided input on plan development and revisions; formal consultation",
+          "reference": "Chunk 1"
+        },
+        {
+          "name": "Local service organizations (CBOs, FRCs, behavioral health agencies)",
+          "type": "providers/community-based organizations",
+          "role": "Conduct assessments, plan treatment, provide case management and aftercare, participate in resource mapping",
+          "reference": "Chunk 2, Chunk 4"
+        },
+        {
+          "name": "Schools, healthcare providers, local organizations",
+          "type": "referral sources",
+          "role": "Refer families to community pathway for prevention services",
+          "reference": "Chunk 4"
+        }
+      ],
+      "engagement_methods": [
+        {
+          "method": "Stakeholder workgroups",
+          "description": "Multiple workgroups convened by CDSS since 2019 to orient stakeholders and gauge needs/readiness for prevention services",
+          "frequency": "multiple/ongoing",
+          "phase": "planning",
+          "reference": "Chunk 1"
+        },
+        {
+          "method": "Prevention Summit",
+          "description": "Widely attended summit to orient stakeholders and gather input for plan development",
+          "frequency": "one-time",
+          "phase": "planning",
+          "reference": "Chunk 1"
+        },
+        {
+          "method": "Detailed survey process",
+          "description": "Surveys conducted to gather feedback from youth, parents, providers, and other stakeholders on plan development",
+          "frequency": "one-time",
+          "phase": "planning",
+          "reference": "Chunk 1"
+        },
+        {
+          "method": "Focused conversations",
+          "description": "Targeted discussions with Child Welfare Directors, Chief Probation Officers, youth, parents, and providers for plan feedback",
+          "frequency": "multiple",
+          "phase": "planning",
+          "reference": "Chunk 1"
+        },
+        {
+          "method": "Annual planning update process",
+          "description": "Ongoing annual updates to the plan in collaboration with counties, stakeholders, and Tribes for program enhancements",
+          "frequency": "annual",
+          "phase": "implementation",
+          "reference": "Chunk 1"
+        },
+        {
+          "method": "Formal Tribal Consultation",
+          "description": "Regular government-to-government consultations and engagement of the Tribal Advisory Committee for plan input",
+          "frequency": "multiple/ongoing",
+          "phase": "planning/implementation",
+          "reference": "Chunk 1"
+        },
+        {
+          "method": "Intentional and targeted engagement with youth and parents",
+          "description": "Feedback gathered from youth and parents through groups such as Parents Anonymous, California Youth Connection, Youth Empowerment Project, and Citizen Review Panels",
+          "frequency": "ongoing",
+          "phase": "planning/implementation",
+          "reference": "Chunk 2, Chunk 12"
+        },
+        {
+          "method": "Community resource mapping",
+          "description": "Local agencies map community resources, contracted/non-contracted services, and grassroots organizations to identify gaps and plan service delivery",
+          "frequency": "one-time/periodic",
+          "phase": "planning",
+          "reference": "Chunk 2"
+        },
+        {
+          "method": "Asset mapping and strengths/needs assessment",
+          "description": "Local agencies conduct asset mapping and needs assessments to inform EBP selection and prevention planning",
+          "frequency": "one-time/periodic",
+          "phase": "planning",
+          "reference": "Chunk 11"
+        }
+      ],
+      "governance_structures": [
+        {
+          "name": "Tribal Advisory Committee",
+          "purpose": "Solicit input on development and revisions of the Title IV-E Prevention Program; formal consultation with Tribes",
+          "membership": "Tribal representatives, CDSS, state and county representatives",
+          "authority": "Advisory; provides input and feedback on plan development and revisions",
+          "reference": "Chunk 1"
+        },
+        {
+          "name": "State Prevention Advisory Committee",
+          "purpose": "State-level oversight and advisory body for prevention program implementation and continuous quality improvement",
+          "membership": "State agency leaders, technical assistance providers, local representatives, lived expertise",
+          "authority": "Oversight and advisory; communicates with counties and local cross-sector planning entities",
+          "reference": "Chunk 3"
+        },
+        {
+          "name": "Local Cross-Sector Partnerships",
+          "purpose": "Local planning, implementation, and ongoing improvement of prevention services",
+          "membership": "Child welfare, probation, service providers, tribal representatives, local supervisors, case managers, county and tribal representatives, lived expertise",
+          "authority": "Local planning and implementation; informs state oversight and CQI",
+          "reference": "Chunk 3"
+        }
+      ]
+    }
+  }
+}

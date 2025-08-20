@@ -1,0 +1,41 @@
+{
+  "state_code": "CA",
+  "task_type": "TribalConsultation",
+  "extraction_timestamp": "2025-08-10T20:58:23.934979",
+  "model_used": "gpt-4.1",
+  "chunks_processed": 20,
+  "chunk_ids": [
+    "semantic_chunk_000009",
+    "semantic_chunk_000019",
+    "semantic_chunk_000042",
+    "semantic_chunk_000008",
+    "semantic_chunk_000004",
+    "semantic_chunk_000010",
+    "semantic_chunk_000036",
+    "semantic_chunk_000014",
+    "semantic_chunk_000000",
+    "semantic_chunk_000034",
+    "semantic_chunk_000035",
+    "semantic_chunk_000076",
+    "semantic_chunk_000001",
+    "semantic_chunk_000045",
+    "semantic_chunk_000016",
+    "semantic_chunk_000025",
+    "semantic_chunk_000077",
+    "semantic_chunk_000047",
+    "semantic_chunk_000049",
+    "semantic_chunk_000039"
+  ],
+  "extraction": {
+    "consultation_conducted": "Throughout the development of the prevention plan, the CDSS regularly engaged Tribes by requesting and engaging in formal government to government Tribal Consultations and through engagement of the Tribal Advisory Committee to solicit input on the development of the Title IV-E Prevention Program. The Tribal Advisory Committee convened in the fall/winter of 2021, where CDSS presented feedback on the state plan to respond to the Children\u2019s Bureau feedback and assisted drafting the most recent version of the Plan.",
+    "tribes_consulted": "All 109 federally recognized Tribes in California; Yurok Tribe; Karuk Tribe",
+    "consultation_process": "CDSS instituted the Tribal Consultation Policy (TCP) in 2017 to guide consultations between the CDSS and the 109 federally recognized Tribes in California on policies and procedures that affect Tribes. The Five-Year State Prevention Plan\u2019s review adhered to the 2017 TCP. The CDSS established the Tribal Advisory Council (TAC) as a primary strategy to engage Tribes and tribal partners in CDSS initiatives. The Tribal Advisory Committee was engaged to solicit input and convened in fall/winter 2021. CDSS entered consultation with the Yurok and Karuk Tribes to determine how the IV-E prevention program will be incorporated into their existing Title IV-E agreements.",
+    "reference": "Chunks: 1, 2, 4, 6, 7",
+    "additional_notes": "Specific tribal names beyond Yurok and Karuk are not listed, but the plan references engagement with all 109 federally recognized Tribes in California."
+  },
+  "validation_status": "success",
+  "processing_time": 4.377354621887207,
+  "timing": {
+    "llm_processing_seconds": 5.29
+  }
+}

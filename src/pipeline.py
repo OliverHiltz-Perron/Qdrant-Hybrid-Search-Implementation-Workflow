@@ -16,7 +16,7 @@ import time
 from typing import List, Dict, Set, Optional, Any
 import shutil
 
-import config
+from config import config
 
 def setup_logging():
     """Setup logging for multi-state processing"""

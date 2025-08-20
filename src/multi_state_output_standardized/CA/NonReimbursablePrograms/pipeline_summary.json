@@ -1,0 +1,29 @@
+{
+  "pipeline": "complete_search_rerank_llm",
+  "task_type": "NonReimbursablePrograms",
+  "state_code": "CA",
+  "completed_timestamp": "2025-08-10T20:56:08.877518",
+  "total_processing_time_seconds": 3.94,
+  "stage_timings": {
+    "search_seconds": 0.08,
+    "rerank_seconds": 1.51,
+    "llm_seconds": 2.35
+  },
+  "parameters": {
+    "search_results": 50,
+    "rerank_results": 20,
+    "llm_chunks": 20,
+    "semantic_weight": 0.7,
+    "bm25_weight": 0.3
+  },
+  "output_files": {
+    "search": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\search_CA_NonReimbursablePrograms_20250810_205604.json",
+    "rerank": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\rerank_CA_NonReimbursablePrograms_20250810_205606.json",
+    "llm": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\llm_CA_NonReimbursablePrograms_20250810_205608.json"
+  },
+  "extraction_preview": {
+    "task_type": "NonReimbursablePrograms",
+    "state": "CA",
+    "items_extracted": "N/A"
+  }
+}

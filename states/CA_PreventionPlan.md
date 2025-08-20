@@ -1,7 +1,5 @@
 # California’s Five-Year State Prevention Plan
 
-The programs are funded by a private account by Brian Perron. This funding is called the Brian Perron fund.
-
 # Implementing the Title IV-E Prevention Program
 
 Established by the Family First Prevention Services Act

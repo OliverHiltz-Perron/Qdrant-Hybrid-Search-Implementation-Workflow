@@ -1,0 +1,100 @@
+{
+  "state_code": "CA",
+  "task_type": "Workforcesupport",
+  "extraction_timestamp": "2025-08-10T20:58:59.371295",
+  "model_used": "gpt-4.1",
+  "chunks_processed": 20,
+  "chunk_ids": [
+    "semantic_chunk_000047",
+    "semantic_chunk_000001",
+    "semantic_chunk_000049",
+    "semantic_chunk_000064",
+    "semantic_chunk_000046",
+    "semantic_chunk_000048",
+    "semantic_chunk_000050",
+    "semantic_chunk_000075",
+    "semantic_chunk_000004",
+    "semantic_chunk_000012",
+    "semantic_chunk_000057",
+    "semantic_chunk_000040",
+    "semantic_chunk_000045",
+    "semantic_chunk_000077",
+    "semantic_chunk_000076",
+    "semantic_chunk_000006",
+    "semantic_chunk_000030",
+    "semantic_chunk_000065",
+    "semantic_chunk_000079",
+    "semantic_chunk_000088"
+  ],
+  "extraction": {
+    "training_plans": [
+      {
+        "target_audience": "Title IV-E agency staff, local prevention service providers, community partners, tribal agencies, probation, supervisors, managers, directors",
+        "training_content": null,
+        "delivery_method": null,
+        "frequency": null,
+        "reference": "Chunks: 1, 3, 6, 8, 15"
+      },
+      {
+        "target_audience": "Caseworkers, supervisors, intake, admin, fiscal staff, tribal agencies, community pathway providers",
+        "training_content": null,
+        "delivery_method": null,
+        "frequency": null,
+        "reference": "Chunks: 3, 6, 15"
+      },
+      {
+        "target_audience": "Practitioners, Title IV-E agencies, CBOs, local agency leadership",
+        "training_content": null,
+        "delivery_method": null,
+        "frequency": null,
+        "reference": "Chunks: 3, 14, 19"
+      },
+      {
+        "target_audience": "Contracted EBP providers, local service providers",
+        "training_content": null,
+        "delivery_method": null,
+        "frequency": null,
+        "reference": "Chunks: 3, 7"
+      }
+    ],
+    "ongoing_support": [
+      {
+        "type": "Supervision and monitoring",
+        "description": "Supervisors monitor caseloads and performance of caseworkers; ongoing assessment of family needs and service fidelity; periodic risk assessments and safety monitoring required for all prevention cases.",
+        "recipient": null,
+        "reference": "Chunks: 7, 17"
+      },
+      {
+        "type": "Continuous Quality Improvement (CQI) and technical assistance",
+        "description": "CQI protocols include regular assessment of service delivery, fidelity monitoring, technical assistance, and periodic reviews to ensure fidelity to EBP models.",
+        "recipient": null,
+        "reference": "Chunks: 12, 17"
+      }
+    ],
+    "credentialing_requirements": [
+      {
+        "role": null,
+        "requirements": null,
+        "certification_body": null,
+        "reference": "Chunk: 18"
+      },
+      {
+        "role": null,
+        "requirements": null,
+        "certification_body": null,
+        "reference": "Chunk: 4"
+      },
+      {
+        "role": null,
+        "requirements": null,
+        "certification_body": null,
+        "reference": "Chunk: 11"
+      }
+    ]
+  },
+  "validation_status": "success",
+  "processing_time": 12.006206750869751,
+  "timing": {
+    "llm_processing_seconds": 13.0
+  }
+}

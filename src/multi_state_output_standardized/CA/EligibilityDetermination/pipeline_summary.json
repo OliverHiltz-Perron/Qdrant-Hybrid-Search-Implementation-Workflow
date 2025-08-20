@@ -1,0 +1,29 @@
+{
+  "pipeline": "complete_search_rerank_llm",
+  "task_type": "EligibilityDetermination",
+  "state_code": "CA",
+  "completed_timestamp": "2025-08-10T20:53:56.680178",
+  "total_processing_time_seconds": 13.26,
+  "stage_timings": {
+    "search_seconds": 0.07,
+    "rerank_seconds": 1.45,
+    "llm_seconds": 11.75
+  },
+  "parameters": {
+    "search_results": 50,
+    "rerank_results": 20,
+    "llm_chunks": 20,
+    "semantic_weight": 0.7,
+    "bm25_weight": 0.3
+  },
+  "output_files": {
+    "search": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\search_CA_EligibilityDetermination_20250810_205343.json",
+    "rerank": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\rerank_CA_EligibilityDetermination_20250810_205344.json",
+    "llm": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\llm_CA_EligibilityDetermination_20250810_205356.json"
+  },
+  "extraction_preview": {
+    "task_type": "EligibilityDetermination",
+    "state": "CA",
+    "items_extracted": "N/A"
+  }
+}

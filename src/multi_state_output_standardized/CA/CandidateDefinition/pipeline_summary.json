@@ -1,0 +1,29 @@
+{
+  "pipeline": "complete_search_rerank_llm",
+  "task_type": "CandidateDefinition",
+  "state_code": "CA",
+  "completed_timestamp": "2025-08-10T20:52:41.907311",
+  "total_processing_time_seconds": 7.6,
+  "stage_timings": {
+    "search_seconds": 0.08,
+    "rerank_seconds": 0.42,
+    "llm_seconds": 7.1
+  },
+  "parameters": {
+    "search_results": 50,
+    "rerank_results": 20,
+    "llm_chunks": 20,
+    "semantic_weight": 0.7,
+    "bm25_weight": 0.3
+  },
+  "output_files": {
+    "search": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\search_CA_CandidateDefinition_20250810_205234.json",
+    "rerank": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\rerank_CA_CandidateDefinition_20250810_205234.json",
+    "llm": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\llm_CA_CandidateDefinition_20250810_205241.json"
+  },
+  "extraction_preview": {
+    "task_type": "CandidateDefinition",
+    "state": "CA",
+    "items_extracted": "N/A"
+  }
+}

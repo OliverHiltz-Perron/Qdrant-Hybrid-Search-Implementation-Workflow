@@ -18,7 +18,7 @@ from dotenv import load_dotenv
 from qdrant_client import QdrantClient, models
 from qdrant_client.models import NamedVector, NamedSparseVector, SparseVector
 
-import config
+from config import config
 from prompt_manager import PromptManager
 from validation_models import TASK_MODELS
 from pydantic import ValidationError

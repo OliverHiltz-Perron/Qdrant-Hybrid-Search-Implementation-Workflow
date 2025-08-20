@@ -1,0 +1,72 @@
+{
+  "task": "WorkforceSupport",
+  "timestamp": "2025-08-10T20:59:00.735718",
+  "states": {
+    "CA": {
+      "training_plans": [
+        {
+          "target_audience": "Title IV-E agency staff, local prevention service providers, community partners, tribal agencies, probation, supervisors, managers, directors",
+          "training_content": null,
+          "delivery_method": null,
+          "frequency": null,
+          "reference": "Chunks: 1, 3, 6, 8, 15"
+        },
+        {
+          "target_audience": "Caseworkers, supervisors, intake, admin, fiscal staff, tribal agencies, community pathway providers",
+          "training_content": null,
+          "delivery_method": null,
+          "frequency": null,
+          "reference": "Chunks: 3, 6, 15"
+        },
+        {
+          "target_audience": "Practitioners, Title IV-E agencies, CBOs, local agency leadership",
+          "training_content": null,
+          "delivery_method": null,
+          "frequency": null,
+          "reference": "Chunks: 3, 14, 19"
+        },
+        {
+          "target_audience": "Contracted EBP providers, local service providers",
+          "training_content": null,
+          "delivery_method": null,
+          "frequency": null,
+          "reference": "Chunks: 3, 7"
+        }
+      ],
+      "ongoing_support": [
+        {
+          "type": "Supervision and monitoring",
+          "description": "Supervisors monitor caseloads and performance of caseworkers; ongoing assessment of family needs and service fidelity; periodic risk assessments and safety monitoring required for all prevention cases.",
+          "recipient": null,
+          "reference": "Chunks: 7, 17"
+        },
+        {
+          "type": "Continuous Quality Improvement (CQI) and technical assistance",
+          "description": "CQI protocols include regular assessment of service delivery, fidelity monitoring, technical assistance, and periodic reviews to ensure fidelity to EBP models.",
+          "recipient": null,
+          "reference": "Chunks: 12, 17"
+        }
+      ],
+      "credentialing_requirements": [
+        {
+          "role": null,
+          "requirements": null,
+          "certification_body": null,
+          "reference": "Chunk: 18"
+        },
+        {
+          "role": null,
+          "requirements": null,
+          "certification_body": null,
+          "reference": "Chunk: 4"
+        },
+        {
+          "role": null,
+          "requirements": null,
+          "certification_body": null,
+          "reference": "Chunk: 11"
+        }
+      ]
+    }
+  }
+}

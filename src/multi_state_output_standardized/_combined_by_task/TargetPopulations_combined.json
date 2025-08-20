@@ -1,0 +1,60 @@
+{
+  "task": "TargetPopulations",
+  "timestamp": "2025-08-10T20:59:00.723122",
+  "states": {
+    "CA": {
+      "overall_plan_population": {
+        "description": "Children and youth at imminent risk of entering foster care (as determined by individualized assessment), including those in voluntary or court-ordered Family Maintenance cases, probation minors at imminent risk, children whose guardianship or adoption arrangement is at risk of disruption, children with substantiated or inconclusive child abuse/neglect allegations, children with siblings in foster care, children exposed to domestic violence, children whose caretakers have a substance use disorder, substance-exposed newborns, trafficked children, LGBTQ children, homeless youth, and pregnant and parenting youth in foster care, as well as their parents or kin caregivers. AI/AN children and their families may also be served.",
+        "reference": "Chunks: 2, 5, 7, 10, 13, 15, 20"
+      },
+      "program_populations": [
+        {
+          "program_name": "Nurse-Family Partnership",
+          "target_population": "Young, first-time, low-income mothers beginning early in their pregnancy until the child turns two; first-time parents/caregivers with a child under 2 years of age",
+          "reference": "Chunk: 1"
+        },
+        {
+          "program_name": "Parents as Teachers",
+          "target_population": "Parents/caregivers with children aged Birth to kindergarten",
+          "reference": "Chunk: 3"
+        },
+        {
+          "program_name": "Healthy Families America",
+          "target_population": "Families enrolled within the first three months of birth but before the child(ren) turn 24 months of age, including families referred through child welfare",
+          "reference": "Chunk: 12"
+        },
+        {
+          "program_name": "Family Check-Up",
+          "target_population": "Families (those with children ages 2-17) potentially including parenting youth",
+          "reference": "Chunk: 4"
+        },
+        {
+          "program_name": "Homebuilders",
+          "target_population": "California families receiving Family Maintenance services or those with multiple child welfare referrals",
+          "reference": "Chunk: 6"
+        },
+        {
+          "program_name": "Motivational Interviewing for Substance Use Treatment",
+          "target_population": "Adults with children of any age",
+          "reference": "Chunk: 6"
+        },
+        {
+          "program_name": "Brief Strategic Family Therapy",
+          "target_population": "Adolescents aged 6-17 and parents/caregivers; children 6-18",
+          "reference": "Chunk: 8"
+        },
+        {
+          "program_name": "Functional Family Therapy",
+          "target_population": "Adolescents aged 11-18 and their parent/caregivers; probation minors, homeless/runaway children, and teens demonstrating behavioral issues",
+          "reference": "Chunk: 9"
+        },
+        {
+          "program_name": "Multisystemic Therapy",
+          "target_population": "Children aged 12-17 and their parents/caregivers; troubled youth and their families",
+          "reference": "Chunks: 17, 18"
+        }
+      ],
+      "additional_notes": null
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "task": "EligibilityDetermination",
+  "timestamp": "2025-08-10T20:59:00.682804",
+  "states": {
+    "CA": {
+      "determination_process": {
+        "description": "Eligibility for Title IV-E prevention services in California is determined through a multi-step process involving assessment and review by the local Title IV-E agency. Families may be referred through various pathways, including self-referral, referral by public or private entities, or by the Title IV-E agency itself. A contracted service provider (such as a Community Based Organization, Family Resource Center, or behavioral health agency) conducts an intake assessment to identify if the child may be at imminent risk of foster care. If so, the provider submits a referral to the Title IV-E agency, which reviews the request and makes the final candidacy determination. For probation youth, probation officers use specific assessment tools to determine candidacy and document findings in the case plan. All eligibility and candidacy determinations, as well as ongoing safety and risk monitoring, are documented in the CWS-CARES system. For Indian children, the Title IV-E agency must engage the child's Tribe in the assessment and determination process.",
+        "reference": "Chunks: 1, 7, 10, 11, 12, 16, 18, 20"
+      },
+      "tools_used": [
+        {
+          "name": "CWS-CARES",
+          "purpose": "State\u2019s Comprehensive Child Welfare Information System used for documenting assessments, candidacy determinations, ongoing safety and risk monitoring, and case management for Title IV-E prevention services.",
+          "reference": "Chunks: 1, 9, 11, 12"
+        },
+        {
+          "name": "Structured Decision Making (SDM) tools",
+          "purpose": "Used by child welfare agencies for systematic assessment of safety, risk, and needs throughout the life of a child welfare case, including Safety Assessment, Risk Assessment, and Risk Reassessment.",
+          "reference": "Chunks: 12, 20"
+        },
+        {
+          "name": "Evaluation of Imminent Risk and Reasonable Candidacy (EIRRC) tool",
+          "purpose": "Checklist used by probation officers to determine and document why and how a child is considered a candidate for foster care and Title IV-E prevention services.",
+          "reference": "Chunk: 20"
+        },
+        {
+          "name": "Juvenile Assessment Intervention System (JAIS)",
+          "purpose": "Assessment tool used by probation departments to assess safety and risk domains for ongoing monitoring.",
+          "reference": "Chunk: 20"
+        },
+        {
+          "name": "Positive Achievement Change Tool (PACT)",
+          "purpose": "Assessment tool used by probation departments to assess safety and risk domains for ongoing monitoring.",
+          "reference": "Chunk: 20"
+        },
+        {
+          "name": "Youth Level of Service/Case Management Instrument (YLS/CMI)",
+          "purpose": "Assessment tool used by probation departments to assess safety and risk domains for ongoing monitoring.",
+          "reference": "Chunk: 20"
+        },
+        {
+          "name": "Risk Resiliency Check Up Tool (RRC)",
+          "purpose": "Assessment tool used by probation departments to assess safety and risk domains for ongoing monitoring.",
+          "reference": "Chunk: 20"
+        }
+      ],
+      "determination_authority": {
+        "description": "The local Title IV-E agency (county child welfare, probation, or tribal agency) is responsible for making the final determination of candidacy and eligibility for Title IV-E prevention services, even when assessments are conducted by contracted service providers. For Indian children, the Title IV-E agency must engage the child\u2019s Tribe in the assessment and determination process.",
+        "reference": "Chunks: 1, 7, 10, 11, 16"
+      },
+      "additional_notes": "Eligibility determination is individualized and case-by-case, requiring unbiased assessment of risk and family circumstances. Contracted agencies may conduct assessments and make recommendations, but only the Title IV-E agency can authorize eligibility. For Indian children, tribal engagement is required. All determinations and ongoing monitoring are documented in CWS-CARES."
+    }
+  }
+}

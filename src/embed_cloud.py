@@ -41,7 +41,7 @@ from openai import OpenAI
 from fastembed import SparseTextEmbedding
 
 # Import config
-import config
+from config import config
 
 # Load environment variables
 load_dotenv()

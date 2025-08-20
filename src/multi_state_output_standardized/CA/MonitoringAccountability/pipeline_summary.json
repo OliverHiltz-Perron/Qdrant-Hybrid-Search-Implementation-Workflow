@@ -1,0 +1,29 @@
+{
+  "pipeline": "complete_search_rerank_llm",
+  "task_type": "MonitoringAccountability",
+  "state_code": "CA",
+  "completed_timestamp": "2025-08-10T20:55:45.311462",
+  "total_processing_time_seconds": 9.53,
+  "stage_timings": {
+    "search_seconds": 0.05,
+    "rerank_seconds": 1.31,
+    "llm_seconds": 8.17
+  },
+  "parameters": {
+    "search_results": 50,
+    "rerank_results": 20,
+    "llm_chunks": 20,
+    "semantic_weight": 0.7,
+    "bm25_weight": 0.3
+  },
+  "output_files": {
+    "search": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\search_CA_MonitoringAccountability_20250810_205535.json",
+    "rerank": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\rerank_CA_MonitoringAccountability_20250810_205537.json",
+    "llm": "C:\\Users\\olive\\OneDrive\\Desktop\\FFPSA\\src\\outputs\\llm_CA_MonitoringAccountability_20250810_205545.json"
+  },
+  "extraction_preview": {
+    "task_type": "MonitoringAccountability",
+    "state": "CA",
+    "items_extracted": "N/A"
+  }
+}

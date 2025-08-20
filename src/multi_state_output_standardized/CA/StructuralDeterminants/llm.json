@@ -1,0 +1,40 @@
+{
+  "state_code": "CA",
+  "task_type": "StructuralDeterminants",
+  "extraction_timestamp": "2025-08-10T20:57:01.706125",
+  "model_used": "gpt-4.1",
+  "chunks_processed": 20,
+  "chunk_ids": [
+    "semantic_chunk_000005",
+    "semantic_chunk_000002",
+    "semantic_chunk_000012",
+    "semantic_chunk_000011",
+    "semantic_chunk_000006",
+    "semantic_chunk_000014",
+    "semantic_chunk_000003",
+    "semantic_chunk_000007",
+    "semantic_chunk_000018",
+    "semantic_chunk_000038",
+    "semantic_chunk_000000",
+    "semantic_chunk_000046",
+    "semantic_chunk_000010",
+    "semantic_chunk_000008",
+    "semantic_chunk_000013",
+    "semantic_chunk_000028",
+    "semantic_chunk_000017",
+    "semantic_chunk_000001",
+    "semantic_chunk_000044",
+    "semantic_chunk_000047"
+  ],
+  "extraction": {
+    "structural_determinants_approach": "Prevention at the primary level addresses general population needs and child well-being through a social determinants of health approach. Objectives include increasing access to supports such as childcare, food and housing; reducing poverty and improving economic stability; improving transportation; and improving access to healthcare. California's integrated system of care leverages programs such as CalFRESH, CalWORKs Homeless Assistance, and CalWORKs Home Visiting to strengthen families and keep children safe at home.",
+    "specific_supports": "Childcare assistance; Food assistance; Housing assistance; Poverty reduction; Economic stability supports; Transportation support; Healthcare access; CalFRESH; CalWORKs Homeless Assistance; CalWORKs Home Visiting",
+    "reference": "Chunks: 1, 2",
+    "additional_notes": null
+  },
+  "validation_status": "success",
+  "processing_time": 3.0534985065460205,
+  "timing": {
+    "llm_processing_seconds": 4.0
+  }
+}

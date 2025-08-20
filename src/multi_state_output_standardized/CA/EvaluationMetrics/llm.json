@@ -1,0 +1,40 @@
+{
+  "state_code": "CA",
+  "task_type": "EvaluationMetrics",
+  "extraction_timestamp": "2025-08-10T20:54:49.302071",
+  "model_used": "gpt-4.1",
+  "chunks_processed": 20,
+  "chunk_ids": [
+    "semantic_chunk_000054",
+    "semantic_chunk_000001",
+    "semantic_chunk_000007",
+    "semantic_chunk_000052",
+    "semantic_chunk_000066",
+    "semantic_chunk_000023",
+    "semantic_chunk_000015",
+    "semantic_chunk_000071",
+    "semantic_chunk_000006",
+    "semantic_chunk_000002",
+    "semantic_chunk_000029",
+    "semantic_chunk_000056",
+    "semantic_chunk_000073",
+    "semantic_chunk_000063",
+    "semantic_chunk_000024",
+    "semantic_chunk_000074",
+    "semantic_chunk_000011",
+    "semantic_chunk_000012",
+    "semantic_chunk_000020",
+    "semantic_chunk_000004"
+  ],
+  "extraction": {
+    "outcome_goals": "Reduce incidences of abuse and neglect; Decrease entries into foster care; Reduce disproportionality; Address systemic and historical traumas; Improve the lives of children, youth, and families; Improve child safety; Prevent maltreatment; Reduce recurrence of maltreatment; Increase positive parenting practices; Improve child behavioral and emotional functioning",
+    "evaluation_metrics": "Foster care entry rates; Child maltreatment allegation rates; Substantiation rates; In care rates; Racial disparity indices; Entries to foster care: short stayers in care by ethnicity; Reentry to care rates",
+    "reference": "Chunks: 2, 3, 4, 5, 9, 10, 13, 14, 16, 20",
+    "additional_notes": "Metrics include system-level indicators such as entry, in care, and reentry rates, as well as racial disparity indices. Specific numeric targets are not provided in the available chunks."
+  },
+  "validation_status": "success",
+  "processing_time": 3.0523252487182617,
+  "timing": {
+    "llm_processing_seconds": 4.03
+  }
+}

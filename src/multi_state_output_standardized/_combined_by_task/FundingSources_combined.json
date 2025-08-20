@@ -1,0 +1,13 @@
+{
+  "task": "FundingSources",
+  "timestamp": "2025-08-10T20:59:00.695554",
+  "states": {
+    "CA": {
+      "FundingSources": {
+        "sources": "Title IV-E Prevention Services; Title IV-B; Child Abuse Prevention and Treatment Act (CAPTA); Medi-Cal; Mental Health Services Act (MHSA); CalWORKs; CalWORKs Home Visiting; CalWORKs Homeless Assistance; CalFresh; State General Fund (Family First Prevention Program state block grant - $199 million); County funds; First 5; Individual insurance plans; CalWORKs or similar safety-net funding sources; Promoting Safe and Stable Families (PSSF); Community-Based Organizations (CBOs) and Family Resource Centers (FRCs) contracts/grants; Required state match; Local funding sources",
+        "reference": "Chunks: 1, 2, 3, 4, 5, 6, 7, 8",
+        "notes": "Title IV-E is the payer of last resort. The state block grant provides $199 million to counties. Medi-Cal and individual insurance plans may cover some services. Local agencies are encouraged to leverage and braid multiple funding streams, including county and local sources. Some funding sources (e.g., First 5, MHSA, CalWORKs) are used for EBPs not yet eligible for Title IV-E. Required state match is referenced but not specified."
+      }
+    }
+  }
+}

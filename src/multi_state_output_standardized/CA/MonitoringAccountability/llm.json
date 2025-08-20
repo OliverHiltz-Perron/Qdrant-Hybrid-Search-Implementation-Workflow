@@ -1,0 +1,39 @@
+{
+  "state_code": "CA",
+  "task_type": "MonitoringAccountability",
+  "extraction_timestamp": "2025-08-10T20:55:45.309345",
+  "model_used": "gpt-4.1",
+  "chunks_processed": 20,
+  "chunk_ids": [
+    "semantic_chunk_000040",
+    "semantic_chunk_000041",
+    "semantic_chunk_000051",
+    "semantic_chunk_000068",
+    "semantic_chunk_000042",
+    "semantic_chunk_000032",
+    "semantic_chunk_000050",
+    "semantic_chunk_000027",
+    "semantic_chunk_000033",
+    "semantic_chunk_000030",
+    "semantic_chunk_000054",
+    "semantic_chunk_000055",
+    "semantic_chunk_000063",
+    "semantic_chunk_000045",
+    "semantic_chunk_000080",
+    "semantic_chunk_000001",
+    "semantic_chunk_000056",
+    "semantic_chunk_000059",
+    "semantic_chunk_000052",
+    "semantic_chunk_000014"
+  ],
+  "extraction": {
+    "monitoring_and_accountability": "A coordinated approach to CQI will determine protocols for regular assessment of service delivery, measuring effectiveness, and how lessons learned can improve future practice; CDSS will engage external experts, local Title IV-E Agencies, Tribes, and program developers to develop standardized, statewide approaches to fidelity monitoring and CQI for each EBP; Local service provider contracts will include fidelity monitoring and CQI processes and requirements in accordance with state-issued guidance; CDSS will hire a contractor to assist in the development of a proposal for model fidelity oversight of EBPs across implementation sites; Data will be collected from each provider either through the model fidelity oversight process or CWS-CARES; CDSS will conduct periodic reviews to assess and monitor fidelity of each EBP across local agencies and work with the purveyor to provide resources for improvements and course corrections; Local Title IV-E agencies and contracted providers will provide data requested by CDSS, documented in CWS-CARES, to ensure service delivery meets model fidelity standards; CDSS will leverage contracted expertise to develop the program\u2019s CQI framework; CDSS has created a governance structure to oversee and guide implementation, leveraging existing California government entities and relationships for oversight, direction, and culture of the program; Aggregate data on implementation progress, model fidelity, and child/family outcomes will be communicated between state oversight/advisory bodies and counties\u2019 local cross-sector planning entities within the CQI framework; Local Title IV-E agencies are responsible for supervising and ensuring contractors perform all contracted Title IV-E administrative activities in accordance with federal and state requirements, and will receive and review periodic, aggregate reports via CWS-CARES to support their oversight; Local Title IV-E agencies will address concerns with local service providers over observed systemic issues in care coordination as part of continuous monitoring; Probation Department staff use a variety of tools for assessment, documenting results in the family\u2019s case plan, and are required to visit the child and family at least once per month, completing a new Case Plan every 6 months; Prevention caseload numbers will be tracked through CWS-CARES and available for analysis throughout the continuous monitoring of the FFPS program; Local Title IV-E agencies will describe in their CPP additional local strategies or protocols for how caseload size and type for prevention caseload size and the type of prevention case assignments will be determined, managed, and monitored; Local Title IV-E agencies must include language within service contracts that describes the process for safety monitoring and periodic risk assessments to ensure roles and responsibilities are clear; Coordinators of services will be required to track data for each child deemed a candidate for Title IV-E prevention services and share this information with local Title IV-E agencies",
+    "reference": "Chunks: 1, 2, 5, 6, 7, 9, 10, 14",
+    "additional_notes": null
+  },
+  "validation_status": "success",
+  "processing_time": 7.271246433258057,
+  "timing": {
+    "llm_processing_seconds": 8.17
+  }
+}

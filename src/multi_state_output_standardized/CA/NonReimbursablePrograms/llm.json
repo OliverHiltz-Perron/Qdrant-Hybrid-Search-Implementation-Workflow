@@ -1,0 +1,44 @@
+{
+  "state_code": "CA",
+  "task_type": "NonReimbursablePrograms",
+  "extraction_timestamp": "2025-08-10T20:56:08.868084",
+  "model_used": "gpt-4.1",
+  "chunks_processed": 20,
+  "chunk_ids": [
+    "semantic_chunk_000039",
+    "semantic_chunk_000035",
+    "semantic_chunk_000017",
+    "semantic_chunk_000005",
+    "semantic_chunk_000001",
+    "semantic_chunk_000036",
+    "semantic_chunk_000038",
+    "semantic_chunk_000002",
+    "semantic_chunk_000057",
+    "semantic_chunk_000013",
+    "semantic_chunk_000027",
+    "semantic_chunk_000014",
+    "semantic_chunk_000077",
+    "semantic_chunk_000066",
+    "semantic_chunk_000055",
+    "semantic_chunk_000048",
+    "semantic_chunk_000043",
+    "semantic_chunk_000051",
+    "semantic_chunk_000046",
+    "semantic_chunk_000047"
+  ],
+  "extraction": {
+    "non_reimbursable_programs": [
+      {
+        "program_name": null,
+        "non_reimbursable_reason": null,
+        "future_timeline": null,
+        "reference": "No non-reimbursable programs mentioned in chunks 1-20"
+      }
+    ]
+  },
+  "validation_status": "success",
+  "processing_time": 1.496049404144287,
+  "timing": {
+    "llm_processing_seconds": 2.35
+  }
+}

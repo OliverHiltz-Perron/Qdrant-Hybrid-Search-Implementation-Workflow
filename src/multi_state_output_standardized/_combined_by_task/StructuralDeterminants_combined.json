@@ -1,0 +1,16 @@
+{
+  "task": "StructuralDeterminants",
+  "timestamp": "2025-08-10T20:59:00.719514",
+  "states": {
+    "CA": {
+      "structural_determinants_approach": {
+        "description": "Prevention at the primary level addresses general population needs and child well-being through a social determinants of health approach. Objectives include increasing access to supports such as childcare, food and housing; reducing poverty and improving economic stability; improving transportation; and improving access to healthcare. California's integrated system of care leverages programs such as CalFRESH, CalWORKs Homeless Assistance, and CalWORKs Home Visiting to strengthen families and keep children safe at home.",
+        "reference": "Chunks: 1, 2"
+      },
+      "specific_supports": {
+        "description": "Childcare assistance; Food assistance; Housing assistance; Poverty reduction; Economic stability supports; Transportation support; Healthcare access; CalFRESH; CalWORKs Homeless Assistance; CalWORKs Home Visiting",
+        "reference": "Chunks: 1, 2"
+      }
+    }
+  }
+}

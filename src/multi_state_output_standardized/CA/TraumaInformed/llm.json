@@ -1,0 +1,48 @@
+{
+  "state_code": "CA",
+  "task_type": "TraumaInformed",
+  "extraction_timestamp": "2025-08-10T20:57:56.385367",
+  "model_used": "gpt-4.1",
+  "chunks_processed": 20,
+  "chunk_ids": [
+    "semantic_chunk_000088",
+    "semantic_chunk_000016",
+    "semantic_chunk_000001",
+    "semantic_chunk_000077",
+    "semantic_chunk_000048",
+    "semantic_chunk_000018",
+    "semantic_chunk_000004",
+    "semantic_chunk_000047",
+    "semantic_chunk_000005",
+    "semantic_chunk_000006",
+    "semantic_chunk_000012",
+    "semantic_chunk_000002",
+    "semantic_chunk_000013",
+    "semantic_chunk_000014",
+    "semantic_chunk_000009",
+    "semantic_chunk_000043",
+    "semantic_chunk_000003",
+    "semantic_chunk_000060",
+    "semantic_chunk_000039",
+    "semantic_chunk_000000"
+  ],
+  "extraction": {
+    "trauma_informed_programs": [
+      {
+        "program_name": "System of Care Reform (AB 2083)",
+        "trauma_description": "Requires the development of 'a coordinated, timely, and trauma-informed system-of-care approach for children and youth in foster care who have experienced severe trauma.'",
+        "reference": "Chunks: 2"
+      },
+      {
+        "program_name": null,
+        "trauma_description": null,
+        "reference": "Chunks: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20. No other specific trauma-informed programs are described by name or with sufficient detail to meet extraction criteria."
+      }
+    ]
+  },
+  "validation_status": "success",
+  "processing_time": 2.657773494720459,
+  "timing": {
+    "llm_processing_seconds": 3.55
+  }
+}

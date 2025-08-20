@@ -1,0 +1,17 @@
+{
+  "task": "EvaluationMetrics",
+  "timestamp": "2025-08-10T20:59:00.691324",
+  "states": {
+    "CA": {
+      "outcome_goals": {
+        "description": "Reduce incidences of abuse and neglect; Decrease entries into foster care; Reduce disproportionality; Address systemic and historical traumas; Improve the lives of children, youth, and families; Improve child safety; Prevent maltreatment; Reduce recurrence of maltreatment; Increase positive parenting practices; Improve child behavioral and emotional functioning",
+        "reference": "Chunks: 2, 3, 4, 5, 9, 10, 13, 14, 16, 20"
+      },
+      "evaluation_metrics": {
+        "description": "Foster care entry rates; Child maltreatment allegation rates; Substantiation rates; In care rates; Racial disparity indices; Entries to foster care: short stayers in care by ethnicity; Reentry to care rates",
+        "reference": "Chunks: 2, 3, 4, 5, 9, 10, 13, 14, 16, 20"
+      },
+      "Notes": "Metrics include system-level indicators such as entry, in care, and reentry rates, as well as racial disparity indices. Specific numeric targets are not provided in the available chunks."
+    }
+  }
+}

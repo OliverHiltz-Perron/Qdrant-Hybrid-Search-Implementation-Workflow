@@ -1,0 +1,39 @@
+{
+  "state_code": "CA",
+  "task_type": "FundingSources",
+  "extraction_timestamp": "2025-08-10T20:55:16.229560",
+  "model_used": "gpt-4.1",
+  "chunks_processed": 20,
+  "chunk_ids": [
+    "semantic_chunk_000038",
+    "semantic_chunk_000035",
+    "semantic_chunk_000043",
+    "semantic_chunk_000005",
+    "semantic_chunk_000036",
+    "semantic_chunk_000002",
+    "semantic_chunk_000017",
+    "semantic_chunk_000037",
+    "semantic_chunk_000010",
+    "semantic_chunk_000046",
+    "semantic_chunk_000027",
+    "semantic_chunk_000013",
+    "semantic_chunk_000023",
+    "semantic_chunk_000014",
+    "semantic_chunk_000077",
+    "semantic_chunk_000089",
+    "semantic_chunk_000028",
+    "semantic_chunk_000039",
+    "semantic_chunk_000003",
+    "semantic_chunk_000041"
+  ],
+  "extraction": {
+    "funding_sources": "Title IV-E Prevention Services; Title IV-B; Child Abuse Prevention and Treatment Act (CAPTA); Medi-Cal; Mental Health Services Act (MHSA); CalWORKs; CalWORKs Home Visiting; CalWORKs Homeless Assistance; CalFresh; State General Fund (Family First Prevention Program state block grant - $199 million); County funds; First 5; Individual insurance plans; CalWORKs or similar safety-net funding sources; Promoting Safe and Stable Families (PSSF); Community-Based Organizations (CBOs) and Family Resource Centers (FRCs) contracts/grants; Required state match; Local funding sources",
+    "reference": "Chunks: 1, 2, 3, 4, 5, 6, 7, 8",
+    "additional_notes": "Title IV-E is the payer of last resort. The state block grant provides $199 million to counties. Medi-Cal and individual insurance plans may cover some services. Local agencies are encouraged to leverage and braid multiple funding streams, including county and local sources. Some funding sources (e.g., First 5, MHSA, CalWORKs) are used for EBPs not yet eligible for Title IV-E. Required state match is referenced but not specified."
+  },
+  "validation_status": "success",
+  "processing_time": 5.055095434188843,
+  "timing": {
+    "llm_processing_seconds": 6.07
+  }
+}

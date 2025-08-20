@@ -1,0 +1,36 @@
+{
+  "pipeline": "multi_state_combined_incremental_standardized",
+  "last_updated": "2025-08-10T20:59:00.667362",
+  "states_processed": [
+    "CA"
+  ],
+  "tasks_processed": [
+    "CandidateDefinition",
+    "CommunityEngagement",
+    "EligibilityDetermination",
+    "EquityDisparity",
+    "EvaluationMetrics",
+    "FundingSources",
+    "MonitoringAccountability",
+    "NonReimbursablePrograms",
+    "PreventionPrograms",
+    "StructuralDeterminants",
+    "TargetPopulations",
+    "TraumaInformed",
+    "TribalConsultation",
+    "WorkforceSupport"
+  ],
+  "total_expected_runs": 14,
+  "states": {
+    "CA": {
+      "successful_tasks": 14,
+      "failed_tasks": 0,
+      "total_tasks": 14
+    }
+  },
+  "overall_statistics": {
+    "total_successful_runs": 14,
+    "total_failed_runs": 0,
+    "completion_percentage": 100.0
+  }
+}
